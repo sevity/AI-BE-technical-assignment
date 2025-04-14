@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "searchright-technical-assignment"
+version = "0.1.0"
+description = ""
+authors = ["Nuung <qlgks1@naver.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

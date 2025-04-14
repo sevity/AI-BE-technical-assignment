@@ -1,0 +1,33 @@
+services:
+
+  # 웹서버, nginx
+  nginx:
+    image: nginx:alpine
+    hostname: searchright-nginx
+    container_name: searchright-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./logs/nginx:/var/log/nginx
+    environment:
+      TZ: Asia/Seoul
+    depends_on:
+      - postgres
+
+  # pgvector가 포함된 PostgreSQL 이미지
+  postgres:
+    image: ankane/pgvector:latest
+    hostname: searchright-psql
+    container_name: searchright-psql
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    volumes:
+      - ./postgresql/data/:/var/lib/postgresql/data

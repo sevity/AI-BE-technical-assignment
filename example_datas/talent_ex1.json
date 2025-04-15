@@ -1,0 +1,108 @@
+{
+    "skills": [
+        "Java",
+        "Python",
+        "Spring",
+        "Backend Development",
+        "AI",
+        "Machine Learning",
+        "Kubernetes",
+        "MSA",
+        "System Architecture",
+        "Team Leadership"
+    ],
+    "summary": "Backend Engineer & AI Team Lead",
+    "website": [],
+    "headline": "Tech Lead at Naver AI",
+    "lastName": "JunHo",
+    "photoUrl": "",
+    "projects": [],
+    "firstName": "Sample",
+    "positions": [
+        {
+            "title": "Tech Lead - Clova X",
+            "companyLogo": "",
+            "companyName": "네이버",
+            "description": "네이버 AI 팀에서 클로바X 개발 리드\n대규모 한국어 LLM 모델 개발 및 서비스 아키텍처 설계\n네이버 클로바 솔루션 개발 총괄\n대용량 데이터 처리 파이프라인 구축 및 모델 서빙 아키텍처 설계",
+            "startEndDate": {
+                "start": {
+                    "year": 2021,
+                    "month": 4
+                }
+            },
+            "companyLocation": "대한민국 경기도 성남시"
+        },
+        {
+            "title": "Tech Lead",
+            "companyLogo": "",
+            "companyName": "네이버",
+            "description": "네이버 검색 서비스 백엔드 아키텍처 설계 및 개발\n대용량 트래픽 처리를 위한 MSA 기반 시스템 설계\n백엔드 개발팀 리드 - 팀원 15명\n글로벌 서비스 확장을 위한 인프라 설계 및 구축",
+            "startEndDate": {
+                "end": {
+                    "year": 2021,
+                    "month": 4
+                },
+                "start": {
+                    "year": 2019,
+                    "month": 2
+                }
+            },
+            "companyLocation": "대한민국 경기도 성남시"
+        },
+        {
+            "title": "Backend Chapter Lead",
+            "companyLogo": "",
+            "companyName": "토스",
+            "description": "백엔드 개발팀 리딩 - 팀원 12명\n결제 및 송금 시스템 설계 및 개발\n대규모 트랜잭션 처리를 위한 시스템 아키텍처 설계\nMSA 기반 서비스 구조 설계 및 구현\n쿠버네티스 기반 인프라 구축",
+            "startEndDate": {
+                "end": {
+                    "year": 2019,
+                    "month": 1
+                },
+                "start": {
+                    "year": 2017,
+                    "month": 6
+                }
+            },
+            "companyLocation": "대한민국 서울 강남구"
+        },
+        {
+            "title": "Backend Engineer",
+            "companyLogo": "",
+            "companyName": "토스",
+            "description": "금융 API 서비스 개발\n송금 및 결제 시스템 백엔드 개발\n실시간 트랜잭션 처리 시스템 구현\n보안 인증 시스템 개발",
+            "startEndDate": {
+                "end": {
+                    "year": 2017,
+                    "month": 6
+                },
+                "start": {
+                    "year": 2016,
+                    "month": 1
+                }
+            },
+            "companyLocation": "대한민국 서울 강남구"
+        }
+    ],
+    "educations": [
+        {
+            "grade": "",
+            "degreeName": "학사",
+            "schoolName": "연세대학교",
+            "description": "",
+            "fieldOfStudy": "컴퓨터 공학",
+            "startEndDate": "2010 - 2015",
+            "originStartEndDate": {
+                "endDateOn": {
+                    "year": 2015
+                },
+                "startDateOn": {
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "linkedinUrl": "https://www.linkedin.com/in/sample1",
+    "industryName": "정보 기술 및 서비스",
+    "recommendations": []
+}

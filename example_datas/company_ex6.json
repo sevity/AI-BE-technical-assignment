@@ -1,0 +1,1231 @@
+{
+    "mau": {
+        "list": [
+            {
+                "data": [
+                    {
+                        "value": 4631928,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 4250025,
+                        "growthRate": -8.2,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 4213974,
+                        "growthRate": -0.8,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 4072489,
+                        "growthRate": -3.4,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 4084283,
+                        "growthRate": 0.3,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 3876143,
+                        "growthRate": -5.1,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 3680988,
+                        "growthRate": -5.0,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 3579702,
+                        "growthRate": -2.8,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 3726171,
+                        "growthRate": 4.1,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 3825225,
+                        "growthRate": 2.7,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 3775808,
+                        "growthRate": -1.3,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 3559485,
+                        "growthRate": -5.7,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 3762399,
+                        "growthRate": 5.7,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 3725144,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 3949977,
+                        "growthRate": 6.0,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 3912788,
+                        "growthRate": -0.9,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 4100319,
+                        "growthRate": 4.8,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 3771910,
+                        "growthRate": -8.0,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 3546899,
+                        "growthRate": -6.0,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 3415666,
+                        "growthRate": -3.7,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 3901498,
+                        "growthRate": 14.2,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 4340557,
+                        "growthRate": 11.3,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 4121942,
+                        "growthRate": -5.0,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 3700490,
+                        "growthRate": -10.2,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 3751960,
+                        "growthRate": 1.4,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 3433539,
+                        "growthRate": -8.5,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 3463751,
+                        "growthRate": 0.9,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 3640975,
+                        "growthRate": 5.1,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 3805438,
+                        "growthRate": 4.5,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 3823444,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 3529211,
+                        "growthRate": -7.7,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 3395861,
+                        "growthRate": -3.8,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 3469077,
+                        "growthRate": 2.2,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 3581676,
+                        "growthRate": 3.2,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 3181174,
+                        "growthRate": -11.2,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00005864"
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "finance": {
+        "data": [
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2021,
+                "profit": 237747881000,
+                "capital": 9936900000,
+                "netProfit": -21225715000,
+                "liabilities": 271888662000,
+                "totalAssets": 300023549000,
+                "totalCapital": 28134887000,
+                "operatingProfit": -88148117000
+            },
+            {
+                "type": "CONSOLIDATED_NICE",
+                "year": 2022,
+                "profit": 263992212000,
+                "capital": 7850000000,
+                "netProfit": null,
+                "liabilities": 252281032000,
+                "totalAssets": 1159041910000,
+                "totalCapital": 906760878000,
+                "operatingProfit": -111565227000
+            },
+            {
+                "type": "CONSOLIDATED_NICE",
+                "year": 2023,
+                "profit": 285734149000,
+                "capital": 7850000000,
+                "netProfit": null,
+                "liabilities": 265291610000,
+                "totalAssets": 685454089000,
+                "totalCapital": 420162479000,
+                "operatingProfit": -65485699000
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "products": [
+        {
+            "id": "PD00005864",
+            "name": "요기요",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.fineapp.yogiyo",
+                    "type": "APP"
+                },
+                {
+                    "url": "yogiyo.co.kr",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://play-lh.googleusercontent.com/Zkel_nNv9Hq8met65g2HkbCYMoR0tZR5TaWaV5ZMqsfdwY3naycvlUKkarBJOWNPjpo=s180-rw"
+        },
+        {
+            "id": "PD00006192",
+            "name": "셰플리",
+            "types": [
+                {
+                    "url": "chefly.co.kr",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": "2021-10-05",
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00006192_20220811112938.png"
+        }
+    ],
+    "investment": {
+        "data": [
+            {
+                "level": "M&A",
+                "investAt": "2021-08-13",
+                "investor": [
+                    {
+                        "id": "IV00002183",
+                        "name": "컴바인드딜리버리플랫폼인베스트먼트",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 800000000000
+            },
+            {
+                "level": "series D (추정)",
+                "investAt": "2015-08-01",
+                "investor": [
+                    {
+                        "id": "IV00000325",
+                        "name": "딜리버리히어로",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 41900000000
+            },
+            {
+                "level": "series C (추정)",
+                "investAt": "2014-04-01",
+                "investor": [
+                    {
+                        "id": "IV00001449",
+                        "name": "인사이트벤처파트너스",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 14500000000
+            },
+            {
+                "level": "series B (추정)",
+                "investAt": "2012-08-01",
+                "investor": [
+                    {
+                        "id": "IV00000325",
+                        "name": "딜리버리히어로",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 4000000000
+            },
+            {
+                "level": "series A (추정)",
+                "investAt": "2012-01-01",
+                "investor": [
+                    {
+                        "id": "IV00001899",
+                        "name": "팀유럽",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 3000000000
+            }
+        ],
+        "recentUpdate": "2022-07-03",
+        "lastInvestmentLevel": "M&A",
+        "investmentDescription": "",
+        "totalInvestmentAmount": 63400000000
+    },
+    "customerType": {
+        "salesFamily": [
+            {
+                "rate": 5.9,
+                "type": "성인자녀가구"
+            },
+            {
+                "rate": 11.6,
+                "type": "유아자녀가구"
+            },
+            {
+                "rate": 32.0,
+                "type": "청소년자녀가구"
+            },
+            {
+                "rate": 5.7,
+                "type": "신혼가구"
+            },
+            {
+                "rate": 43.9,
+                "type": "싱글가구"
+            },
+            {
+                "rate": 0.9,
+                "type": "실버가구"
+            }
+        ],
+        "salesIncome": [
+            {
+                "rate": 1.1,
+                "type": "2000만원이하"
+            },
+            {
+                "rate": 11.7,
+                "type": "3000만원이하"
+            },
+            {
+                "rate": 21.4,
+                "type": "4000만원이하"
+            },
+            {
+                "rate": 19.8,
+                "type": "5000만원이하"
+            },
+            {
+                "rate": 15.1,
+                "type": "6000만원이하"
+            },
+            {
+                "rate": 16.5,
+                "type": "8000만원이하"
+            },
+            {
+                "rate": 6.5,
+                "type": "1억원이하"
+            },
+            {
+                "rate": 7.9,
+                "type": "1억원초과"
+            }
+        ],
+        "salesPerson": [
+            {
+                "rate": 16.1,
+                "gender": "여성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 6.3,
+                "gender": "여성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 1.5,
+                "gender": "여성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 6.4,
+                "gender": "남성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 4.0,
+                "gender": "여성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 7.8,
+                "gender": "남성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 1.4,
+                "gender": "남성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 24.1,
+                "gender": "남성",
+                "ageGroup": "30~39세"
+            },
+            {
+                "rate": 20.5,
+                "gender": "남성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 11.9,
+                "gender": "여성",
+                "ageGroup": "30~39세"
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "organization": {
+        "data": [
+            {
+                "in": 16,
+                "out": 18,
+                "value": 667,
+                "growRate": -3.8,
+                "referenceMonth": "2025-01"
+            },
+            {
+                "in": 5,
+                "out": 42,
+                "value": 693,
+                "growRate": -3.8,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "in": 2,
+                "out": 32,
+                "value": 720,
+                "growRate": -4.3,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "in": 5,
+                "out": 34,
+                "value": 752,
+                "growRate": -23.1,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "in": 4,
+                "out": 231,
+                "value": 978,
+                "growRate": -7.8,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "in": 8,
+                "out": 87,
+                "value": 1061,
+                "growRate": -3.0,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "in": 12,
+                "out": 41,
+                "value": 1094,
+                "growRate": -3.4,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "in": 6,
+                "out": 50,
+                "value": 1132,
+                "growRate": -2.3,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "in": 3,
+                "out": 33,
+                "value": 1159,
+                "growRate": -4.3,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "in": 12,
+                "out": 55,
+                "value": 1211,
+                "growRate": -1.2,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "in": 3,
+                "out": 27,
+                "value": 1226,
+                "growRate": -2.8,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "in": 7,
+                "out": 38,
+                "value": 1261,
+                "growRate": -2.1,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "in": 9,
+                "out": 34,
+                "value": 1288,
+                "growRate": -0.8,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "in": 11,
+                "out": 20,
+                "value": 1299,
+                "growRate": -1.7,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "in": 26,
+                "out": 34,
+                "value": 1322,
+                "growRate": -1.1,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "in": 29,
+                "out": 41,
+                "value": 1337,
+                "growRate": -1.1,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "in": 22,
+                "out": 44,
+                "value": 1352,
+                "growRate": -2.1,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "in": 26,
+                "out": 51,
+                "value": 1381,
+                "growRate": -2.3,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "in": 48,
+                "out": 58,
+                "value": 1413,
+                "growRate": 0.7,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "in": 68,
+                "out": 38,
+                "value": 1403,
+                "growRate": 0.6,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "in": 109,
+                "out": 60,
+                "value": 1395,
+                "growRate": 6.5,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "in": 97,
+                "out": 24,
+                "value": 1310,
+                "growRate": 5.6,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "in": 63,
+                "out": 28,
+                "value": 1241,
+                "growRate": 0.4,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "in": 117,
+                "out": 58,
+                "value": 1236,
+                "growRate": 8.1,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "in": 49,
+                "out": 24,
+                "value": 1143,
+                "growRate": 2.1,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "in": 32,
+                "out": 26,
+                "value": 1120,
+                "growRate": 0.1,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "in": 37,
+                "out": 31,
+                "value": 1119,
+                "growRate": 0.5,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "in": 31,
+                "out": 31,
+                "value": 1113,
+                "growRate": -1.7,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "in": 45,
+                "out": 50,
+                "value": 1132,
+                "growRate": -0.3,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "in": 57,
+                "out": 48,
+                "value": 1135,
+                "growRate": 2.3,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "in": 44,
+                "out": 32,
+                "value": 1110,
+                "growRate": 1.9,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "in": 59,
+                "out": 23,
+                "value": 1089,
+                "growRate": -1.4,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "in": 72,
+                "out": 74,
+                "value": 1104,
+                "growRate": 3.1,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "in": 38,
+                "out": 39,
+                "value": 1071,
+                "growRate": -0.5,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "in": 42,
+                "out": 43,
+                "value": 1076,
+                "growRate": 0.0,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "in": 34,
+                "out": 42,
+                "value": 1076,
+                "growRate": 100.0,
+                "referenceMonth": "2022-02"
+            }
+        ],
+        "retireRate": 69.1,
+        "recentUpdate": "2025-02-24"
+    },
+    "similarCorps": [
+        {
+            "corpId": "CP00000008",
+            "bizNameEn": "커머스,물류,푸드/농업",
+            "bizNameKr": "커머스,물류,푸드/농업",
+            "corpNameEn": "Woowa Bros.",
+            "corpNameKr": "우아한형제들",
+            "prodNameEn": "배달의민족",
+            "prodNameKr": "배달의민족 ",
+            "corpIntroEn": "A company that operates the delivery food brokerage platform [BAEMIN]",
+            "corpIntroKr": "배달음식 중개플랫폼 '배달의민족'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000008_20230921101528.png"
+        },
+        {
+            "corpId": "CP00011269",
+            "bizNameEn": "물류,푸드/농업",
+            "bizNameKr": "물류,푸드/농업",
+            "corpNameEn": "WEMAKE O CO.,LTD.",
+            "corpNameKr": "위메프오",
+            "prodNameEn": "",
+            "prodNameKr": "위메프오 ",
+            "corpIntroEn": "A company that operates the delivery order and payment service platform [WMPO]",
+            "corpIntroKr": "배달 주문 및 결제 서비스 플랫폼 '위메프오'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00011269_20220530112027.png"
+        },
+        {
+            "corpId": "CP00011268",
+            "bizNameEn": "물류,푸드/농업",
+            "bizNameKr": "물류,푸드/농업",
+            "corpNameEn": "DOEAT",
+            "corpNameKr": "두잇",
+            "prodNameEn": "",
+            "prodNameKr": "두잇",
+            "corpIntroEn": "A company that operates the team matching delivery app [DOEAT]",
+            "corpIntroKr": "팀매칭 배달앱 '두잇'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00011268_20241002100335.png"
+        },
+        {
+            "corpId": "CP00000555",
+            "bizNameEn": "커머스,푸드/농업",
+            "bizNameKr": "커머스,푸드/농업",
+            "corpNameEn": "Fresheasy Co.,Ltd.",
+            "corpNameKr": "프레시지",
+            "prodNameEn": "프레시지",
+            "prodNameKr": "프레시지",
+            "corpIntroEn": "A company that produces, distributes, and sells food such as meal kits and convenience foods.",
+            "corpIntroKr": "밀키트, 간편식 등 식품을 생산, 유통, 판매하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000516.png"
+        },
+        {
+            "corpId": "CP00000048",
+            "bizNameEn": "커머스,물류,푸드/농업",
+            "bizNameKr": "커머스,물류,푸드/농업",
+            "corpNameEn": "Kurly Inc.",
+            "corpNameKr": "컬리",
+            "prodNameEn": "",
+            "prodNameKr": "컬리",
+            "corpIntroEn": "A company that operates [KURLY], an early morning delivery platform for fresh products",
+            "corpIntroKr": "신선제품 새벽배송 플랫폼 '컬리'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000005.png"
+        },
+        {
+            "corpId": "CP00001589",
+            "bizNameEn": "푸드/농업",
+            "bizNameKr": "푸드/농업",
+            "corpNameEn": "WEHUDDLING CO.,LTD.",
+            "corpNameKr": "위허들링",
+            "prodNameEn": "위잇딜라이트",
+            "prodNameKr": "위잇딜라이트",
+            "corpIntroEn": "A company that operates the meal subscription platform [WE EAT DELIGHT(Discontinued)]",
+            "corpIntroKr": "식사구독 플랫폼 '위잇딜라이트'를 운영하는 기업 ",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001587.png"
+        },
+        {
+            "corpId": "CP00000424",
+            "bizNameEn": "물류,광고/마케팅",
+            "bizNameKr": "물류,광고/마케팅",
+            "corpNameEn": "THE MOMMA CO.,LTD.",
+            "corpNameKr": "더맘마",
+            "prodNameEn": "-",
+            "prodNameKr": "맘마먹자",
+            "corpIntroEn": "A company that operates the neighborhood mart O2O platform [MOMMAEAT]",
+            "corpIntroKr": "동네마트 O2O 플랫폼 ‘맘마먹자’를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000430.png"
+        },
+        {
+            "corpId": "CP00000327",
+            "bizNameEn": "커머스,물류",
+            "bizNameKr": "커머스,물류",
+            "corpNameEn": "MARKETBORO. CO., LTD.",
+            "corpNameKr": "마켓보로",
+            "prodNameEn": "식봄",
+            "prodNameKr": "식봄",
+            "corpIntroEn": "A company that operates the food ingredients open market [FOODSPRING] and the food ingredients distribution management service [MARKETBOM]",
+            "corpIntroKr": "식자재 오픈마켓 '식봄', 식자재 유통관리 서비스 '마켓봄'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000327_20240125152451.png"
+        }
+    ],
+    "customerSales": {
+        "salesBasic": [
+            {
+                "rate": 91.8,
+                "count": 9576387,
+                "unitPrice": 17424.4,
+                "referenceMonth": "2022-02"
+            },
+            {
+                "rate": 100.0,
+                "count": 10290772,
+                "unitPrice": 17662.0,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "rate": 83.2,
+                "count": 8515175,
+                "unitPrice": 17760.1,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "rate": 80.5,
+                "count": 8115292,
+                "unitPrice": 18026.8,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "rate": 83.6,
+                "count": 8482289,
+                "unitPrice": 17920.7,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "rate": 85.7,
+                "count": 8197138,
+                "unitPrice": 19000.9,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "rate": 83.1,
+                "count": 7852345,
+                "unitPrice": 19229.6,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "rate": 71.6,
+                "count": 6769857,
+                "unitPrice": 19233.7,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "rate": 77.5,
+                "count": 7385331,
+                "unitPrice": 19074.9,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "rate": 78.2,
+                "count": 7662808,
+                "unitPrice": 18547.7,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "rate": 83.4,
+                "count": 7954899,
+                "unitPrice": 19048.8,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "rate": 80.2,
+                "count": 7652311,
+                "unitPrice": 19046.2,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "rate": 70.2,
+                "count": 6651447,
+                "unitPrice": 19184.5,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "rate": 73.5,
+                "count": 6898028,
+                "unitPrice": 19376.1,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "rate": 73.7,
+                "count": 6727710,
+                "unitPrice": 19913.6,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "rate": 74.4,
+                "count": 6815912,
+                "unitPrice": 19847.4,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "rate": 77.7,
+                "count": 7085878,
+                "unitPrice": 19930.9,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "rate": 84.6,
+                "count": 7594855,
+                "unitPrice": 20256.5,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "rate": 84.4,
+                "count": 7552084,
+                "unitPrice": 20314.3,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "rate": 73.3,
+                "count": 6571052,
+                "unitPrice": 20261.5,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "rate": 78.2,
+                "count": 7098151,
+                "unitPrice": 20034.1,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "rate": 74.6,
+                "count": 6701237,
+                "unitPrice": 20220.4,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "rate": 80.3,
+                "count": 7014992,
+                "unitPrice": 20808.0,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "rate": 78.0,
+                "count": 6905771,
+                "unitPrice": 20530.5,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "rate": 70.7,
+                "count": 6140136,
+                "unitPrice": 20930.0,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "rate": 74.7,
+                "count": 6486104,
+                "unitPrice": 20933.1,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "rate": 64.3,
+                "count": 5822401,
+                "unitPrice": 20083.0,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "rate": 62.0,
+                "count": 5652302,
+                "unitPrice": 19937.2,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "rate": 59.7,
+                "count": 5474270,
+                "unitPrice": 19815.7,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "rate": 61.2,
+                "count": 5515045,
+                "unitPrice": 20167.1,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "rate": 60.5,
+                "count": 5468062,
+                "unitPrice": 20108.4,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "rate": 53.2,
+                "count": 4860392,
+                "unitPrice": 19904.6,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "rate": 53.1,
+                "count": 4877860,
+                "unitPrice": 19785.3,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "rate": 48.3,
+                "count": 4290749,
+                "unitPrice": 20475.2,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "rate": 53.0,
+                "count": 4629839,
+                "unitPrice": 20822.9,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "rate": 49.9,
+                "count": 4331365,
+                "unitPrice": 20930.6,
+                "referenceMonth": "2025-01"
+            }
+        ],
+        "salesPeriod": [
+            {
+                "period": "1개월내",
+                "repurchaseRate": 67.3,
+                "avgPurchaseRate": 4.6
+            },
+            {
+                "period": "3개월내",
+                "repurchaseRate": 79.1,
+                "avgPurchaseRate": 10.9
+            },
+            {
+                "period": "6개월내",
+                "repurchaseRate": 85.0,
+                "avgPurchaseRate": 20.3
+            },
+            {
+                "period": "12개월내",
+                "repurchaseRate": 89.9,
+                "avgPurchaseRate": 36.2
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "dataSufficient": true,
+    "base_company_info": {
+        "data": {
+            "seedCorp": {
+                "id": "CP00000015",
+                "city": 11650,
+                "corpCd": "STARTUP",
+                "comment": null,
+                "cordLat": 127.005753,
+                "cordLng": 37.490299,
+                "foundAt": "2011-11-18",
+                "homeUrl": "wesang.com",
+                "subCorp": false,
+                "createBy": "system",
+                "invstCnt": 4,
+                "province": "SEOUL",
+                "showFlag": true,
+                "bizInfoEn": "Brokerage of a Variety of Goods",
+                "bizInfoKr": "상품종합 중개업",
+                "corpAddrEn": "17th Floor, 12, Seocho-daero 38-gil Seocho-gu Seoul",
+                "corpAddrKr": "서울 서초구 서초대로38길 12, 17층 (서초동,마제스타시티타워투)",
+                "corpNameEn": "Wesang Co.,Ltd.",
+                "corpNameKr": "위대한상상",
+                "corpStatCd": "IN_OPERATION",
+                "createDate": "2021-05-28T09:44:59",
+                "hasSubCorp": false,
+                "investMemo": null,
+                "modifiedBy": "SYSTEM",
+                "capStockVal": "7850000000",
+                "corpIntroEn": "A company that operates the delivery food brokerage platform [YOGIYO]",
+                "corpIntroKr": "배달음식 중개플랫폼 '요기요'를 운영하는 기업",
+                "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000015_20220902105424.png",
+                "empWholeVal": 667,
+                "invstSumVal": 63400000000,
+                "lastInvstAt": "2021-08-13",
+                "listingDate": null,
+                "patntLvlVal": null,
+                "upperCorpId": null,
+                "corpStatCdEn": "운영중",
+                "corpStatCdKr": "운영중",
+                "emplWholeVal": 1200,
+                "modifiedDate": "2025-02-24T19:30:02",
+                "corpStockCdEn": "비상장",
+                "corpStockCdKr": "비상장",
+                "logoImageFile": null,
+                "finacRevenueAt": "2023-12-31",
+                "niceCorpStatCd": "00",
+                "finacRevenueVal": 285734149000,
+                "invstSumValText": "634.0억원",
+                "requestSendTypeCd": null,
+                "investmentDescription": ""
+            },
+            "seedBadge": [],
+            "seedPeople": [
+                {
+                    "id": "PP00062693",
+                    "fbUrl": "",
+                    "corpId": "CP00000015",
+                    "etcUrl": null,
+                    "comment": null,
+                    "ivstrId": null,
+                    "useFlag": true,
+                    "createBy": null,
+                    "linkdUrl": "",
+                    "showFlag": true,
+                    "pplNameEn": "",
+                    "pplNameKr": "전준희",
+                    "pplRoleCd": "CEO",
+                    "rocketUrl": "",
+                    "corpNameEn": null,
+                    "corpNameKr": null,
+                    "createDate": null,
+                    "crewRoleCd": null,
+                    "hasHistory": null,
+                    "modifiedBy": null,
+                    "modifiedDate": null,
+                    "seedPeopleHistories": null
+                }
+            ],
+            "seedCorpBiz": [
+                {
+                    "biz": 8,
+                    "corpCnt": 860,
+                    "createBy": "jslee",
+                    "bizNameEn": "푸드/농업",
+                    "bizNameKr": "푸드/농업",
+                    "createDate": "2024-08-30T10:21:53"
+                },
+                {
+                    "biz": 1,
+                    "corpCnt": 2267,
+                    "createBy": "jslee",
+                    "bizNameEn": "커머스",
+                    "bizNameKr": "커머스",
+                    "createDate": "2024-08-30T10:21:53"
+                }
+            ],
+            "seedCorpTag": [
+                {
+                    "tag": "TG00000711",
+                    "corpCnt": 65,
+                    "tagNameEn": "food delivery",
+                    "tagNameKr": "배달"
+                },
+                {
+                    "tag": "TG00010001",
+                    "corpCnt": 6520,
+                    "tagNameEn": null,
+                    "tagNameKr": "B2B"
+                },
+                {
+                    "tag": "TG00010002",
+                    "corpCnt": 5696,
+                    "tagNameEn": "B2C",
+                    "tagNameKr": "B2C"
+                },
+                {
+                    "tag": "TG00000011",
+                    "corpCnt": 2121,
+                    "tagNameEn": "e-commerce",
+                    "tagNameKr": "이커머스"
+                },
+                {
+                    "tag": "TG00030001",
+                    "corpCnt": 3169,
+                    "tagNameEn": "platform/marketplace",
+                    "tagNameKr": "플랫폼/마켓플레이스"
+                },
+                {
+                    "tag": "TG00030006",
+                    "corpCnt": 397,
+                    "tagNameEn": "commission ",
+                    "tagNameKr": "거래수수료"
+                },
+                {
+                    "tag": "TG00030005",
+                    "corpCnt": 382,
+                    "tagNameEn": "advertisement ",
+                    "tagNameKr": "광고"
+                },
+                {
+                    "tag": "TG00040001",
+                    "corpCnt": 2765,
+                    "tagNameEn": "App",
+                    "tagNameKr": "APP"
+                },
+                {
+                    "tag": "TG00060003",
+                    "corpCnt": 922,
+                    "tagNameEn": "o2o",
+                    "tagNameKr": "O2O"
+                }
+            ],
+            "seedProduct": {
+                "id": "PD00005864",
+                "andUrl": null,
+                "corpId": "CP00000015",
+                "webUrl": "yogiyo.co.kr",
+                "createBy": "system",
+                "isAppProd": false,
+                "isEtcProd": false,
+                "isOffProd": false,
+                "isWebProd": false,
+                "prodEndAt": null,
+                "createDate": "2021-09-16T00:00:00",
+                "finishFlag": false,
+                "modifiedBy": "wjy",
+                "prodNameEn": "",
+                "prodNameKr": "요기요",
+                "prodIntroEn": "",
+                "prodIntroKr": "-",
+                "prodLogoImg": "https://play-lh.googleusercontent.com/Zkel_nNv9Hq8met65g2HkbCYMoR0tZR5TaWaV5ZMqsfdwY3naycvlUKkarBJOWNPjpo=s180-rw",
+                "etcProdCount": null,
+                "modifiedDate": "2022-10-11T14:43:04",
+                "offProdCount": null
+            },
+            "seedPeopleBlind": false,
+            "seedPeopleCount": 1,
+            "seedCorpBizBlind": false,
+            "seedCorpBizCount": 2,
+            "seedCorpTagBlind": false,
+            "seedCorpTagCount": 9,
+            "seedProductBlind": false,
+            "seedAdvertisementKeywords": []
+        },
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+        "ogTagContent": {
+            "title": "위대한상상(요기요) - 매출 투자 고용 정보 - 혁신의숲",
+            "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000015_20220902105424.png",
+            "description": "누적투자금 634.0억 스타트업 위대한상상(요기요)의 매출, 투자, 고용, 특허등급, 재구매율, 방문자 분석 등 36개월 간의 데이터를 혁신의숲에서 확인해 보세요."
+        }
+    }
+}

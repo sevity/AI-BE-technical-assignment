@@ -1,0 +1,2268 @@
+{
+    "mau": {
+        "list": [
+            {
+                "data": [
+                    {
+                        "value": 17420016,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 17345672,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 17894427,
+                        "growthRate": 3.2,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 18358448,
+                        "growthRate": 2.6,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 17718973,
+                        "growthRate": -3.5,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 17823279,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 18080393,
+                        "growthRate": 1.4,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 17982688,
+                        "growthRate": -0.5,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 17731241,
+                        "growthRate": -1.4,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 17612421,
+                        "growthRate": 100.0,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 16340244,
+                        "growthRate": -7.2,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 16922905,
+                        "growthRate": 3.6,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 18872052,
+                        "growthRate": 11.5,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 19033108,
+                        "growthRate": 0.9,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 20165395,
+                        "growthRate": 5.9,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 20278432,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 19157362,
+                        "growthRate": -5.5,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 19437434,
+                        "growthRate": 1.5,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 18536124,
+                        "growthRate": -4.6,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 19990853,
+                        "growthRate": 7.8,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 20096198,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 20217473,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 20412350,
+                        "growthRate": 1.0,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 20480075,
+                        "growthRate": 0.3,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 20427179,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 21247809,
+                        "growthRate": 4.0,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 21406267,
+                        "growthRate": 0.7,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 21899553,
+                        "growthRate": 2.3,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 22303325,
+                        "growthRate": 1.8,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 22459268,
+                        "growthRate": 0.7,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 23369799,
+                        "growthRate": 4.1,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 23561361,
+                        "growthRate": 0.8,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 24311634,
+                        "growthRate": 3.2,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 14639539,
+                        "growthRate": -39.8,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00003805"
+            },
+            {
+                "data": [
+                    {
+                        "value": 80394,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 82340,
+                        "growthRate": 2.4,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 86472,
+                        "growthRate": 5.0,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 78747,
+                        "growthRate": -8.9,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 75115,
+                        "growthRate": -4.6,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 97703,
+                        "growthRate": 30.1,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 83231,
+                        "growthRate": -14.8,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 80864,
+                        "growthRate": -2.8,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 77532,
+                        "growthRate": -4.1,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 61697,
+                        "growthRate": 100.0,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 55503,
+                        "growthRate": -10.0,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 50022,
+                        "growthRate": -9.9,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 19434,
+                        "growthRate": -61.1,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 16933,
+                        "growthRate": -12.9,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 14749,
+                        "growthRate": -12.9,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 13998,
+                        "growthRate": -5.1,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 12244,
+                        "growthRate": -12.5,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 10448,
+                        "growthRate": -14.7,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 9406,
+                        "growthRate": -10.0,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 10856,
+                        "growthRate": 15.4,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 10146,
+                        "growthRate": -6.5,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 10075,
+                        "growthRate": -0.7,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 9576,
+                        "growthRate": -5.0,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 10158,
+                        "growthRate": 6.1,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 8556,
+                        "growthRate": -15.8,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 8803,
+                        "growthRate": 2.9,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 8397,
+                        "growthRate": -4.6,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 8363,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 8163,
+                        "growthRate": -2.4,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 7539,
+                        "growthRate": -7.6,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 6930,
+                        "growthRate": -8.1,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 5279,
+                        "growthRate": -23.8,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 4259,
+                        "growthRate": -19.3,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 3569,
+                        "growthRate": -16.2,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012733"
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "patent": {
+        "list": [
+            {
+                "level": "B0",
+                "title": "유저정보 스크래핑 방법 및 이를 위한 애플리케이션 시스템{Method for scrapping user information and application system thereof}",
+                "registerAt": "2017-08-31"
+            },
+            {
+                "level": "B0",
+                "title": "전자적 정보와 실제 자금을 분리하여 처리하는 금융 서비스 방법 및 시스템{FINANCIAL SERVICE METHOD AND SYSTEM FOR REAL ELECTRONIC FUNDS TRANSFER FROM SEPARATING ELECTRONIC INFORMATION FOR DEPOSIT AND WITHDRAWAL}",
+                "registerAt": "2014-05-15"
+            },
+            {
+                "level": "B-",
+                "title": "카드사의 유저정보 스크래핑 방법 및 이를 위한 애플리케이션 시스템{Method for scrapping user information of card-company and application system thereof}",
+                "registerAt": "2018-02-13"
+            },
+            {
+                "level": "B-",
+                "title": "계좌운영기관의 유저정보 스크래핑 방법 및 이를 위한 애플리케이션 시스템{Method for scrapping user information of account-running-institue and application system thereof}",
+                "registerAt": "2017-08-31"
+            },
+            {
+                "level": "B-",
+                "title": "카드사의 유저정보 스크래핑 방법 및 이를 위한 애플리케이션 시스템{Method for scrapping user information of card-company and application system thereof}",
+                "registerAt": "2017-08-31"
+            },
+            {
+                "level": "B-",
+                "title": "금융서비스 제공방법 및 금융서비스 시스템{Providing method for financial service and financial service system thereof}",
+                "registerAt": "2016-05-18"
+            },
+            {
+                "level": "B-",
+                "title": "금융서비스 제공방법 및 금융서비스 시스템{Providing method for financial service and financial service system thereof}",
+                "registerAt": "2015-05-12"
+            },
+            {
+                "level": "C",
+                "title": "유저정보 스크래핑 방법 및 이를 위한 애플리케이션 시스템{Method for scrapping user information and application system thereof}",
+                "registerAt": "2020-04-13"
+            },
+            {
+                "level": "C",
+                "title": "사용자간 오프-라인 만남 정보를 기반으로 하는 사용자 인맥 관리시스템{The system which manages the personal connections of user based on the off-line meeting information between the users}",
+                "registerAt": "2011-10-10"
+            }
+        ],
+        "chart": [
+            {
+                "count": 2,
+                "level": "B0"
+            },
+            {
+                "count": 5,
+                "level": "B-"
+            },
+            {
+                "count": 2,
+                "level": "C"
+            }
+        ],
+        "words": [
+            {
+                "text": "유저",
+                "patentCount": 8,
+                "displayCount": 53
+            },
+            {
+                "text": "스크래핑",
+                "patentCount": 5,
+                "displayCount": 36
+            },
+            {
+                "text": "인증",
+                "patentCount": 9,
+                "displayCount": 34
+            },
+            {
+                "text": "서비스",
+                "patentCount": 6,
+                "displayCount": 32
+            },
+            {
+                "text": "금융",
+                "patentCount": 5,
+                "displayCount": 28
+            },
+            {
+                "text": "애플리케이션",
+                "patentCount": 5,
+                "displayCount": 25
+            },
+            {
+                "text": "인증정보",
+                "patentCount": 8,
+                "displayCount": 24
+            },
+            {
+                "text": "유저정보",
+                "patentCount": 5,
+                "displayCount": 24
+            },
+            {
+                "text": "계좌",
+                "patentCount": 5,
+                "displayCount": 24
+            },
+            {
+                "text": "송금",
+                "patentCount": 2,
+                "displayCount": 23
+            },
+            {
+                "text": "요청",
+                "patentCount": 6,
+                "displayCount": 22
+            },
+            {
+                "text": "로그인",
+                "patentCount": 5,
+                "displayCount": 21
+            },
+            {
+                "text": "금융서비스",
+                "patentCount": 3,
+                "displayCount": 21
+            },
+            {
+                "text": "단말기",
+                "patentCount": 9,
+                "displayCount": 20
+            },
+            {
+                "text": "통신",
+                "patentCount": 1,
+                "displayCount": 16
+            },
+            {
+                "text": "지인",
+                "patentCount": 1,
+                "displayCount": 12
+            },
+            {
+                "text": "계정",
+                "patentCount": 5,
+                "displayCount": 12
+            },
+            {
+                "text": "이동통신기기",
+                "patentCount": 1,
+                "displayCount": 12
+            },
+            {
+                "text": "세트",
+                "patentCount": 3,
+                "displayCount": 11
+            },
+            {
+                "text": "재설정",
+                "patentCount": 5,
+                "displayCount": 10
+            },
+            {
+                "text": "오프",
+                "patentCount": 1,
+                "displayCount": 10
+            },
+            {
+                "text": "라인",
+                "patentCount": 1,
+                "displayCount": 10
+            },
+            {
+                "text": "상응",
+                "patentCount": 4,
+                "displayCount": 10
+            },
+            {
+                "text": "이력",
+                "patentCount": 3,
+                "displayCount": 9
+            },
+            {
+                "text": "대상",
+                "patentCount": 5,
+                "displayCount": 9
+            },
+            {
+                "text": "로그",
+                "patentCount": 5,
+                "displayCount": 9
+            },
+            {
+                "text": "제공방법",
+                "patentCount": 3,
+                "displayCount": 9
+            },
+            {
+                "text": "서버",
+                "patentCount": 2,
+                "displayCount": 9
+            },
+            {
+                "text": "자금",
+                "patentCount": 2,
+                "displayCount": 9
+            },
+            {
+                "text": "카드",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "수신",
+                "patentCount": 5,
+                "displayCount": 8
+            },
+            {
+                "text": "SERVICE",
+                "patentCount": 5,
+                "displayCount": 8
+            },
+            {
+                "text": "기관",
+                "patentCount": 3,
+                "displayCount": 8
+            },
+            {
+                "text": "내역",
+                "patentCount": 4,
+                "displayCount": 8
+            },
+            {
+                "text": "금액",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "해외",
+                "patentCount": 1,
+                "displayCount": 8
+            },
+            {
+                "text": "누구",
+                "patentCount": 1,
+                "displayCount": 7
+            },
+            {
+                "text": "자간",
+                "patentCount": 1,
+                "displayCount": 7
+            },
+            {
+                "text": "전송",
+                "patentCount": 3,
+                "displayCount": 7
+            },
+            {
+                "text": "사용자간",
+                "patentCount": 1,
+                "displayCount": 7
+            },
+            {
+                "text": "절차",
+                "patentCount": 1,
+                "displayCount": 7
+            },
+            {
+                "text": "스크래핑하기",
+                "patentCount": 5,
+                "displayCount": 7
+            },
+            {
+                "text": "은행",
+                "patentCount": 2,
+                "displayCount": 7
+            },
+            {
+                "text": "판단",
+                "patentCount": 3,
+                "displayCount": 6
+            },
+            {
+                "text": "이력정보",
+                "patentCount": 3,
+                "displayCount": 6
+            },
+            {
+                "text": "알림",
+                "patentCount": 3,
+                "displayCount": 6
+            },
+            {
+                "text": "입금",
+                "patentCount": 2,
+                "displayCount": 6
+            },
+            {
+                "text": "확인",
+                "patentCount": 3,
+                "displayCount": 6
+            },
+            {
+                "text": "계좌정보",
+                "patentCount": 3,
+                "displayCount": 6
+            },
+            {
+                "text": "제휴",
+                "patentCount": 1,
+                "displayCount": 5
+            },
+            {
+                "text": "프로세스",
+                "patentCount": 5,
+                "displayCount": 5
+            },
+            {
+                "text": "프레임",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "업체",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "결제",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "인맥",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "접근",
+                "patentCount": 4,
+                "displayCount": 4
+            },
+            {
+                "text": "등록",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "송금요청",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "송금요청금액",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "전화번호",
+                "patentCount": 3,
+                "displayCount": 4
+            },
+            {
+                "text": "카드사의",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "전화",
+                "patentCount": 3,
+                "displayCount": 4
+            },
+            {
+                "text": "카드사",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "자금결제이동업체",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "계좌번호",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "PROVIDING",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "접근필요정보",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "알림정보",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "가이드",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "생년월일",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "제휴입금은행",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "통한",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "전산",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "정당성",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "알림서비스",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "비밀",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "모계좌",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "PCU",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "거래내역",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "거래",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "출금",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "전산모듈",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "입력정보",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "계좌운영기관",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "등록정보",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "링크",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "제휴송금은행",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "전자적",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "COMPANY",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "변경가능정보",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "전자",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "이때",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "카드비밀번호",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "접수",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "자신",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "인증요청",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "첨부",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "해외송금",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "기본정보",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "주변",
+                "patentCount": 1,
+                "displayCount": 2
+            }
+        ],
+        "totalCount": 9,
+        "averageRank": 3.0,
+        "recentUpdate": "2022-01-25"
+    },
+    "finance": {
+        "data": [
+            {
+                "type": "CONSOLIDATED_NICE",
+                "year": 2021,
+                "profit": 780756856000,
+                "capital": 32651671000,
+                "netProfit": -215363708000,
+                "liabilities": 1301064490000,
+                "totalAssets": 2025822087000,
+                "totalCapital": 724757597000,
+                "operatingProfit": -179627580000
+            },
+            {
+                "type": "CONSOLIDATED_NICE",
+                "year": 2022,
+                "profit": 1188787782000,
+                "capital": 35060231000,
+                "netProfit": -322251301000,
+                "liabilities": 1865174894000,
+                "totalAssets": 2737618487000,
+                "totalCapital": 872443593000,
+                "operatingProfit": -247201063000
+            },
+            {
+                "type": "SEPARATE_KODATA",
+                "year": 2023,
+                "profit": 336172174000,
+                "capital": 35237098000,
+                "netProfit": -85732380000,
+                "liabilities": 784639536000,
+                "totalAssets": 1532269036000,
+                "totalCapital": 747629500000,
+                "operatingProfit": -108553048000
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "products": [
+        {
+            "id": "PD00003805",
+            "name": "토스",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=viva.republica.toss",
+                    "type": "APP"
+                },
+                {
+                    "url": "toss.im",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00003805_20231211102512.png"
+        },
+        {
+            "id": "PD00012733",
+            "name": "토스보험파트너",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=im.toss.app.insurp",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012733_20230313144902.png"
+        }
+    ],
+    "investment": {
+        "data": [
+            {
+                "level": "series G",
+                "investAt": "2022-08-25",
+                "investor": [
+                    {
+                        "id": "IV00002476",
+                        "name": "토닉프라이빗에쿼티",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV99999999",
+                        "name": "비공개투자자",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00020032",
+                        "name": "페블즈자산운용",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00002062",
+                        "name": "한국산업은행",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000065",
+                        "name": "굿워터캐피털",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000072",
+                        "name": "그레이하운드캐피털",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00002033",
+                        "name": "하베스트인베스트먼트",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 230000000000
+            },
+            {
+                "level": "series G",
+                "investAt": "2022-07-21",
+                "investor": [
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000065",
+                        "name": "굿워터캐피털",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000072",
+                        "name": "그레이하운드캐피털",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00002182",
+                        "name": "광주은행",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000514",
+                        "name": "미래에셋증권",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00002062",
+                        "name": "한국산업은행",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000193",
+                        "name": "우리벤처파트너스",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 300000000000
+            },
+            {
+                "level": "series G",
+                "investAt": "2021-06-23",
+                "investor": [
+                    {
+                        "id": "IV00002062",
+                        "name": "한국산업은행",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001011",
+                        "name": "알키온캐피탈매니지먼트",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000072",
+                        "name": "그레이하운드캐피털",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 460000000000
+            },
+            {
+                "level": "series F",
+                "investAt": "2020-08-28",
+                "investor": [
+                    {
+                        "id": "IV00001024",
+                        "name": "애스펙스매니지먼트",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000748",
+                        "name": "세쿼이아캐피탈차이나",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001811",
+                        "name": "클라이너퍼킨스코필드앤바이어스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000065",
+                        "name": "굿워터캐피털",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000072",
+                        "name": "그레이하운드캐피털",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 206000000000
+            },
+            {
+                "level": "series E",
+                "investAt": "2019-08-08",
+                "investor": [
+                    {
+                        "id": "IV00000560",
+                        "name": "베세머벤처파트너스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000065",
+                        "name": "굿워터캐피털",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001811",
+                        "name": "클라이너퍼킨스코필드앤바이어스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000886",
+                        "name": "싱가포르투자청",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000748",
+                        "name": "세쿼이아캐피탈차이나",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001024",
+                        "name": "애스펙스매니지먼트",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 77000000000
+            },
+            {
+                "level": "series E",
+                "investAt": "2018-12-10",
+                "investor": [
+                    {
+                        "id": "IV00001811",
+                        "name": "클라이너퍼킨스코필드앤바이어스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000402",
+                        "name": "리빗캐피털",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000560",
+                        "name": "베세머벤처파트너스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001791",
+                        "name": "퀄컴벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001948",
+                        "name": "페이팔",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000065",
+                        "name": "굿워터캐피털",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 90000000000
+            },
+            {
+                "level": "series D",
+                "investAt": "2018-06-18",
+                "investor": [
+                    {
+                        "id": "IV00000886",
+                        "name": "싱가포르투자청",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000748",
+                        "name": "세쿼이아캐피탈차이나",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 44000000000
+            },
+            {
+                "level": "series C",
+                "investAt": "2017-03-10",
+                "investor": [
+                    {
+                        "id": "IV00000560",
+                        "name": "베세머벤처파트너스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001948",
+                        "name": "페이팔",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000065",
+                        "name": "굿워터캐피털",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001917",
+                        "name": "파테크벤처스",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 55000000000
+            },
+            {
+                "level": "series B",
+                "investAt": "2016-04-11",
+                "investor": [
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001791",
+                        "name": "퀄컴벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000065",
+                        "name": "굿워터캐피털",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 25900000000
+            },
+            {
+                "level": "series A",
+                "investAt": "2015-07-21",
+                "investor": [
+                    {
+                        "id": "IV00000964",
+                        "name": "아이비케이기업은행",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000193",
+                        "name": "우리벤처파트너스",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 5000000000
+            },
+            {
+                "level": "seed",
+                "investAt": "2014-06-01",
+                "investor": [
+                    {
+                        "id": "IV00001012",
+                        "name": "알토스벤처스",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 1000000000
+            }
+        ],
+        "recentUpdate": "2023-07-12",
+        "lastInvestmentLevel": "series G",
+        "investmentDescription": "",
+        "totalInvestmentAmount": 1493900000000
+    },
+    "customerType": {
+        "salesFamily": [
+            {
+                "rate": 8.3,
+                "type": "성인자녀가구"
+            },
+            {
+                "rate": 10.7,
+                "type": "유아자녀가구"
+            },
+            {
+                "rate": 27.2,
+                "type": "청소년자녀가구"
+            },
+            {
+                "rate": 5.3,
+                "type": "신혼가구"
+            },
+            {
+                "rate": 47.3,
+                "type": "싱글가구"
+            },
+            {
+                "rate": 1.2,
+                "type": "실버가구"
+            }
+        ],
+        "salesIncome": [
+            {
+                "rate": 2.6,
+                "type": "2000만원이하"
+            },
+            {
+                "rate": 14.4,
+                "type": "3000만원이하"
+            },
+            {
+                "rate": 19.9,
+                "type": "4000만원이하"
+            },
+            {
+                "rate": 18.0,
+                "type": "5000만원이하"
+            },
+            {
+                "rate": 13.8,
+                "type": "6000만원이하"
+            },
+            {
+                "rate": 15.1,
+                "type": "8000만원이하"
+            },
+            {
+                "rate": 6.8,
+                "type": "1억원이하"
+            },
+            {
+                "rate": 9.4,
+                "type": "1억원초과"
+            }
+        ],
+        "salesPerson": [
+            {
+                "rate": 17.1,
+                "gender": "여성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 8.3,
+                "gender": "여성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 2.5,
+                "gender": "여성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 7.8,
+                "gender": "남성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 11.7,
+                "gender": "여성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 5.4,
+                "gender": "남성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 1.5,
+                "gender": "남성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 14.3,
+                "gender": "남성",
+                "ageGroup": "30~39세"
+            },
+            {
+                "rate": 13.1,
+                "gender": "남성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 18.3,
+                "gender": "여성",
+                "ageGroup": "30~39세"
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "organization": {
+        "data": [
+            {
+                "in": 66,
+                "out": 23,
+                "value": 1105,
+                "growRate": 3.7,
+                "referenceMonth": "2025-01"
+            },
+            {
+                "in": 44,
+                "out": 27,
+                "value": 1066,
+                "growRate": 0.9,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "in": 33,
+                "out": 35,
+                "value": 1057,
+                "growRate": 0.0,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "in": 68,
+                "out": 33,
+                "value": 1057,
+                "growRate": 3.3,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "in": 18,
+                "out": 34,
+                "value": 1023,
+                "growRate": -1.4,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "in": 33,
+                "out": 33,
+                "value": 1038,
+                "growRate": 1.3,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "in": 50,
+                "out": 20,
+                "value": 1025,
+                "growRate": 1.1,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "in": 44,
+                "out": 39,
+                "value": 1014,
+                "growRate": 2.5,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "in": 43,
+                "out": 19,
+                "value": 989,
+                "growRate": 1.6,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "in": 56,
+                "out": 27,
+                "value": 973,
+                "growRate": 3.3,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "in": 52,
+                "out": 25,
+                "value": 942,
+                "growRate": 1.9,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "in": 17,
+                "out": 34,
+                "value": 924,
+                "growRate": -0.8,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "in": 24,
+                "out": 24,
+                "value": 931,
+                "growRate": 0.3,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "in": 31,
+                "out": 21,
+                "value": 928,
+                "growRate": 1.6,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "in": 33,
+                "out": 16,
+                "value": 913,
+                "growRate": 0.9,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "in": 55,
+                "out": 25,
+                "value": 905,
+                "growRate": 3.7,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "in": 38,
+                "out": 23,
+                "value": 873,
+                "growRate": 1.0,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "in": 33,
+                "out": 29,
+                "value": 864,
+                "growRate": 0.2,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "in": 23,
+                "out": 31,
+                "value": 862,
+                "growRate": 0.9,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "in": 23,
+                "out": 15,
+                "value": 854,
+                "growRate": 0.0,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "in": 28,
+                "out": 23,
+                "value": 854,
+                "growRate": 0.5,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "in": 28,
+                "out": 24,
+                "value": 850,
+                "growRate": 0.7,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "in": 14,
+                "out": 22,
+                "value": 844,
+                "growRate": -0.7,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "in": 34,
+                "out": 20,
+                "value": 850,
+                "growRate": 0.7,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "in": 29,
+                "out": 29,
+                "value": 844,
+                "growRate": 1.7,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "in": 22,
+                "out": 15,
+                "value": 830,
+                "growRate": 0.7,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "in": 43,
+                "out": 16,
+                "value": 824,
+                "growRate": 3.1,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "in": 50,
+                "out": 18,
+                "value": 799,
+                "growRate": 4.6,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "in": 30,
+                "out": 15,
+                "value": 764,
+                "growRate": 1.5,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "in": 41,
+                "out": 19,
+                "value": 753,
+                "growRate": 2.4,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "in": 33,
+                "out": 23,
+                "value": 735,
+                "growRate": 1.2,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "in": 32,
+                "out": 24,
+                "value": 726,
+                "growRate": 2.1,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "in": 41,
+                "out": 17,
+                "value": 711,
+                "growRate": 5.5,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "in": 23,
+                "out": 4,
+                "value": 674,
+                "growRate": 0.9,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "in": 14,
+                "out": 17,
+                "value": 668,
+                "growRate": -1.0,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "in": 57,
+                "out": 21,
+                "value": 675,
+                "growRate": 100.0,
+                "referenceMonth": "2022-02"
+            }
+        ],
+        "retireRate": 34.3,
+        "recentUpdate": "2025-02-24"
+    },
+    "similarCorps": [
+        {
+            "corpId": "CP00003068",
+            "bizNameEn": "금융/보험/핀테크",
+            "bizNameKr": "금융/보험/핀테크",
+            "corpNameEn": "Kakaopay Corp.",
+            "corpNameKr": "카카오페이",
+            "prodNameEn": "카카오페이",
+            "prodNameKr": "카카오페이",
+            "corpIntroEn": "A company that operates the online payment service [KAKAO PAY]",
+            "corpIntroKr": "온라인 결제 서비스 '카카오페이'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210323140616.png"
+        },
+        {
+            "corpId": "CP00003321",
+            "bizNameEn": "커머스,금융/보험/핀테크",
+            "bizNameKr": "커머스,금융/보험/핀테크",
+            "corpNameEn": "Coupang Pay, Ltd.",
+            "corpNameKr": "쿠팡페이",
+            "prodNameEn": "coupay",
+            "prodNameKr": "쿠페이",
+            "corpIntroEn": "A company that provides online payment service [COUPAY]",
+            "corpIntroKr": "온라인 결제 서비스 '쿠페이'를 제공하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210616103000.png"
+        },
+        {
+            "corpId": "CP00000028",
+            "bizNameEn": "커머스,금융/보험/핀테크",
+            "bizNameKr": "커머스,금융/보험/핀테크",
+            "corpNameEn": "Balance Hero Co.,Ltd.",
+            "corpNameKr": "밸런스히어로",
+            "prodNameEn": "트루밸런스(True Balance)",
+            "prodNameKr": "트루밸런스(True Balance)",
+            "corpIntroEn": "A company that operates India’s prepaid balance check service [TRUE BALANCE]",
+            "corpIntroKr": "인도 선불 잔액 확인 서비스 '트루밸런스'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000053.png"
+        },
+        {
+            "corpId": "CP00000318",
+            "bizNameEn": "금융/보험/핀테크",
+            "bizNameKr": "금융/보험/핀테크",
+            "corpNameEn": "HAN PASS CO.,LTD.",
+            "corpNameKr": "한패스",
+            "prodNameEn": "",
+            "prodNameKr": "한패스",
+            "corpIntroEn": "A company that operates the foreign exchange payment platform [HANPASS]",
+            "corpIntroKr": "외환 결제 플랫폼 '한패스'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000318_20231228135604.png"
+        },
+        {
+            "corpId": "CP00000184",
+            "bizNameEn": "금융/보험/핀테크",
+            "bizNameKr": "금융/보험/핀테크",
+            "corpNameEn": "U FINTECH HUB INC.",
+            "corpNameKr": "유핀테크허브",
+            "prodNameEn": "유트랜스퍼",
+            "prodNameKr": "유트랜스퍼",
+            "corpIntroEn": "A company that operates the overseas remittance and currency exchange service platform [UTRANSFER]",
+            "corpIntroKr": "해외 송금 및 환전 서비스 플랫폼 '유트랜스퍼'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000147.png"
+        },
+        {
+            "corpId": "CP00001724",
+            "bizNameEn": "금융/보험/핀테크",
+            "bizNameKr": "금융/보험/핀테크",
+            "corpNameEn": "Wire Barley Corp.",
+            "corpNameKr": "와이어바알리",
+            "prodNameEn": "와이어바알리",
+            "prodNameKr": "와이어바알리",
+            "corpIntroEn": "A company that operates the overseas remittance service [WIREBARLEY]",
+            "corpIntroKr": "해외 송금 서비스 '와이드바알리'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00001724_20240620142150.png"
+        },
+        {
+            "corpId": "CP00003368",
+            "bizNameEn": "금융/보험/핀테크",
+            "bizNameKr": "금융/보험/핀테크",
+            "corpNameEn": "PAYLETTER INC.",
+            "corpNameKr": "페이레터",
+            "prodNameEn": "페이레터",
+            "prodNameKr": "페이레터",
+            "corpIntroEn": "A company that provides online integrated payment services and billing solution [BILLONEQ]",
+            "corpIntroKr": "온라인 통합결제 서비스 및 빌링 솔루션 '빌원큐'를 제공하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210713104806.png"
+        },
+        {
+            "corpId": "CP00002733",
+            "bizNameEn": "금융/보험/핀테크",
+            "bizNameKr": "금융/보험/핀테크",
+            "corpNameEn": "MP Solutions Co.,Ltd.",
+            "corpNameKr": "엠피솔루션스",
+            "prodNameEn": "망고플러스",
+            "prodNameKr": "망고플러스",
+            "corpIntroEn": "A company that operates the automatic payment text message service [MANGOPAY]",
+            "corpIntroKr": "자동결제 문자 서비스 '망고페이'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210224142404.png"
+        }
+    ],
+    "customerSales": {
+        "salesBasic": [
+            {
+                "rate": 10.5,
+                "count": 309728,
+                "unitPrice": 31806.3,
+                "referenceMonth": "2022-02"
+            },
+            {
+                "rate": 9.8,
+                "count": 319624,
+                "unitPrice": 28571.1,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "rate": 28.9,
+                "count": 465291,
+                "unitPrice": 58191.1,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "rate": 27.7,
+                "count": 655788,
+                "unitPrice": 39591.3,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "rate": 22.4,
+                "count": 1461024,
+                "unitPrice": 14323.5,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "rate": 24.4,
+                "count": 2156892,
+                "unitPrice": 10593.5,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "rate": 25.7,
+                "count": 2970588,
+                "unitPrice": 8098.6,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "rate": 28.4,
+                "count": 3445417,
+                "unitPrice": 7721.4,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "rate": 32.4,
+                "count": 3981091,
+                "unitPrice": 7611.7,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "rate": 40.2,
+                "count": 4523830,
+                "unitPrice": 8317.0,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "rate": 52.1,
+                "count": 5250140,
+                "unitPrice": 9293.0,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "rate": 44.7,
+                "count": 5339931,
+                "unitPrice": 7841.7,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "rate": 19.9,
+                "count": 1373209,
+                "unitPrice": 13537.0,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "rate": 17.9,
+                "count": 735171,
+                "unitPrice": 22761.6,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "rate": 24.4,
+                "count": 660976,
+                "unitPrice": 34507.1,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "rate": 23.9,
+                "count": 739580,
+                "unitPrice": 30218.8,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "rate": 29.2,
+                "count": 813039,
+                "unitPrice": 33655.3,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "rate": 29.3,
+                "count": 886516,
+                "unitPrice": 30955.3,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "rate": 33.1,
+                "count": 985306,
+                "unitPrice": 31427.6,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "rate": 28.0,
+                "count": 1002476,
+                "unitPrice": 26141.0,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "rate": 30.6,
+                "count": 1170888,
+                "unitPrice": 24505.2,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "rate": 45.8,
+                "count": 1450817,
+                "unitPrice": 29546.2,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "rate": 39.6,
+                "count": 1515668,
+                "unitPrice": 24439.4,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "rate": 45.1,
+                "count": 1554842,
+                "unitPrice": 27139.3,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "rate": 48.0,
+                "count": 1623181,
+                "unitPrice": 27705.1,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "rate": 57.6,
+                "count": 2067017,
+                "unitPrice": 26072.9,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "rate": 60.7,
+                "count": 2226802,
+                "unitPrice": 25518.4,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "rate": 63.8,
+                "count": 2313438,
+                "unitPrice": 25807.7,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "rate": 62.2,
+                "count": 2279727,
+                "unitPrice": 25564.3,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "rate": 68.6,
+                "count": 2316167,
+                "unitPrice": 27749.7,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "rate": 65.1,
+                "count": 2183374,
+                "unitPrice": 27917.6,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "rate": 61.7,
+                "count": 2051957,
+                "unitPrice": 28155.6,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "rate": 70.2,
+                "count": 2256597,
+                "unitPrice": 29109.7,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "rate": 100.0,
+                "count": 2655011,
+                "unitPrice": 35266.5,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "rate": 87.3,
+                "count": 2665732,
+                "unitPrice": 30672.4,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "rate": 93.1,
+                "count": 2580554,
+                "unitPrice": 33780.2,
+                "referenceMonth": "2025-01"
+            }
+        ],
+        "salesPeriod": [
+            {
+                "period": "1개월내",
+                "repurchaseRate": 57.7,
+                "avgPurchaseRate": 3.6
+            },
+            {
+                "period": "3개월내",
+                "repurchaseRate": 68.9,
+                "avgPurchaseRate": 8.1
+            },
+            {
+                "period": "6개월내",
+                "repurchaseRate": 73.2,
+                "avgPurchaseRate": 13.6
+            },
+            {
+                "period": "12개월내",
+                "repurchaseRate": 76.3,
+                "avgPurchaseRate": 22.0
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "dataSufficient": true,
+    "base_company_info": {
+        "data": {
+            "seedCorp": {
+                "id": "CP00000013",
+                "city": 11680,
+                "corpCd": "STARTUP",
+                "comment": null,
+                "cordLat": 37.499817,
+                "cordLng": 127.034843,
+                "foundAt": "2013-04-23",
+                "homeUrl": "toss.im",
+                "subCorp": false,
+                "createBy": "system",
+                "invstCnt": 11,
+                "province": "SEOUL",
+                "showFlag": true,
+                "bizInfoEn": "Other Activities Auxiliary to Financial Service Activities n.e.c.",
+                "bizInfoKr": "시스템·응용 소프트웨어 개발 및 공급업",
+                "corpAddrEn": "12th Floor, 142, Teheran-ro Gangnam-gu Seoul",
+                "corpAddrKr": "서울 강남구 테헤란로 142, 4층, 10층, 11층, 12층, 13층, 22층, 23층",
+                "corpNameEn": "VIVA REPUBLICA CO.,LTD.",
+                "corpNameKr": "비바리퍼블리카",
+                "corpStatCd": "IN_OPERATION",
+                "createDate": "2021-05-28T09:44:53",
+                "hasSubCorp": false,
+                "investMemo": null,
+                "modifiedBy": "SYSTEM",
+                "capStockVal": "35237098000",
+                "corpIntroEn": "A company that operates a comprehensive mobile financial service [TOSS]",
+                "corpIntroKr": "모바일 금융 종합 서비스 '토스'를 운영하는 기업",
+                "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000013_20230324171814.png",
+                "empWholeVal": 1105,
+                "invstSumVal": 1493900000000,
+                "lastInvstAt": "2022-08-25",
+                "listingDate": null,
+                "patntLvlVal": 3,
+                "upperCorpId": null,
+                "corpStatCdEn": "운영중",
+                "corpStatCdKr": "운영중",
+                "emplWholeVal": 463,
+                "modifiedDate": "2025-02-24T19:30:02",
+                "corpStockCdEn": "비상장",
+                "corpStockCdKr": "비상장",
+                "logoImageFile": null,
+                "finacRevenueAt": "2023-12-31",
+                "niceCorpStatCd": "",
+                "finacRevenueVal": 336172174000,
+                "invstSumValText": "1.5조원",
+                "requestSendTypeCd": null,
+                "investmentDescription": ""
+            },
+            "seedBadge": [
+                {
+                    "id": "BG00000018",
+                    "badge": "K-유니콘",
+                    "endAt": "2033-12-31T23:59:00",
+                    "comment": null,
+                    "startAt": "2023-06-16T05:50:00",
+                    "createBy": "sboh",
+                    "showCode": "SHOWING",
+                    "badgeImage": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/badge/logo/BG00000018_20230616175339.png",
+                    "bubbleText": "<p style=\"text-align:center;\"><span style=\"color:hsl(166,100%,42.5%);\"><strong>K-유니콘 기업</strong></span>은 스타트업이 상장 이전에<br>1조원 이상의 기업가치로 성장하는 것이 상상 속에서나<br>가능하다는 데서 붙여진 이름으로,<br>중기부에서 발표한 대한민국의 유니콘 기업을 포함하여<br>추가적으로 기업가치를 인정받은 기업을 대상으로합니다.&nbsp;</p>",
+                    "createDate": "2023-06-16T17:52:44",
+                    "modifiedBy": "hskim",
+                    "bubbleTitle": "<p style=\"text-align:center;\"><strong>K-유니콘</strong></p>",
+                    "modifiedDate": "2024-12-12T16:56:47",
+                    "logoImageFile": null,
+                    "bubbleButtonUrl": "https://www.innoforest.co.kr/dataroom?tagArray=AK00000011&tagText=K-%EC%9C%A0%EB%8B%88%EC%BD%98&page=1",
+                    "bubbleButtonFlag": true,
+                    "bubbleButtonText": "K-유니콘 기업 보러가기",
+                    "seedBadgeCorpCaches": null
+                }
+            ],
+            "seedPeople": [
+                {
+                    "id": "PP00000006",
+                    "fbUrl": "https://www.facebook.com/Realname7",
+                    "corpId": "CP00000013",
+                    "etcUrl": null,
+                    "comment": null,
+                    "ivstrId": null,
+                    "useFlag": true,
+                    "createBy": null,
+                    "linkdUrl": "https://kr.linkedin.com/in/seunggun-lee",
+                    "showFlag": true,
+                    "pplNameEn": "Lee Seunggun",
+                    "pplNameKr": "이승건",
+                    "pplRoleCd": "CEO",
+                    "rocketUrl": null,
+                    "corpNameEn": null,
+                    "corpNameKr": null,
+                    "createDate": null,
+                    "crewRoleCd": null,
+                    "hasHistory": null,
+                    "modifiedBy": null,
+                    "modifiedDate": null,
+                    "seedPeopleHistories": null
+                }
+            ],
+            "seedCorpBiz": [
+                {
+                    "biz": 5,
+                    "corpCnt": 561,
+                    "createBy": "sboh",
+                    "bizNameEn": "금융/보험/핀테크",
+                    "bizNameKr": "금융/보험/핀테크",
+                    "createDate": "2023-09-20T15:18:44"
+                },
+                {
+                    "biz": 20,
+                    "corpCnt": 1152,
+                    "createBy": "sboh",
+                    "bizNameEn": "통신/보안/데이터",
+                    "bizNameKr": "통신/보안/데이터",
+                    "createDate": "2023-09-20T15:18:44"
+                }
+            ],
+            "seedCorpTag": [
+                {
+                    "tag": "TG00000411",
+                    "corpCnt": 166,
+                    "tagNameEn": "payments",
+                    "tagNameKr": "결제/페이먼트"
+                },
+                {
+                    "tag": "TG00000418",
+                    "corpCnt": 51,
+                    "tagNameEn": "insurance ",
+                    "tagNameKr": "보험/인슈어테크"
+                },
+                {
+                    "tag": "TG00000419",
+                    "corpCnt": 75,
+                    "tagNameEn": "stock",
+                    "tagNameKr": "주식/증권"
+                },
+                {
+                    "tag": "TG00000423",
+                    "corpCnt": 7,
+                    "tagNameEn": "bank",
+                    "tagNameKr": "은행"
+                },
+                {
+                    "tag": "TG00010001",
+                    "corpCnt": 6520,
+                    "tagNameEn": null,
+                    "tagNameKr": "B2B"
+                },
+                {
+                    "tag": "TG00010002",
+                    "corpCnt": 5696,
+                    "tagNameEn": "B2C",
+                    "tagNameKr": "B2C"
+                },
+                {
+                    "tag": "TG00030006",
+                    "corpCnt": 397,
+                    "tagNameEn": "commission ",
+                    "tagNameKr": "거래수수료"
+                },
+                {
+                    "tag": "TG00040001",
+                    "corpCnt": 2765,
+                    "tagNameEn": "App",
+                    "tagNameKr": "APP"
+                }
+            ],
+            "seedProduct": {
+                "id": "PD00003805",
+                "andUrl": null,
+                "corpId": "CP00000013",
+                "webUrl": "toss.im",
+                "createBy": "system",
+                "isAppProd": false,
+                "isEtcProd": false,
+                "isOffProd": false,
+                "isWebProd": false,
+                "prodEndAt": null,
+                "createDate": "2021-09-16T00:00:00",
+                "finishFlag": false,
+                "modifiedBy": "sboh",
+                "prodNameEn": "",
+                "prodNameKr": "토스",
+                "prodIntroEn": "",
+                "prodIntroKr": "-",
+                "prodLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00003805_20231211102512.png",
+                "etcProdCount": null,
+                "modifiedDate": "2023-12-11T10:25:12",
+                "offProdCount": null
+            },
+            "seedPeopleBlind": false,
+            "seedPeopleCount": 1,
+            "seedCorpBizBlind": false,
+            "seedCorpBizCount": 2,
+            "seedCorpTagBlind": false,
+            "seedCorpTagCount": 8,
+            "seedProductBlind": false,
+            "seedAdvertisementKeywords": [
+                {
+                    "id": "AK00000011",
+                    "corpCnt": 21,
+                    "advertisementKeyword": "K-유니콘"
+                }
+            ]
+        },
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+        "ogTagContent": {
+            "title": "비바리퍼블리카(토스) - 매출 투자 고용 정보 - 혁신의숲",
+            "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000013_20230324171814.png",
+            "description": "누적투자금 1.5조 스타트업 비바리퍼블리카(토스)의 매출, 투자, 고용, 특허등급, 재구매율, 방문자 분석 등 36개월 간의 데이터를 혁신의숲에서 확인해 보세요."
+        }
+    }
+}

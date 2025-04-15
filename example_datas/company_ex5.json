@@ -1,0 +1,1207 @@
+{
+    "mau": {
+        "list": [
+            {
+                "data": [
+                    {
+                        "value": 3587,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 75075,
+                        "growthRate": 1993.0,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 23167,
+                        "growthRate": -69.1,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 3718,
+                        "growthRate": -84.0,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 1176,
+                        "growthRate": -68.4,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 2691,
+                        "growthRate": 128.8,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 47325,
+                        "growthRate": 1658.6,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 1110,
+                        "growthRate": -97.7,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 1122,
+                        "growthRate": 1.1,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 1384,
+                        "growthRate": 100.0,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 1167,
+                        "growthRate": -15.7,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 1475,
+                        "growthRate": 26.4,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 1278,
+                        "growthRate": -13.4,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 1221,
+                        "growthRate": -4.5,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 1130,
+                        "growthRate": -7.5,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 480,
+                        "growthRate": -57.5,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 7057,
+                        "growthRate": 1370.2,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 4344,
+                        "growthRate": -38.4,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 420,
+                        "growthRate": -90.3,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 2189,
+                        "growthRate": 421.2,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 2094,
+                        "growthRate": -4.3,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 3430,
+                        "growthRate": 63.8,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 2949,
+                        "growthRate": -14.0,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 2512,
+                        "growthRate": -14.8,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 2575,
+                        "growthRate": 2.5,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 8004,
+                        "growthRate": 210.8,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 857,
+                        "growthRate": -89.3,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 868,
+                        "growthRate": 1.3,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 2620,
+                        "growthRate": 201.8,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 813,
+                        "growthRate": -69.0,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 9154,
+                        "growthRate": 1026.0,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 8461,
+                        "growthRate": -7.6,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 4281,
+                        "growthRate": -49.4,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 1112,
+                        "growthRate": -74.0,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00006914"
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "patent": {
+        "list": [
+            {
+                "level": "C",
+                "title": "블록체인을 기반으로 한 대출 서비스 방법 및 이러한 방법을 사용하는 장치{Method for loan based on blockchain and apparatus for using the method}",
+                "registerAt": "2019-07-19"
+            },
+            {
+                "level": "C",
+                "title": "블록체인을 기반으로 한 투자 방법 및 이러한 방법을 사용하는 장치{Method for investment based on blockchain and apparatus for using the method}",
+                "registerAt": "2019-07-19"
+            },
+            {
+                "level": "C",
+                "title": "블록체인 상에서 트랜잭션 고속 처리 방법 및 이러한 방법을 사용하는 장치{Method for high speed transaction processing on blockchain and apparatus for using the method}",
+                "registerAt": "2019-07-19"
+            },
+            {
+                "level": "C",
+                "title": "블록체인을 기반으로 한 디지털 자산 유동화 증권 발행 및 디지털 자산 유동화 증권 거래 방법 및 이러한 방법을 수행하는 장치{Method for issuing DABS(digital asset backed securities) and trading DABS based on blockchain and apparatus for performing the method}",
+                "registerAt": "2019-04-10"
+            },
+            {
+                "level": "C",
+                "title": "블록체인 상에서 외부 노드를 통한 트랜잭션 처리 방법 및 이러한 방법을 수행하는 장치{Method for processing transaction via external node on blockchain and apparatus for performing the method}",
+                "registerAt": "2019-03-28"
+            }
+        ],
+        "chart": [
+            {
+                "count": 5,
+                "level": "C"
+            }
+        ],
+        "words": [
+            {
+                "text": "체인",
+                "patentCount": 8,
+                "displayCount": 38
+            },
+            {
+                "text": "블록체인",
+                "patentCount": 8,
+                "displayCount": 38
+            },
+            {
+                "text": "블록",
+                "patentCount": 8,
+                "displayCount": 38
+            },
+            {
+                "text": "노드",
+                "patentCount": 5,
+                "displayCount": 37
+            },
+            {
+                "text": "트랜잭션",
+                "patentCount": 3,
+                "displayCount": 21
+            },
+            {
+                "text": "자산",
+                "patentCount": 2,
+                "displayCount": 14
+            },
+            {
+                "text": "서비스",
+                "patentCount": 4,
+                "displayCount": 12
+            },
+            {
+                "text": "권한",
+                "patentCount": 2,
+                "displayCount": 12
+            },
+            {
+                "text": "네트워크",
+                "patentCount": 4,
+                "displayCount": 10
+            },
+            {
+                "text": "데이터",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "유동",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "거래",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "발행",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "유동화",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "증권",
+                "patentCount": 3,
+                "displayCount": 7
+            },
+            {
+                "text": "투자",
+                "patentCount": 1,
+                "displayCount": 7
+            },
+            {
+                "text": "대출",
+                "patentCount": 1,
+                "displayCount": 7
+            },
+            {
+                "text": "통한",
+                "patentCount": 2,
+                "displayCount": 6
+            },
+            {
+                "text": "디지털",
+                "patentCount": 2,
+                "displayCount": 6
+            },
+            {
+                "text": "플랫폼",
+                "patentCount": 2,
+                "displayCount": 5
+            },
+            {
+                "text": "상품",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "USING",
+                "patentCount": 4,
+                "displayCount": 4
+            },
+            {
+                "text": "캐시",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "전송",
+                "patentCount": 3,
+                "displayCount": 4
+            },
+            {
+                "text": "거래소",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "요청",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "DIGITAL",
+                "patentCount": 2,
+                "displayCount": 3
+            },
+            {
+                "text": "절차",
+                "patentCount": 2,
+                "displayCount": 3
+            },
+            {
+                "text": "SECURITY",
+                "patentCount": 2,
+                "displayCount": 3
+            },
+            {
+                "text": "TRANSACTION",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "고속",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "권한일",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "고성능",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "참여",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "DABS",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "판매",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "펀드",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "공모",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "NODE",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "VIA",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "PERFORMANCE",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "상환",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "ISSUING",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "PLATFORM",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "기록",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "수익",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "응답",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "CACHE",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "수신",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "SPEED",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "유가",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "액세스",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "중계",
+                "patentCount": 1,
+                "displayCount": 1
+            }
+        ],
+        "totalCount": 5,
+        "averageRank": 2.0,
+        "recentUpdate": "2022-01-25"
+    },
+    "finance": {
+        "data": [
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2021,
+                "profit": 193580000,
+                "capital": 10000000000,
+                "netProfit": -13298362000,
+                "liabilities": 3904001000,
+                "totalAssets": 8610780000,
+                "totalCapital": 4706779000,
+                "operatingProfit": -11450812000
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "products": [
+        {
+            "id": "PD00006914",
+            "name": "카사",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=network.kasa.exchange",
+                    "type": "APP"
+                },
+                {
+                    "url": "kasa.co.kr",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://play-lh.googleusercontent.com/Fa40Xc-kFX8I3LFE-GxFZYwnew5TC7VlahiGbPl_AASgT6BeuG9d7wqD_sgugCHjtcsX=s360-rw"
+        }
+    ],
+    "investment": {
+        "data": [
+            {
+                "level": "M&A",
+                "investAt": "2023-03-14",
+                "investor": [
+                    {
+                        "id": "IV00000211",
+                        "name": "대신증권",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 15000000000
+            },
+            {
+                "level": "series B",
+                "investAt": "2021-12-14",
+                "investor": [
+                    {
+                        "id": "IV00002010",
+                        "name": "피지에스파트너스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001355",
+                        "name": "위메이드",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000934",
+                        "name": "아르케인베스트먼트",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000861",
+                        "name": "신아주",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001384",
+                        "name": "유안타인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001383",
+                        "name": "유안타아시아인베스트먼트",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 19000000000
+            },
+            {
+                "level": "series B",
+                "investAt": "2020-10-01",
+                "investor": [
+                    {
+                        "id": "IV00002062",
+                        "name": "한국산업은행",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000153",
+                        "name": "노던라이트벤처캐피털",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001734",
+                        "name": "코나아이파트너스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000061",
+                        "name": "국보디자인",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 9200000000
+            },
+            {
+                "level": "series A",
+                "investAt": "2019-10-01",
+                "investor": [
+                    {
+                        "id": "IV00000868",
+                        "name": "신한투자증권",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00002026",
+                        "name": "하나은행",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001318",
+                        "name": "우미건설",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001142",
+                        "name": "에이에프인베스트먼트",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001722",
+                        "name": "케이클라비스",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 7000000000
+            },
+            {
+                "level": "pre-A",
+                "investAt": "2018-07-01",
+                "investor": [
+                    {
+                        "id": "IV00000585",
+                        "name": "본엔젤스벤처파트너스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001654",
+                        "name": "카카오벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001971",
+                        "name": "퓨처플레이",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000443",
+                        "name": "매쉬업벤처스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001658",
+                        "name": "카카오인베스트먼트",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 3300000000
+            }
+        ],
+        "recentUpdate": "2023-03-15",
+        "lastInvestmentLevel": "M&A",
+        "investmentDescription": "",
+        "totalInvestmentAmount": 38500000000
+    },
+    "organization": {
+        "data": [
+            {
+                "in": 0,
+                "out": 0,
+                "value": 38,
+                "growRate": 0.0,
+                "referenceMonth": "2025-01"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 38,
+                "growRate": 2.7,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 37,
+                "growRate": -5.1,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "in": 2,
+                "out": 2,
+                "value": 39,
+                "growRate": 5.4,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 37,
+                "growRate": -5.1,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "in": 0,
+                "out": 2,
+                "value": 39,
+                "growRate": 0.0,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "in": 2,
+                "out": 0,
+                "value": 39,
+                "growRate": 5.4,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 37,
+                "growRate": -2.6,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 38,
+                "growRate": 0.0,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 38,
+                "growRate": 2.7,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "in": 3,
+                "out": 0,
+                "value": 37,
+                "growRate": 8.8,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 34,
+                "growRate": 3.0,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 33,
+                "growRate": -8.3,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "in": 0,
+                "out": 3,
+                "value": 36,
+                "growRate": -2.7,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 37,
+                "growRate": 0.0,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "in": 0,
+                "out": 1,
+                "value": 37,
+                "growRate": 0.0,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 37,
+                "growRate": -5.1,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "in": 4,
+                "out": 2,
+                "value": 39,
+                "growRate": 11.4,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 35,
+                "growRate": 0.0,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 35,
+                "growRate": -5.4,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "in": 2,
+                "out": 2,
+                "value": 37,
+                "growRate": 2.8,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "in": 6,
+                "out": 1,
+                "value": 36,
+                "growRate": -16.3,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "in": 0,
+                "out": 13,
+                "value": 43,
+                "growRate": -20.4,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "in": 0,
+                "out": 11,
+                "value": 54,
+                "growRate": -3.6,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "in": 0,
+                "out": 2,
+                "value": 56,
+                "growRate": -9.7,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "in": 1,
+                "out": 6,
+                "value": 62,
+                "growRate": -4.6,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "in": 1,
+                "out": 4,
+                "value": 65,
+                "growRate": -5.8,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "in": 2,
+                "out": 5,
+                "value": 69,
+                "growRate": -4.2,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "in": 5,
+                "out": 5,
+                "value": 72,
+                "growRate": 2.9,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "in": 6,
+                "out": 3,
+                "value": 70,
+                "growRate": 6.1,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "in": 11,
+                "out": 2,
+                "value": 66,
+                "growRate": 17.9,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 56,
+                "growRate": -3.4,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "in": 1,
+                "out": 3,
+                "value": 58,
+                "growRate": -1.7,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "in": 6,
+                "out": 2,
+                "value": 59,
+                "growRate": 0.0,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "in": 1,
+                "out": 6,
+                "value": 59,
+                "growRate": -1.7,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "in": 4,
+                "out": 2,
+                "value": 60,
+                "growRate": 100.0,
+                "referenceMonth": "2022-02"
+            }
+        ],
+        "retireRate": 16.0,
+        "recentUpdate": "2025-02-24"
+    },
+    "similarCorps": [
+        {
+            "corpId": "CP00010433",
+            "bizNameEn": "금융/보험/핀테크,부동산/건설",
+            "bizNameKr": "금융/보험/핀테크,부동산/건설",
+            "corpNameEn": "FUNBLE INC.",
+            "corpNameKr": "펀블",
+            "prodNameEn": "",
+            "prodNameKr": "펀블",
+            "corpIntroEn": "A company that operates the real estate investment platform [FUNBLE]",
+            "corpIntroKr": "부동산 조각투자 플랫폼 '펀블'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00010433_20221031145338.png"
+        },
+        {
+            "corpId": "CP00000465",
+            "bizNameEn": "금융/보험/핀테크,부동산/건설",
+            "bizNameKr": "금융/보험/핀테크,부동산/건설",
+            "corpNameEn": "BUILD BLOCK CO., LTD.",
+            "corpNameKr": "빌드블록",
+            "prodNameEn": "빌드블록",
+            "prodNameKr": "빌드블록",
+            "corpIntroEn": "A company that operates the U.S. real estate investment and management platform [BUILDBLOCK]",
+            "corpIntroKr": "미국 부동산 투자 및 관리 플랫폼 \"빌드블록\"을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000465_20230510203615.webp"
+        },
+        {
+            "corpId": "CP00001672",
+            "bizNameEn": "금융/보험/핀테크,부동산/건설,AI/딥테크/블록체인",
+            "bizNameKr": "금융/보험/핀테크,부동산/건설,AI/딥테크/블록체인",
+            "corpNameEn": "Lucent Block Co.,Ltd.",
+            "corpNameKr": "루센트블록",
+            "prodNameEn": "",
+            "prodNameKr": "소유",
+            "corpIntroEn": "A company that operates a real estate investment platform [SOU]",
+            "corpIntroKr": "부동산 조각투자 플랫폼 '소유'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001671.png"
+        },
+        {
+            "corpId": "CP00000295",
+            "bizNameEn": "부동산/건설",
+            "bizNameKr": "부동산/건설",
+            "corpNameEn": "DISCO INC.",
+            "corpNameKr": "디스코",
+            "prodNameEn": "디스코",
+            "prodNameKr": "디스코",
+            "corpIntroEn": "A company that operates a real estate brokerage platform [DISCO] that provides real estate transaction price information",
+            "corpIntroKr": "부동산 실거래가 정보를 제공하는 부동산 중개 플랫폼 '디스코'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000349.png"
+        },
+        {
+            "corpId": "CP00002185",
+            "bizNameEn": "금융/보험/핀테크,부동산/건설",
+            "bizNameKr": "금융/보험/핀테크,부동산/건설",
+            "corpNameEn": "DN KOREA CO., LTD.",
+            "corpNameKr": "디엔코리아",
+            "prodNameEn": "동네부동산",
+            "prodNameKr": "동네",
+            "corpIntroEn": "A company that operates [DONGNE], a customized real estate brokerage service platform based on user preferences.",
+            "corpIntroKr": "사용자 선호기반 맞춤형 부동산 중개서비스 플랫폼 ‘동네’를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210127184529.png"
+        },
+        {
+            "corpId": "CP00000096",
+            "bizNameEn": "부동산/건설",
+            "bizNameKr": "부동산/건설",
+            "corpNameEn": "ZIPTOSS",
+            "corpNameKr": "집토스",
+            "prodNameEn": "",
+            "prodNameKr": "집토스",
+            "corpIntroEn": "A company that operates [ZIPTOSS], a real estate brokerage platform in the Seoul area based on directly managed real estate.",
+            "corpIntroKr": "직영부동산 기반 서울지역 부동산 중개 플랫폼 '집토스'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000096_20220811175239.png"
+        },
+        {
+            "corpId": "CP00002024",
+            "bizNameEn": "부동산/건설",
+            "bizNameKr": "부동산/건설",
+            "corpNameEn": "Toad World Co.,Ltd.",
+            "corpNameKr": "두꺼비세상",
+            "prodNameEn": "피터팬의 좋은방 구하기",
+            "prodNameKr": "피터팬의 좋은방 구하기",
+            "corpIntroEn": "A proptech company that operates direct real estate transaction platform [PETERPANZ], convenience service for apartment residents [APTNER], and smart building management solution [OFFICENER].",
+            "corpIntroKr": "부동산 직거래 플랫폼 '피터팬의 좋은방 구하기', 아파트 입주민 편의 서비스 '아파트너', 스마트 빌딩 관리 솔루션 '오피스너' 서비스를 운영하는 프롭테크 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C002028.png"
+        },
+        {
+            "corpId": "CP00000379",
+            "bizNameEn": "금융/보험/핀테크",
+            "bizNameKr": "금융/보험/핀테크",
+            "corpNameEn": "BEYOND PLAT FORM SERVICE CO.,LTD.",
+            "corpNameKr": "비욘드플랫폼서비스",
+            "prodNameEn": "",
+            "prodNameKr": "비욘드펀드",
+            "corpIntroEn": "A company that operates the P2P financial platform [BEYOND FUND(Discontinued)] and the comprehensive asset management app [BANKQ(Discontinued)]",
+            "corpIntroKr": "P2P금융플랫폼 \"비욘드펀드\"와 종합 자산관리 앱 \"뱅큐\"를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000317.png"
+        }
+    ],
+    "dataSufficient": true,
+    "base_company_info": {
+        "data": {
+            "seedCorp": {
+                "id": "CP00000759",
+                "city": 11680,
+                "corpCd": "STARTUP",
+                "comment": null,
+                "cordLat": 203772,
+                "cordLng": 444464,
+                "foundAt": "2018-05-02",
+                "homeUrl": "kasa.co.kr",
+                "subCorp": false,
+                "createBy": "system",
+                "invstCnt": 4,
+                "province": "SEOUL",
+                "showFlag": true,
+                "bizInfoEn": "Data Base Activities and On-line Information Provision Services",
+                "bizInfoKr": "데이터베이스 및 온라인정보 제공업",
+                "corpAddrEn": "16th Floor, 302, Teheran-ro Gangnam-gu Seoul",
+                "corpAddrKr": "서울 강남구 테헤란로 302, 16층",
+                "corpNameEn": "Kasa Korea Co.,Ltd.",
+                "corpNameKr": "카사코리아",
+                "corpStatCd": "IN_OPERATION",
+                "createDate": "2021-05-28T10:35:53",
+                "hasSubCorp": false,
+                "investMemo": null,
+                "modifiedBy": "SYSTEM",
+                "capStockVal": "10000000000",
+                "corpIntroEn": "A company that operates a blockchain-based real estate beneficiary securities investment and trading platform [KASA]",
+                "corpIntroKr": "블록체인 기반 부동산 수익증권 투자 및 거래 플랫폼 '카사'를 운영하는 기업",
+                "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000759_20220622134132.jpg",
+                "empWholeVal": 38,
+                "invstSumVal": 38500000000,
+                "lastInvstAt": "2023-03-14",
+                "listingDate": null,
+                "patntLvlVal": 2,
+                "upperCorpId": null,
+                "corpStatCdEn": "운영중",
+                "corpStatCdKr": "운영중",
+                "emplWholeVal": null,
+                "modifiedDate": "2025-01-23T18:50:05",
+                "corpStockCdEn": "비상장",
+                "corpStockCdKr": "비상장",
+                "logoImageFile": null,
+                "finacRevenueAt": "2021-12-31",
+                "niceCorpStatCd": "00",
+                "finacRevenueVal": 193580000,
+                "invstSumValText": "385.0억원",
+                "requestSendTypeCd": null,
+                "investmentDescription": ""
+            },
+            "seedBadge": [],
+            "seedPeople": [
+                {
+                    "id": "PP00000848",
+                    "fbUrl": "",
+                    "corpId": "CP00000759",
+                    "etcUrl": null,
+                    "comment": null,
+                    "ivstrId": null,
+                    "useFlag": true,
+                    "createBy": null,
+                    "linkdUrl": "",
+                    "showFlag": true,
+                    "pplNameEn": "",
+                    "pplNameKr": "홍재근",
+                    "pplRoleCd": "CEO",
+                    "rocketUrl": "",
+                    "corpNameEn": null,
+                    "corpNameKr": null,
+                    "createDate": null,
+                    "crewRoleCd": null,
+                    "hasHistory": null,
+                    "modifiedBy": null,
+                    "modifiedDate": null,
+                    "seedPeopleHistories": null
+                }
+            ],
+            "seedCorpBiz": [
+                {
+                    "biz": 5,
+                    "corpCnt": 561,
+                    "createBy": "wjy",
+                    "bizNameEn": "금융/보험/핀테크",
+                    "bizNameKr": "금융/보험/핀테크",
+                    "createDate": "2023-05-08T14:47:45"
+                },
+                {
+                    "biz": 17,
+                    "corpCnt": 390,
+                    "createBy": "wjy",
+                    "bizNameEn": "부동산/건설",
+                    "bizNameKr": "부동산/건설",
+                    "createDate": "2023-05-08T14:47:45"
+                }
+            ],
+            "seedCorpTag": [
+                {
+                    "tag": "TG00000412",
+                    "corpCnt": 177,
+                    "tagNameEn": "investment",
+                    "tagNameKr": "투자"
+                },
+                {
+                    "tag": "TG00001624",
+                    "corpCnt": 124,
+                    "tagNameEn": "prop tech",
+                    "tagNameKr": "프롭테크"
+                },
+                {
+                    "tag": "TG00010002",
+                    "corpCnt": 5700,
+                    "tagNameEn": "B2C",
+                    "tagNameKr": "B2C"
+                },
+                {
+                    "tag": "TG00030001",
+                    "corpCnt": 3169,
+                    "tagNameEn": "platform/marketplace",
+                    "tagNameKr": "플랫폼/마켓플레이스"
+                },
+                {
+                    "tag": "TG00040001",
+                    "corpCnt": 2766,
+                    "tagNameEn": "App",
+                    "tagNameKr": "APP"
+                },
+                {
+                    "tag": "TG00040012",
+                    "corpCnt": 174,
+                    "tagNameEn": "financial product",
+                    "tagNameKr": "금융상품"
+                },
+                {
+                    "tag": "TG00070003",
+                    "corpCnt": 16,
+                    "tagNameEn": "조각투자",
+                    "tagNameKr": "조각투자"
+                }
+            ],
+            "seedProduct": {
+                "id": "PD00006914",
+                "andUrl": null,
+                "corpId": "CP00000759",
+                "webUrl": "kasa.co.kr",
+                "createBy": "system",
+                "isAppProd": false,
+                "isEtcProd": false,
+                "isOffProd": false,
+                "isWebProd": false,
+                "prodEndAt": null,
+                "createDate": "2021-09-28T18:24:45",
+                "finishFlag": false,
+                "modifiedBy": "mark0002",
+                "prodNameEn": "카사",
+                "prodNameKr": "카사",
+                "prodIntroEn": "국내 최초로 부동산 디지털 수익증권(댑스·DABS) 거래 플랫폼을 운영",
+                "prodIntroKr": "부동산 디지털 수익증권(댑스·DABS) 거래 플랫폼을 운영",
+                "prodLogoImg": "https://play-lh.googleusercontent.com/Fa40Xc-kFX8I3LFE-GxFZYwnew5TC7VlahiGbPl_AASgT6BeuG9d7wqD_sgugCHjtcsX=s360-rw",
+                "etcProdCount": null,
+                "modifiedDate": "2021-12-16T16:03:03",
+                "offProdCount": null
+            },
+            "seedPeopleBlind": false,
+            "seedPeopleCount": 1,
+            "seedCorpBizBlind": false,
+            "seedCorpBizCount": 2,
+            "seedCorpTagBlind": false,
+            "seedCorpTagCount": 7,
+            "seedProductBlind": false,
+            "seedAdvertisementKeywords": []
+        },
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+        "ogTagContent": {
+            "title": "카사코리아(카사) - 매출 투자 고용 정보 - 혁신의숲",
+            "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000759_20220622134132.jpg",
+            "description": "누적투자금 385.0억 스타트업 카사코리아(카사)의 매출, 투자, 고용, 특허등급, 재구매율, 방문자 분석 등 36개월 간의 데이터를 혁신의숲에서 확인해 보세요."
+        }
+    }
+}

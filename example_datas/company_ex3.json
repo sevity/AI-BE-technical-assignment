@@ -1,0 +1,1511 @@
+{
+    "mau": {
+        "list": [
+            {
+                "data": [
+                    {
+                        "value": 726765,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 565191,
+                        "growthRate": -22.2,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 589961,
+                        "growthRate": 4.4,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 573467,
+                        "growthRate": -2.8,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 564981,
+                        "growthRate": -1.5,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 580550,
+                        "growthRate": 2.8,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 591747,
+                        "growthRate": 1.9,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 578549,
+                        "growthRate": -2.2,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 577377,
+                        "growthRate": -0.2,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 606117,
+                        "growthRate": 5.0,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 661382,
+                        "growthRate": 9.1,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 646593,
+                        "growthRate": -2.2,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 690190,
+                        "growthRate": 6.7,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 694202,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 743353,
+                        "growthRate": 7.1,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 735652,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 733109,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 737622,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 759590,
+                        "growthRate": 3.0,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 776579,
+                        "growthRate": 2.2,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 752974,
+                        "growthRate": -3.0,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 719494,
+                        "growthRate": -4.4,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 825516,
+                        "growthRate": 14.7,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 776763,
+                        "growthRate": -5.9,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 767224,
+                        "growthRate": -1.2,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 744294,
+                        "growthRate": -3.0,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 813116,
+                        "growthRate": 9.2,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 853432,
+                        "growthRate": 5.0,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 916227,
+                        "growthRate": 7.4,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 921572,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 953431,
+                        "growthRate": 3.5,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 974413,
+                        "growthRate": 2.2,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 912189,
+                        "growthRate": -6.4,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 983818,
+                        "growthRate": 7.9,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 979487,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00000221"
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "patent": {
+        "list": [
+            {
+                "level": "C",
+                "title": "감성 태그 기반의 도서평 제공 장치{APPARATUS FOR PROVIDING BOOK-RATING BASED ON EMOTION TAG}",
+                "registerAt": "2018-11-16"
+            }
+        ],
+        "chart": [
+            {
+                "count": 1,
+                "level": "C"
+            }
+        ],
+        "words": [
+            {
+                "text": "태그",
+                "patentCount": 1,
+                "displayCount": 16
+            },
+            {
+                "text": "감성",
+                "patentCount": 1,
+                "displayCount": 16
+            },
+            {
+                "text": "도서",
+                "patentCount": 1,
+                "displayCount": 6
+            },
+            {
+                "text": "내적",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "내적인",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "제공자",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "제공부",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "등록",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "외적",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "외적인",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "도서평",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "이용자",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "수신",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "PROVIDING",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "베스트",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "RATING",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "처리부",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "공유",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "TAG",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "시간",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "랜덤",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "평가",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "허용",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "빈발",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "경과",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "시점",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "노출",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "표현",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "간결",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "BOOK",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "감상",
+                "patentCount": 1,
+                "displayCount": 1
+            },
+            {
+                "text": "추천",
+                "patentCount": 1,
+                "displayCount": 1
+            }
+        ],
+        "totalCount": 1,
+        "averageRank": 2.0,
+        "recentUpdate": "2022-01-25"
+    },
+    "finance": {
+        "data": [
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2021,
+                "profit": 28856986000,
+                "capital": 1366560000,
+                "netProfit": -34841769000,
+                "liabilities": 100833247000,
+                "totalAssets": 17843206000,
+                "totalCapital": -82990041000,
+                "operatingProfit": -14510621000
+            },
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2022,
+                "profit": 45829674000,
+                "capital": 3283455000,
+                "netProfit": 13349631000,
+                "liabilities": 20032681000,
+                "totalAssets": 27570195000,
+                "totalCapital": 7537514000,
+                "operatingProfit": 4169062000
+            },
+            {
+                "type": "SEPARATE_KODATA",
+                "year": 2023,
+                "profit": 56572749000,
+                "capital": 4194144000,
+                "netProfit": 14537918000,
+                "liabilities": 21010084000,
+                "totalAssets": 78732177000,
+                "totalCapital": 57722093000,
+                "operatingProfit": 10406126000
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "products": [
+        {
+            "id": "PD00000221",
+            "name": "밀리의서재",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=kr.co.millie.millieshelf",
+                    "type": "APP"
+                },
+                {
+                    "type": "IOS"
+                },
+                {
+                    "url": "millie.co.kr",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://lh3.googleusercontent.com/ck3EZc2bX63rxRC-aMdx46T-KcZiFtm8QxLLY81Yi8ej3mHv7xdBNWe_eT55s1Usa8AI"
+        }
+    ],
+    "investment": {
+        "data": [
+            {
+                "level": "IPO",
+                "investAt": "2023-09-27",
+                "investor": [
+                    {
+                        "id": "IV00001754",
+                        "name": "KOSDAQ",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 34500000000
+            },
+            {
+                "level": "M&A",
+                "investAt": "2021-09-17",
+                "investor": [
+                    {
+                        "id": "IV00001575",
+                        "name": "지니뮤직",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 46400000000
+            },
+            {
+                "level": "series C",
+                "investAt": "2019-05-01",
+                "investor": [
+                    {
+                        "id": "IV00001148",
+                        "name": "에이치비인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001705",
+                        "name": "케이비인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000117",
+                        "name": "나이스투자파트너스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001223",
+                        "name": "엘앤에스벤처캐피털",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001765",
+                        "name": "코오롱인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00002090",
+                        "name": "한국투자파트너스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000832",
+                        "name": "스틱인베스트먼트",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 18200000000
+            },
+            {
+                "level": "series B",
+                "investAt": "2018-10-05",
+                "investor": [
+                    {
+                        "id": "IV00001148",
+                        "name": "에이치비인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001705",
+                        "name": "케이비인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000117",
+                        "name": "나이스투자파트너스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001223",
+                        "name": "엘앤에스벤처캐피털",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001765",
+                        "name": "코오롱인베스트먼트",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 6500000000
+            },
+            {
+                "level": "series A",
+                "investAt": "2018-05-12",
+                "investor": [
+                    {
+                        "id": "IV99999999",
+                        "name": "비공개투자자",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001148",
+                        "name": "에이치비인베스트먼트",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 2500000000
+            },
+            {
+                "level": "pre-A",
+                "investAt": "2017-07-14",
+                "investor": [
+                    {
+                        "id": "IV00001148",
+                        "name": "에이치비인베스트먼트",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 750000000
+            },
+            {
+                "level": "seed",
+                "investAt": "2016-12-01",
+                "investor": [
+                    {
+                        "id": "IV00001327",
+                        "name": "웅진씽크빅",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00000518",
+                        "name": "미래엔",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 200000000
+            }
+        ],
+        "recentUpdate": "2023-10-04",
+        "lastInvestmentLevel": "IPO",
+        "investmentDescription": "",
+        "totalInvestmentAmount": 62650000000
+    },
+    "customerType": {
+        "salesFamily": [
+            {
+                "rate": 5.4,
+                "type": "성인자녀가구"
+            },
+            {
+                "rate": 10.0,
+                "type": "유아자녀가구"
+            },
+            {
+                "rate": 23.1,
+                "type": "청소년자녀가구"
+            },
+            {
+                "rate": 5.4,
+                "type": "신혼가구"
+            },
+            {
+                "rate": 55.2,
+                "type": "싱글가구"
+            },
+            {
+                "rate": 0.9,
+                "type": "실버가구"
+            }
+        ],
+        "salesIncome": [
+            {
+                "rate": 1.7,
+                "type": "2000만원이하"
+            },
+            {
+                "rate": 17.2,
+                "type": "3000만원이하"
+            },
+            {
+                "rate": 21.5,
+                "type": "4000만원이하"
+            },
+            {
+                "rate": 17.6,
+                "type": "5000만원이하"
+            },
+            {
+                "rate": 11.7,
+                "type": "6000만원이하"
+            },
+            {
+                "rate": 13.0,
+                "type": "8000만원이하"
+            },
+            {
+                "rate": 6.2,
+                "type": "1억원이하"
+            },
+            {
+                "rate": 11.1,
+                "type": "1억원초과"
+            }
+        ],
+        "salesPerson": [
+            {
+                "rate": 12.5,
+                "gender": "여성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 5.7,
+                "gender": "여성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 1.0,
+                "gender": "여성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 4.6,
+                "gender": "남성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 17.9,
+                "gender": "여성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 6.9,
+                "gender": "남성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 1.7,
+                "gender": "남성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 13.9,
+                "gender": "남성",
+                "ageGroup": "30~39세"
+            },
+            {
+                "rate": 10.6,
+                "gender": "남성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 25.2,
+                "gender": "여성",
+                "ageGroup": "30~39세"
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "organization": {
+        "data": [
+            {
+                "in": 4,
+                "out": 6,
+                "value": 188,
+                "growRate": -0.5,
+                "referenceMonth": "2025-01"
+            },
+            {
+                "in": 14,
+                "out": 5,
+                "value": 189,
+                "growRate": 6.2,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "in": 5,
+                "out": 3,
+                "value": 178,
+                "growRate": 0.0,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "in": 7,
+                "out": 5,
+                "value": 178,
+                "growRate": 2.3,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "in": 8,
+                "out": 3,
+                "value": 174,
+                "growRate": 2.4,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "in": 4,
+                "out": 4,
+                "value": 170,
+                "growRate": 1.2,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "in": 1,
+                "out": 2,
+                "value": 168,
+                "growRate": -1.8,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "in": 8,
+                "out": 4,
+                "value": 171,
+                "growRate": 2.4,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "in": 8,
+                "out": 4,
+                "value": 167,
+                "growRate": 1.2,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "in": 10,
+                "out": 6,
+                "value": 165,
+                "growRate": 2.5,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "in": 7,
+                "out": 6,
+                "value": 161,
+                "growRate": 3.2,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "in": 5,
+                "out": 2,
+                "value": 156,
+                "growRate": 0.0,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "in": 4,
+                "out": 5,
+                "value": 156,
+                "growRate": -1.9,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "in": 7,
+                "out": 7,
+                "value": 159,
+                "growRate": -0.6,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "in": 9,
+                "out": 8,
+                "value": 160,
+                "growRate": 1.9,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "in": 6,
+                "out": 6,
+                "value": 157,
+                "growRate": 2.6,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "in": 10,
+                "out": 2,
+                "value": 153,
+                "growRate": 3.4,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "in": 4,
+                "out": 5,
+                "value": 148,
+                "growRate": 2.1,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "in": 7,
+                "out": 1,
+                "value": 145,
+                "growRate": 3.6,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "in": 6,
+                "out": 2,
+                "value": 140,
+                "growRate": 1.4,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "in": 2,
+                "out": 4,
+                "value": 138,
+                "growRate": -2.1,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "in": 6,
+                "out": 5,
+                "value": 141,
+                "growRate": 4.4,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 135,
+                "growRate": -0.7,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "in": 3,
+                "out": 2,
+                "value": 136,
+                "growRate": 0.7,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "in": 2,
+                "out": 2,
+                "value": 135,
+                "growRate": -0.7,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "in": 7,
+                "out": 3,
+                "value": 136,
+                "growRate": 3.8,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "in": 8,
+                "out": 2,
+                "value": 131,
+                "growRate": 5.6,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "in": 3,
+                "out": 1,
+                "value": 124,
+                "growRate": 1.6,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "in": 8,
+                "out": 1,
+                "value": 122,
+                "growRate": 1.7,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "in": 5,
+                "out": 6,
+                "value": 120,
+                "growRate": 1.7,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "in": 4,
+                "out": 3,
+                "value": 118,
+                "growRate": -3.3,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "in": 4,
+                "out": 8,
+                "value": 122,
+                "growRate": 0.0,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "in": 5,
+                "out": 4,
+                "value": 122,
+                "growRate": 2.5,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "in": 4,
+                "out": 2,
+                "value": 119,
+                "growRate": 2.6,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "in": 4,
+                "out": 1,
+                "value": 116,
+                "growRate": 1.8,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "in": 9,
+                "out": 2,
+                "value": 114,
+                "growRate": 100.0,
+                "referenceMonth": "2022-02"
+            }
+        ],
+        "retireRate": 29.1,
+        "recentUpdate": "2025-02-24"
+    },
+    "similarCorps": [
+        {
+            "corpId": "CP00000016",
+            "bizNameEn": "콘텐츠/예술",
+            "bizNameKr": "콘텐츠/예술",
+            "corpNameEn": "RIDI CORPORATION",
+            "corpNameKr": "리디",
+            "prodNameEn": "",
+            "prodNameKr": "리디",
+            "corpIntroEn": "A company that operates a webtoon and web novel content platform [RIDI], etc.",
+            "corpIntroKr": "웹툰·웹소설 콘텐츠 플랫폼 '리디' 등을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000064.png"
+        },
+        {
+            "corpId": "CP00001778",
+            "bizNameEn": "콘텐츠/예술",
+            "bizNameKr": "콘텐츠/예술",
+            "corpNameEn": "MUNPIA INC.",
+            "corpNameKr": "문피아",
+            "prodNameEn": "문피아",
+            "prodNameKr": "문피아",
+            "corpIntroEn": "A company that operates the web novel platform [MUNPIA]",
+            "corpIntroKr": "웹소설 플랫폼 '문피아'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001782.png"
+        },
+        {
+            "corpId": "CP00001781",
+            "bizNameEn": "콘텐츠/예술",
+            "bizNameKr": "콘텐츠/예술",
+            "corpNameEn": "BOOK PAL CO.,LTD.",
+            "corpNameKr": "북팔",
+            "prodNameEn": "북팔 웹소설",
+            "prodNameKr": "북팔 웹소설",
+            "corpIntroEn": "A company that operates the web novel platform [BOOKPAL]",
+            "corpIntroKr": "웹소설 플랫폼 '북팔'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001785.png"
+        },
+        {
+            "corpId": "CP00010655",
+            "bizNameEn": "콘텐츠/예술",
+            "bizNameKr": "콘텐츠/예술",
+            "corpNameEn": "METACRAFT CO., LTD.",
+            "corpNameKr": "메타크래프트",
+            "prodNameEn": "",
+            "prodNameKr": "노벨피아",
+            "corpIntroEn": "A company that operates the web novel platform [NOVELPIA]",
+            "corpIntroKr": "웹소설 플랫폼 '노벨피아'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00010655_20220216104704.png"
+        },
+        {
+            "corpId": "CP00001799",
+            "bizNameEn": "콘텐츠/예술",
+            "bizNameKr": "콘텐츠/예술",
+            "corpNameEn": "INFLUENTIAL CO.,LTD.",
+            "corpNameKr": "인플루엔셜",
+            "prodNameEn": "윌라 오디오북",
+            "prodNameKr": "윌라 오디오북",
+            "corpIntroEn": "A company that operates the audiobook platform [WELAAA]",
+            "corpIntroKr": "오디오북 플랫폼 '윌라'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001803.png"
+        },
+        {
+            "corpId": "CP00000257",
+            "bizNameEn": "콘텐츠/예술,소셜미디어/커뮤니티,교육",
+            "bizNameKr": "콘텐츠/예술,소셜미디어/커뮤니티,교육",
+            "corpNameEn": "Publy Co.,Ltd.",
+            "corpNameKr": "퍼블리",
+            "prodNameEn": "",
+            "prodNameKr": "퍼블리",
+            "corpIntroEn": "A company that operates the practical training content platform [PUBLY] and the startup community platform [CAREERLY]",
+            "corpIntroKr": "실무 교육 콘텐츠 플랫폼 '퍼블리' 및 스타트업 커뮤니티 플랫폼 '커리어리'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000257_20241105163518.webp"
+        },
+        {
+            "corpId": "CP00000669",
+            "bizNameEn": "콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "Braincolla Inc.",
+            "corpNameKr": "브레인콜라",
+            "prodNameEn": "책방잉크",
+            "prodNameKr": "책방잉크",
+            "corpIntroEn": "A company that develops [XPHERE(Discontinued)], a content IP acceleration platform based on data management/analysis technology, and operates the reading curation platform [INK(Discontinued)], etc.",
+            "corpIntroKr": "데이터 관리/분석 기술 기반 콘텐츠 IP 엑셀러레이션 플랫폼 '엑스피어'의 개발과 독서 큐레이션 플랫폼 '잉크' 등을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000675.png"
+        },
+        {
+            "corpId": "CP00000627",
+            "bizNameEn": "콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "RYE&CATCHERS CO.,LTD.",
+            "corpNameKr": "라이앤캐처스",
+            "prodNameEn": "비블리",
+            "prodNameKr": "비블리",
+            "corpIntroEn": "A company that operates [BIBLY], a machine learning/AI-based personal preference analysis and book recommendation platform",
+            "corpIntroKr": "머신러닝/AI 기반 개인 취향 분석 및 도서 추천 플랫폼 '비블리'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000635.png"
+        }
+    ],
+    "customerSales": {
+        "salesBasic": [
+            {
+                "rate": 55.8,
+                "count": 58687,
+                "unitPrice": 13531.6,
+                "referenceMonth": "2022-02"
+            },
+            {
+                "rate": 55.1,
+                "count": 59233,
+                "unitPrice": 13235.4,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "rate": 51.1,
+                "count": 57941,
+                "unitPrice": 12553.0,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "rate": 49.3,
+                "count": 56868,
+                "unitPrice": 12329.4,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "rate": 47.3,
+                "count": 56955,
+                "unitPrice": 11825.3,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "rate": 47.3,
+                "count": 56180,
+                "unitPrice": 11975.9,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "rate": 47.7,
+                "count": 55598,
+                "unitPrice": 12198.3,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "rate": 46.4,
+                "count": 55095,
+                "unitPrice": 11979.9,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "rate": 47.9,
+                "count": 55570,
+                "unitPrice": 12275.6,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "rate": 48.1,
+                "count": 56864,
+                "unitPrice": 12030.4,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "rate": 58.9,
+                "count": 58213,
+                "unitPrice": 14395.4,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "rate": 100.0,
+                "count": 64577,
+                "unitPrice": 22030.8,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "rate": 46.9,
+                "count": 52407,
+                "unitPrice": 12725.1,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "rate": 47.3,
+                "count": 52610,
+                "unitPrice": 12791.4,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "rate": 42.7,
+                "count": 50448,
+                "unitPrice": 12040.2,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "rate": 42.3,
+                "count": 49432,
+                "unitPrice": 12168.6,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "rate": 41.7,
+                "count": 49724,
+                "unitPrice": 11933.2,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "rate": 42.9,
+                "count": 49712,
+                "unitPrice": 12277.2,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "rate": 45.6,
+                "count": 50251,
+                "unitPrice": 12918.3,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "rate": 54.3,
+                "count": 50056,
+                "unitPrice": 15428.3,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "rate": 42.1,
+                "count": 47906,
+                "unitPrice": 12514.1,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "rate": 42.1,
+                "count": 46284,
+                "unitPrice": 12955.8,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "rate": 38.3,
+                "count": 43654,
+                "unitPrice": 12496.3,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "rate": 41.4,
+                "count": 45992,
+                "unitPrice": 12821.4,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "rate": 44.0,
+                "count": 45874,
+                "unitPrice": 13632.8,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "rate": 42.8,
+                "count": 44304,
+                "unitPrice": 13735.3,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "rate": 35.9,
+                "count": 41771,
+                "unitPrice": 12232.4,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "rate": 36.6,
+                "count": 41282,
+                "unitPrice": 12612.2,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "rate": 34.1,
+                "count": 40791,
+                "unitPrice": 11885.4,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "rate": 37.1,
+                "count": 40756,
+                "unitPrice": 12956.5,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "rate": 39.1,
+                "count": 40925,
+                "unitPrice": 13582.3,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "rate": 39.5,
+                "count": 41045,
+                "unitPrice": 13706.0,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "rate": 37.7,
+                "count": 41222,
+                "unitPrice": 13026.0,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "rate": 35.7,
+                "count": 39867,
+                "unitPrice": 12726.9,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "rate": 46.8,
+                "count": 41221,
+                "unitPrice": 16167.4,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "rate": 71.5,
+                "count": 44786,
+                "unitPrice": 22698.5,
+                "referenceMonth": "2025-01"
+            }
+        ],
+        "salesPeriod": [
+            {
+                "period": "1개월내",
+                "repurchaseRate": 71.3,
+                "avgPurchaseRate": 1.0
+            },
+            {
+                "period": "3개월내",
+                "repurchaseRate": 72.5,
+                "avgPurchaseRate": 2.7
+            },
+            {
+                "period": "6개월내",
+                "repurchaseRate": 73.4,
+                "avgPurchaseRate": 4.7
+            },
+            {
+                "period": "12개월내",
+                "repurchaseRate": 75.9,
+                "avgPurchaseRate": 7.7
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "dataSufficient": true,
+    "base_company_info": {
+        "data": {
+            "seedCorp": {
+                "id": "CP00001521",
+                "city": 11440,
+                "corpCd": "STARTUP",
+                "comment": null,
+                "cordLat": 126.913948,
+                "cordLng": 37.551502,
+                "foundAt": "2016-07-07",
+                "homeUrl": "www.millie.co.kr",
+                "subCorp": false,
+                "createBy": "system",
+                "invstCnt": 6,
+                "province": "SEOUL",
+                "showFlag": true,
+                "bizInfoEn": "Commercials Advertising Motion Picture and Video Production",
+                "bizInfoKr": "그외 기타 분류안된 사업지원 서비스업",
+                "corpAddrEn": "undefined",
+                "corpAddrKr": "서울 마포구 양화로 45 (서교동, 메세나폴리스) 16층",
+                "corpNameEn": "MILLY'S LIBRARY CO.,LTD.",
+                "corpNameKr": "밀리의서재",
+                "corpStatCd": "IN_OPERATION",
+                "createDate": "2021-05-28T11:15:16",
+                "hasSubCorp": false,
+                "investMemo": null,
+                "modifiedBy": "SYSTEM",
+                "capStockVal": "4194144000",
+                "corpIntroEn": "A company that operates the e-book subscription platform [MILLIE]",
+                "corpIntroKr": "전자책 정기구독 플랫폼 '밀리의 서재'를 운영하는 기업",
+                "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000095.png",
+                "empWholeVal": 188,
+                "invstSumVal": 62650000000,
+                "lastInvstAt": "2023-09-27",
+                "listingDate": "2023-09-27",
+                "patntLvlVal": 2,
+                "upperCorpId": null,
+                "corpStatCdEn": "운영중",
+                "corpStatCdKr": "운영중",
+                "emplWholeVal": 73,
+                "modifiedDate": "2025-02-24T19:30:08",
+                "corpStockCdEn": "KOSDAQ",
+                "corpStockCdKr": "KOSDAQ",
+                "logoImageFile": null,
+                "finacRevenueAt": "2023-12-31",
+                "niceCorpStatCd": "",
+                "finacRevenueVal": 56572749000,
+                "invstSumValText": "626.5억원",
+                "requestSendTypeCd": null,
+                "investmentDescription": ""
+            },
+            "seedBadge": [
+                {
+                    "id": "BG00000060",
+                    "badge": "혁신아이콘",
+                    "endAt": "2030-01-01T16:55:10",
+                    "comment": null,
+                    "startAt": "2024-10-23T16:55:10",
+                    "createBy": "wjy",
+                    "showCode": "SHOWING",
+                    "badgeImage": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/badge/logo/badge_20241023170730.png",
+                    "bubbleText": "<p style=\"text-align:center;\"><span style=\"color:hsl(166,100%,42.5%);\"><strong>「혁신아이콘」</strong></span>은</p><p style=\"text-align:center;\">신용보증기금에서 미래 유니콘 기업으로&nbsp;</p><p style=\"text-align:center;\">성장 가능성이 높은 혁신 스타트업을 선정하여&nbsp;</p><p style=\"text-align:center;\">전담 조직을 통해 집중 육성하는 스케일업 프로그램입니다.</p>",
+                    "createDate": "2024-10-23T17:07:31",
+                    "modifiedBy": "jhmin",
+                    "bubbleTitle": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,0%,0%);\"><strong>혁신아이콘</strong></span></p>",
+                    "modifiedDate": "2024-12-12T17:20:47",
+                    "logoImageFile": null,
+                    "bubbleButtonUrl": "https://www.innoforest.co.kr/dataroom?tagArray=AK00000054&tagText=%ED%98%81%EC%8B%A0%EC%95%84%EC%9D%B4%EC%BD%98&page=1",
+                    "bubbleButtonFlag": true,
+                    "bubbleButtonText": "혁신아이콘 선정기업 보러가기",
+                    "seedBadgeCorpCaches": null
+                }
+            ],
+            "seedPeople": [
+                {
+                    "id": "PP00066846",
+                    "fbUrl": "",
+                    "corpId": "CP00001521",
+                    "etcUrl": null,
+                    "comment": null,
+                    "ivstrId": null,
+                    "useFlag": true,
+                    "createBy": null,
+                    "linkdUrl": "",
+                    "showFlag": true,
+                    "pplNameEn": "",
+                    "pplNameKr": "박현진",
+                    "pplRoleCd": "CEO",
+                    "rocketUrl": "",
+                    "corpNameEn": null,
+                    "corpNameKr": null,
+                    "createDate": null,
+                    "crewRoleCd": null,
+                    "hasHistory": null,
+                    "modifiedBy": null,
+                    "modifiedDate": null,
+                    "seedPeopleHistories": null
+                }
+            ],
+            "seedCorpBiz": [
+                {
+                    "biz": 3,
+                    "corpCnt": 1396,
+                    "createBy": "hskim",
+                    "bizNameEn": "콘텐츠/예술",
+                    "bizNameKr": "콘텐츠/예술",
+                    "createDate": "2023-09-27T15:48:36"
+                }
+            ],
+            "seedCorpTag": [
+                {
+                    "tag": "TG00000221",
+                    "corpCnt": 133,
+                    "tagNameEn": "webtoon/comics",
+                    "tagNameKr": "웹툰/만화"
+                },
+                {
+                    "tag": "TG00000229",
+                    "corpCnt": 37,
+                    "tagNameEn": "OTT",
+                    "tagNameKr": "OTT"
+                },
+                {
+                    "tag": "TG00010001",
+                    "corpCnt": 6520,
+                    "tagNameEn": null,
+                    "tagNameKr": "B2B"
+                },
+                {
+                    "tag": "TG00010002",
+                    "corpCnt": 5696,
+                    "tagNameEn": "B2C",
+                    "tagNameKr": "B2C"
+                },
+                {
+                    "tag": "TG00030001",
+                    "corpCnt": 3169,
+                    "tagNameEn": "platform/marketplace",
+                    "tagNameKr": "플랫폼/마켓플레이스"
+                },
+                {
+                    "tag": "TG00030003",
+                    "corpCnt": 383,
+                    "tagNameEn": "Subscription ",
+                    "tagNameKr": "구독"
+                },
+                {
+                    "tag": "TG00040001",
+                    "corpCnt": 2765,
+                    "tagNameEn": "App",
+                    "tagNameKr": "APP"
+                },
+                {
+                    "tag": "TG00040002",
+                    "corpCnt": 3867,
+                    "tagNameEn": "web",
+                    "tagNameKr": "WEB"
+                },
+                {
+                    "tag": "TG00040006",
+                    "corpCnt": 1328,
+                    "tagNameEn": "contents ",
+                    "tagNameKr": "콘텐츠"
+                },
+                {
+                    "tag": "TG00060014",
+                    "corpCnt": 54,
+                    "tagNameEn": "ott/streaming",
+                    "tagNameKr": "스트리밍"
+                }
+            ],
+            "seedProduct": {
+                "id": "PD00000221",
+                "andUrl": "https://play.google.com/store/apps/details?id=kr.co.millie.millieshelf&hl=ko",
+                "corpId": "CP00001521",
+                "webUrl": "millie.co.kr",
+                "createBy": "system",
+                "isAppProd": false,
+                "isEtcProd": false,
+                "isOffProd": false,
+                "isWebProd": false,
+                "prodEndAt": null,
+                "createDate": "2021-09-16T00:00:00",
+                "finishFlag": false,
+                "modifiedBy": null,
+                "prodNameEn": "밀리의서재",
+                "prodNameKr": "밀리의서재",
+                "prodIntroEn": "독서와 무제한 친해지리, 밀리의 서재",
+                "prodIntroKr": "독서와 무제한 친해지리, 밀리의 서재",
+                "prodLogoImg": "https://lh3.googleusercontent.com/ck3EZc2bX63rxRC-aMdx46T-KcZiFtm8QxLLY81Yi8ej3mHv7xdBNWe_eT55s1Usa8AI",
+                "etcProdCount": null,
+                "modifiedDate": null,
+                "offProdCount": null
+            },
+            "seedPeopleBlind": false,
+            "seedPeopleCount": 1,
+            "seedCorpBizBlind": false,
+            "seedCorpBizCount": 1,
+            "seedCorpTagBlind": false,
+            "seedCorpTagCount": 10,
+            "seedProductBlind": false,
+            "seedAdvertisementKeywords": [
+                {
+                    "id": "AK00000054",
+                    "corpCnt": 56,
+                    "advertisementKeyword": "혁신아이콘"
+                }
+            ]
+        },
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/122.0.6261.62 Mobile/15E148 Safari/604.1",
+        "ogTagContent": {
+            "title": "밀리의서재 - 매출 투자 고용 정보 - 혁신의숲",
+            "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000095.png",
+            "description": "누적투자금 626.5억 스타트업 밀리의서재의 매출, 투자, 고용, 특허등급, 재구매율, 방문자 분석 등 36개월 간의 데이터를 혁신의숲에서 확인해 보세요."
+        }
+    }
+}

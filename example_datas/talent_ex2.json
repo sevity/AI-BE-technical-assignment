@@ -1,0 +1,167 @@
+{
+    "headline": "Growth Strategy Team Lead",
+    "summary": "Corporate Strategy, Business Coordination, M&A, IPO, Investment Analysis, Post-Merger Integration (PMI), C-Level Strategic Support, New Business Planning, and Cross-Functional Project Management.",
+    "firstName": "Sample",
+    "lastName": "Kim",
+    "photoUrl": "",
+    "skills": [
+        "재무분석",
+        "마케팅",
+        "데이터분석",
+        "ASP.NET",
+        "MS 오피스",
+        "사업전략",
+        "전략기획",
+        "MS 엑셀",
+        "투자",
+        "프로젝트 관리",
+        "사업기획",
+        "경영컨설팅",
+        "MS 워드",
+        "비즈니스 분석",
+        "사업개발"
+    ],
+    "educations": [
+        {
+            "degreeName": "",
+            "fieldOfStudy": "Industrial Engineering",
+            "schoolName": "서울대학교 (Seoul National University)",
+            "startEndDate": "1999 - 2006",
+            "description": "",
+            "grade": "",
+            "originStartEndDate": {
+                "startDateOn": {
+                    "year": 1999
+                },
+                "endDateOn": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Business Administration (MBA)",
+            "fieldOfStudy": "",
+            "schoolName": "Emory University - Goizueta Business School",
+            "startEndDate": "2015 - 2016",
+            "description": "",
+            "grade": "",
+            "originStartEndDate": {
+                "startDateOn": {
+                    "year": 2015
+                },
+                "endDateOn": {
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "positions": [
+        {
+            "companyName": "KT",
+            "title": "Team Lead: Growth Strategy Team, Media Business Unit",
+            "companyLocation": "Seoul, South Korea",
+            "description": "Team Lead: Growth Strategy Team, Media Business Unit, 2025\n\nTeam Lead: Business Strategy Team, CSO Department, 2024\n- Analyze KT and its group companies' businesses, performing portfolio adjustment tasks, with a particular focus on enterprise and media/content sectors.",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHRVKljyKITXw/company-logo_400_400/company-logo_400_400/0/1630618806604/kt_logo?e=1750291200&v=beta&t=x52D0R1v4F_4yA2YaN0HMESV6fJOkafgnOYtNQ_o9Lw",
+            "startEndDate": {
+                "start": {
+                    "month": 12,
+                    "year": 2023
+                }
+            }
+        },
+        {
+            "companyName": "밀리의서재",
+            "title": "Chief Financial Officer",
+            "companyLocation": "Seoul, South Korea",
+            "description": "- Successfully led the Initial Public Offering (IPO) on KOSDAQ.\n- Oversaw and integrated multiple key departments, including finance & accounting, business planning, investor relations (IR), public relations (PR), human resources (HR), and legal affairs.\n- Developed and implemented strategic financial plans that contributed to the company's turnaround to profitability in 2022, achieving an operating profit margin of 18% in 2023.",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHGfiKiLw79ag/company-logo_400_400/company-logo_400_400/0/1688462931391/millietown_logo?e=1750291200&v=beta&t=n5ewHp0XwTbbkx3hiJu916q01ACe7LPRQB8GPU-kPys",
+            "startEndDate": {
+                "start": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "year": 2023
+                }
+            }
+        },
+        {
+            "companyName": "Genie Music (the former \"KT Music\")",
+            "title": "Team Lead: Strategic Planning Team, Management Chief Division",
+            "companyLocation": "대한민국 서울 강남구",
+            "description": "- Planned and executed the acquisition of \"Millie's Seojae,\" increasing its valuation from 110 billion KRW at acquisition to 185 billion KRW at IPO two years later.\n- Led a task force to plan and develop \"StoryG,\" a podcast-style audio service, successfully launching it.\n- Executed the transfer of business for the music streaming service \"Shop&Genie.\"",
+            "companyLogo": "",
+            "startEndDate": {
+                "start": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "companyName": "KT",
+            "title": "Manager: Strategy & Planning Office",
+            "companyLocation": "",
+            "description": "Business Coordinator: Strategy & Planning Office, 2014–2019\n- Suggested directions for corporate strategy.\n- Led the establishment of \"Studio Discovery,\" a joint venture with Discovery, Inc., for content production.\n- Reviewed financial plans of new businesses and developed restructuring strategies for those with low profit margins.\n- Adjusted business structures for KT subsidiaries, including BC Card, KT Powertel, and KT Telecop.\n- Initiated Big Data projects to enhance profit margins and planned a control-tower \"Big Data Center.\"\n\nBusiness Strategist: New Business Unit, 2013\n- Developed market entry strategies for commerce based on financial analyses.\n- Led a cross-functional team to evaluate the feasibility of various new business models.\n\nInvestment Manager: Strategy & Planning Office, 2010–2012\n- Devised and executed KT Music’s equity structure transformation; attracted investments from SM, YG, and JYP.\n- Analyzed strategic options for liquidating KT Tech, a mobile phone manufacturer.\n- Directed the investment process in an ATM service provider as a minority shareholder.\n- Designed concepts, functions, financial plans, and market entry strategies for a loyalty points program.\n\nAssistant Manager: KT-KTF Merger Cross-functional Team, 2008–2009\n- Crafted a thesis on the merger with KTF, Korea’s second-largest wireless carrier, in response to regulators.\n- Reported regularly on project progress to the CEO and board of directors.\n- Prioritized and executed action plans during the post-merger integration period.",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHRVKljyKITXw/company-logo_400_400/company-logo_400_400/0/1630618806604/kt_logo?e=1750291200&v=beta&t=x52D0R1v4F_4yA2YaN0HMESV6fJOkafgnOYtNQ_o9Lw",
+            "startEndDate": {
+                "start": {
+                    "month": 1,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 1,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "companyName": "Kookmin Bank ",
+            "title": "Sales Assistant: Sales Department, Yangpyoung Station Branch",
+            "companyLocation": "",
+            "description": "- Provided consultations on personal financial products, including mutual funds, derivatives, insurance, and credit cards.",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQGVIZy5ZtcAzQ/company-logo_400_400/company-logo_400_400/0/1631363264065/kookminfg_logo?e=1750291200&v=beta&t=OU9KlP_Jj07RQXA14Ue1jd6Gu12Yno-6zgHZFq1RfxM",
+            "startEndDate": {
+                "start": {
+                    "month": 1,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 11,
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "companyName": "Kointech",
+            "title": "Component Developer: ERP Component Team",
+            "companyLocation": "",
+            "description": "- Developed core components of \"Eagle ERP,\" the first ERP system built on the C#.NET framework\n- Designed and implemented comprehensive quality and operations management modules to optimize production processes and resource allocation\n- Conducted ERP customization training sessions for over 200 developers from diverse companies, including Nexen Tire and Mitsui Knowledge Industry",
+            "companyLogo": "",
+            "startEndDate": {
+                "start": {
+                    "month": 1,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 2,
+                    "year": 2005
+                }
+            }
+        }
+    ],
+    "totalDuration": {
+        "years": 21,
+        "months": 5
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/sample2",
+    "website": [],
+    "industryName": "텔레콤",
+    "projects": [],
+    "recommendations": []
+}

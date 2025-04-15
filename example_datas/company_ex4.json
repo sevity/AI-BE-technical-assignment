@@ -1,0 +1,1226 @@
+{
+    "mau": {
+        "list": [
+            {
+                "data": [
+                    {
+                        "value": 15,
+                        "growthRate": null,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 6485,
+                        "growthRate": 43133.3,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 8077,
+                        "growthRate": 24.5,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 9108,
+                        "growthRate": 12.8,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 5545,
+                        "growthRate": -39.1,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 2573,
+                        "growthRate": -53.6,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 2875,
+                        "growthRate": 11.7,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 2559,
+                        "growthRate": -11.0,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 2504,
+                        "growthRate": -2.1,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 5149,
+                        "growthRate": 105.6,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 23928,
+                        "growthRate": 364.7,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 64934,
+                        "growthRate": 171.4,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 53311,
+                        "growthRate": -17.9,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00019818"
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "finance": {
+        "data": [
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2021,
+                "profit": 10762000,
+                "capital": 34294000,
+                "netProfit": -1264695000,
+                "liabilities": 647371000,
+                "totalAssets": 4420597000,
+                "totalCapital": 3773226000,
+                "operatingProfit": -1530086000
+            },
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2022,
+                "profit": 881792000,
+                "capital": 45149000,
+                "netProfit": -2175427000,
+                "liabilities": 1188637000,
+                "totalAssets": 20859080000,
+                "totalCapital": 19670443000,
+                "operatingProfit": -2521142000
+            },
+            {
+                "type": "SEPARATE_KODATA",
+                "year": 2023,
+                "profit": 2209793000,
+                "capital": 46869000,
+                "netProfit": -4511765000,
+                "liabilities": 1532260000,
+                "totalAssets": 18696576000,
+                "totalCapital": 17164316000,
+                "operatingProfit": -5756553000
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "products": [
+        {
+            "id": "PD00007803",
+            "name": "엘박스",
+            "types": [
+                {
+                    "url": "lbox.kr",
+                    "type": "WEB"
+                },
+                {
+                    "url": "lbox.kr",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00007803_20240423172941.png"
+        },
+        {
+            "id": "PD00019818",
+            "name": "엘파인드",
+            "types": [
+                {
+                    "url": "https://lfind.kr/info",
+                    "type": "WEB"
+                },
+                {
+                    "url": "https://lfind.kr/info",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00019818_20240423173254.png"
+        }
+    ],
+    "investment": {
+        "data": [
+            {
+                "level": "series B",
+                "investAt": "2023-02-22",
+                "investor": [
+                    {
+                        "id": "IV00000691",
+                        "name": "삼성벤처투자",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 2000000000
+            },
+            {
+                "level": "series B",
+                "investAt": "2022-12-19",
+                "investor": [
+                    {
+                        "id": "IV00001070",
+                        "name": "에스브이인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001705",
+                        "name": "케이비인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00002062",
+                        "name": "한국산업은행",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000193",
+                        "name": "우리벤처파트너스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000990",
+                        "name": "아주아이비투자",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001919",
+                        "name": "파트너스인베스트먼트",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 18000000000
+            },
+            {
+                "level": "series A",
+                "investAt": "2021-09-13",
+                "investor": [
+                    {
+                        "id": "IV00001705",
+                        "name": "케이비인베스트먼트",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000990",
+                        "name": "아주아이비투자",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001335",
+                        "name": "원익투자파트너스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000563",
+                        "name": "베이스벤처스",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 4000000000
+            },
+            {
+                "level": "pre-A",
+                "investAt": "2020-09-01",
+                "investor": [
+                    {
+                        "id": "IV00000990",
+                        "name": "아주아이비투자",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001335",
+                        "name": "원익투자파트너스",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000563",
+                        "name": "베이스벤처스",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 0
+            },
+            {
+                "level": "seed",
+                "investAt": "2019-07-01",
+                "investor": [
+                    {
+                        "id": "IV00000625",
+                        "name": "블루포인트파트너스",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 0
+            }
+        ],
+        "recentUpdate": "2023-02-22",
+        "lastInvestmentLevel": "series B",
+        "investmentDescription": " 이상",
+        "totalInvestmentAmount": 24000000000
+    },
+    "customerType": {
+        "salesFamily": [
+            {
+                "rate": 4.6,
+                "type": "성인자녀가구"
+            },
+            {
+                "rate": 14.5,
+                "type": "유아자녀가구"
+            },
+            {
+                "rate": 27.4,
+                "type": "청소년자녀가구"
+            },
+            {
+                "rate": 10.4,
+                "type": "신혼가구"
+            },
+            {
+                "rate": 41.3,
+                "type": "싱글가구"
+            },
+            {
+                "rate": 1.8,
+                "type": "실버가구"
+            }
+        ],
+        "salesIncome": [
+            {
+                "rate": 0,
+                "type": "2000만원이하"
+            },
+            {
+                "rate": 2.3,
+                "type": "3000만원이하"
+            },
+            {
+                "rate": 5.6,
+                "type": "4000만원이하"
+            },
+            {
+                "rate": 9.1,
+                "type": "5000만원이하"
+            },
+            {
+                "rate": 9.7,
+                "type": "6000만원이하"
+            },
+            {
+                "rate": 18.9,
+                "type": "8000만원이하"
+            },
+            {
+                "rate": 16.9,
+                "type": "1억원이하"
+            },
+            {
+                "rate": 37.5,
+                "type": "1억원초과"
+            }
+        ],
+        "salesPerson": [
+            {
+                "rate": 12.5,
+                "gender": "여성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 1.7,
+                "gender": "여성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 1.0,
+                "gender": "여성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 0.4,
+                "gender": "남성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 2.9,
+                "gender": "여성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 9.9,
+                "gender": "남성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 3.4,
+                "gender": "남성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 26.4,
+                "gender": "남성",
+                "ageGroup": "30~39세"
+            },
+            {
+                "rate": 22.3,
+                "gender": "남성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 19.5,
+                "gender": "여성",
+                "ageGroup": "30~39세"
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "organization": {
+        "data": [
+            {
+                "in": 3,
+                "out": 2,
+                "value": 42,
+                "growRate": 7.7,
+                "referenceMonth": "2025-01"
+            },
+            {
+                "in": 2,
+                "out": 0,
+                "value": 39,
+                "growRate": -4.9,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "in": 2,
+                "out": 4,
+                "value": 41,
+                "growRate": -2.4,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "in": 3,
+                "out": 3,
+                "value": 42,
+                "growRate": 7.7,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 39,
+                "growRate": -18.8,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "in": 3,
+                "out": 10,
+                "value": 48,
+                "growRate": 2.1,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "in": 1,
+                "out": 2,
+                "value": 47,
+                "growRate": 2.2,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "in": 2,
+                "out": 0,
+                "value": 46,
+                "growRate": 4.5,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 44,
+                "growRate": -6.4,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "in": 3,
+                "out": 4,
+                "value": 47,
+                "growRate": -6.0,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "in": 7,
+                "out": 6,
+                "value": 50,
+                "growRate": 4.2,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "in": 1,
+                "out": 5,
+                "value": 48,
+                "growRate": -2.0,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "in": 1,
+                "out": 2,
+                "value": 49,
+                "growRate": 2.1,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "in": 9,
+                "out": 0,
+                "value": 48,
+                "growRate": 20.0,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "in": 0,
+                "out": 1,
+                "value": 40,
+                "growRate": -4.8,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "in": 3,
+                "out": 2,
+                "value": 42,
+                "growRate": 7.7,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "in": 6,
+                "out": 0,
+                "value": 39,
+                "growRate": 11.4,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "in": 3,
+                "out": 2,
+                "value": 35,
+                "growRate": 0.0,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "in": 2,
+                "out": 3,
+                "value": 35,
+                "growRate": 6.1,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "in": 5,
+                "out": 0,
+                "value": 33,
+                "growRate": 17.9,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "in": 2,
+                "out": 0,
+                "value": 28,
+                "growRate": 7.7,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "in": 3,
+                "out": 0,
+                "value": 26,
+                "growRate": 13.0,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 23,
+                "growRate": -4.2,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "in": 6,
+                "out": 2,
+                "value": 24,
+                "growRate": 26.3,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 19,
+                "growRate": 0.0,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "in": 4,
+                "out": 1,
+                "value": 19,
+                "growRate": 26.7,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "in": 3,
+                "out": 0,
+                "value": 15,
+                "growRate": 25.0,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 12,
+                "growRate": 0.0,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 12,
+                "growRate": -7.7,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 13,
+                "growRate": 0.0,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 13,
+                "growRate": 8.3,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 12,
+                "growRate": 0.0,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 12,
+                "growRate": 0.0,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "in": 0,
+                "out": 0,
+                "value": 12,
+                "growRate": -25.0,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "in": 1,
+                "out": 4,
+                "value": 16,
+                "growRate": 6.7,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 15,
+                "growRate": 100.0,
+                "referenceMonth": "2022-02"
+            }
+        ],
+        "retireRate": 81.1,
+        "recentUpdate": "2025-02-24"
+    },
+    "similarCorps": [
+        {
+            "corpId": "CP00000834",
+            "bizNameEn": "인사/비즈니스/법률",
+            "bizNameKr": "인사/비즈니스/법률",
+            "corpNameEn": "Help Me Law Office",
+            "corpNameKr": "헬프미법률사무소",
+            "prodNameEn": "법인등기헬프미",
+            "prodNameKr": "법인등기헬프미",
+            "corpIntroEn": "A company that provides corporate registration and trademark registration services using corporate registration document automation technology",
+            "corpIntroKr": "법인등기 서류 자동화 기술을 활용한 법인등기등록 및 상표등록 서비스를 제공하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000829.png"
+        },
+        {
+            "corpId": "CP00001520",
+            "bizNameEn": "인사/비즈니스/법률,AI/딥테크/블록체인",
+            "bizNameKr": "인사/비즈니스/법률,AI/딥테크/블록체인",
+            "corpNameEn": "LAW & COMPANY CO., LTD.",
+            "corpNameKr": "로앤컴퍼니",
+            "prodNameEn": "로톡",
+            "prodNameKr": "로톡",
+            "corpIntroEn": "A company that operates the legal platform [LAWTALK]",
+            "corpIntroKr": "법률 플랫폼 '로톡'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00001520_20230927131312.png"
+        },
+        {
+            "corpId": "CP00002108",
+            "bizNameEn": "통신/보안/데이터",
+            "bizNameKr": "통신/보안/데이터",
+            "corpNameEn": "CODIT CORP.",
+            "corpNameKr": "코딧",
+            "prodNameEn": "",
+            "prodNameKr": "코딧 서치",
+            "corpIntroEn": "A company that operates legal and policy data intelligence platforms",
+            "corpIntroKr": "법률 및 정책 데이터 지능 플랫폼을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00002108_20230915140117.png"
+        },
+        {
+            "corpId": "CP00001606",
+            "bizNameEn": "인사/비즈니스/법률",
+            "bizNameKr": "인사/비즈니스/법률",
+            "corpNameEn": "ROAENGUT CO.,LTD.",
+            "corpNameKr": "로앤굿",
+            "prodNameEn": "로앤굿",
+            "prodNameKr": "로앤굿",
+            "corpIntroEn": "A company that operates the online legal service platform [LAWANDGOOD]",
+            "corpIntroKr": "온라인 법률서비스 플랫폼 '로앤굿'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00001606_20230609145151.png"
+        },
+        {
+            "corpId": "CP00001227",
+            "bizNameEn": "인사/비즈니스/법률,AI/딥테크/블록체인",
+            "bizNameKr": "인사/비즈니스/법률,AI/딥테크/블록체인",
+            "corpNameEn": "AMICUS LEX CO.,LTD.",
+            "corpNameKr": "아미쿠스렉스",
+            "prodNameEn": "로폼",
+            "prodNameKr": "로폼",
+            "corpIntroEn": "A company that operates [LAWFORM], an AI-based automatic legal document creation platform",
+            "corpIntroKr": "AI 기반 법률 문서 자동 작성 플랫폼 '로폼'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001194.png"
+        },
+        {
+            "corpId": "CP00015969",
+            "bizNameEn": "인사/비즈니스/법률,통신/보안/데이터,AI/딥테크/블록체인",
+            "bizNameKr": "인사/비즈니스/법률,통신/보안/데이터,AI/딥테크/블록체인",
+            "corpNameEn": "CG Inside Co.,Ltd.",
+            "corpNameKr": "씨지인사이드",
+            "prodNameEn": "",
+            "prodNameKr": "아이호퍼",
+            "corpIntroEn": "A company that operates its own DB-based AI search service [IHOPPER] related to laws and regulations",
+            "corpIntroKr": "법률 및 규제 관련 자체 DB 기반 AI 검색 서비스 '아이호퍼'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00015969_20231004174622.png"
+        }
+    ],
+    "customerSales": {
+        "salesBasic": [
+            {
+                "rate": 19.5,
+                "count": 1560,
+                "unitPrice": 29541.4,
+                "referenceMonth": "2022-02"
+            },
+            {
+                "rate": 24.0,
+                "count": 1923,
+                "unitPrice": 29464.6,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "rate": 26.3,
+                "count": 2103,
+                "unitPrice": 29539.8,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "rate": 29.7,
+                "count": 2361,
+                "unitPrice": 29657.6,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "rate": 31.4,
+                "count": 2497,
+                "unitPrice": 29659.0,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "rate": 35.4,
+                "count": 2811,
+                "unitPrice": 29683.5,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "rate": 37.1,
+                "count": 2945,
+                "unitPrice": 29726.3,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "rate": 40.5,
+                "count": 3246,
+                "unitPrice": 29444.7,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "rate": 41.3,
+                "count": 3426,
+                "unitPrice": 28421.4,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "rate": 47.5,
+                "count": 3992,
+                "unitPrice": 28069.5,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "rate": 51.1,
+                "count": 4109,
+                "unitPrice": 29328.2,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "rate": 54.0,
+                "count": 4301,
+                "unitPrice": 29619.7,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "rate": 54.1,
+                "count": 4329,
+                "unitPrice": 29472.7,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "rate": 57.9,
+                "count": 4619,
+                "unitPrice": 29563.5,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "rate": 56.9,
+                "count": 4547,
+                "unitPrice": 29525.7,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "rate": 56.7,
+                "count": 4532,
+                "unitPrice": 29516.6,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "rate": 57.5,
+                "count": 4662,
+                "unitPrice": 29077.5,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "rate": 59.6,
+                "count": 4836,
+                "unitPrice": 29068.3,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "rate": 61.0,
+                "count": 4980,
+                "unitPrice": 28887.3,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "rate": 62.3,
+                "count": 5080,
+                "unitPrice": 28931.6,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "rate": 61.9,
+                "count": 5050,
+                "unitPrice": 28908.9,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "rate": 66.7,
+                "count": 5435,
+                "unitPrice": 28934.8,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "rate": 67.2,
+                "count": 5495,
+                "unitPrice": 28816.1,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "rate": 70.0,
+                "count": 5728,
+                "unitPrice": 28813.0,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "rate": 73.5,
+                "count": 6013,
+                "unitPrice": 28806.5,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "rate": 79.5,
+                "count": 6370,
+                "unitPrice": 29422.9,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "rate": 81.3,
+                "count": 6600,
+                "unitPrice": 29058.2,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "rate": 83.3,
+                "count": 6859,
+                "unitPrice": 28636.7,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "rate": 85.4,
+                "count": 6965,
+                "unitPrice": 28904.1,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "rate": 82.5,
+                "count": 6791,
+                "unitPrice": 28646.2,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "rate": 85.6,
+                "count": 6393,
+                "unitPrice": 31562.2,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "rate": 88.1,
+                "count": 5199,
+                "unitPrice": 39965.3,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "rate": 91.5,
+                "count": 5426,
+                "unitPrice": 39778.7,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "rate": 93.2,
+                "count": 5361,
+                "unitPrice": 40988.5,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "rate": 100.0,
+                "count": 5472,
+                "unitPrice": 43088.5,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "rate": 94.0,
+                "count": 5496,
+                "unitPrice": 40341.0,
+                "referenceMonth": "2025-01"
+            }
+        ],
+        "salesPeriod": [
+            {
+                "period": "1개월내",
+                "repurchaseRate": 92.5,
+                "avgPurchaseRate": 1.0
+            },
+            {
+                "period": "3개월내",
+                "repurchaseRate": 94.2,
+                "avgPurchaseRate": 2.8
+            },
+            {
+                "period": "6개월내",
+                "repurchaseRate": 94.7,
+                "avgPurchaseRate": 5.3
+            },
+            {
+                "period": "12개월내",
+                "repurchaseRate": 95.1,
+                "avgPurchaseRate": 9.3
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "dataSufficient": true,
+    "base_company_info": {
+        "data": {
+            "seedCorp": {
+                "id": "CP00001728",
+                "city": 11680,
+                "corpCd": "STARTUP",
+                "comment": null,
+                "cordLat": 127.044106,
+                "cordLng": 37.502594,
+                "foundAt": "2019-05-08",
+                "homeUrl": "lbox.kr",
+                "subCorp": false,
+                "createBy": "system",
+                "invstCnt": 5,
+                "province": "SEOUL",
+                "showFlag": true,
+                "bizInfoEn": "Computer programming Services",
+                "bizInfoKr": "",
+                "corpAddrEn": "306, Teheran-ro, Gangnam-gu, Seoul, Korea",
+                "corpAddrKr": "서울 강남구 테헤란로 306, 5층",
+                "corpNameEn": "LBOX CO., LTD.",
+                "corpNameKr": "엘박스",
+                "corpStatCd": "IN_OPERATION",
+                "createDate": "2021-05-28T13:29:18",
+                "hasSubCorp": false,
+                "investMemo": null,
+                "modifiedBy": "SYSTEM",
+                "capStockVal": "46869000",
+                "corpIntroEn": "A company that operates the judgment search service [LBOX] and the judgment-based lawyer search service [LFIND]",
+                "corpIntroKr": "판결문 검색 서비스 '엘박스', 판결문 기반 변호사 찾기 서비스 '엘파인드'를 운영하는 기업",
+                "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00001728_20240423172918.png",
+                "empWholeVal": 42,
+                "invstSumVal": 24000000000,
+                "lastInvstAt": "2023-02-22",
+                "listingDate": null,
+                "patntLvlVal": null,
+                "upperCorpId": null,
+                "corpStatCdEn": "운영중",
+                "corpStatCdKr": "운영중",
+                "emplWholeVal": 11,
+                "modifiedDate": "2025-02-24T19:30:09",
+                "corpStockCdEn": "비상장",
+                "corpStockCdKr": "비상장",
+                "logoImageFile": null,
+                "finacRevenueAt": "2023-12-31",
+                "niceCorpStatCd": "",
+                "finacRevenueVal": 2209793000,
+                "invstSumValText": "240.0억원 이상",
+                "requestSendTypeCd": null,
+                "investmentDescription": " 이상"
+            },
+            "seedBadge": [
+                {
+                    "id": "BG00000061",
+                    "badge": "프리아이콘 ",
+                    "endAt": "2030-01-01T14:29:35",
+                    "comment": null,
+                    "startAt": "2024-10-23T17:54:26",
+                    "createBy": "wjy",
+                    "showCode": "SHOWING",
+                    "badgeImage": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/badge/logo/badge_20241023175949.png",
+                    "bubbleText": "<p style=\"text-align:center;\"><span style=\"color:hsl(166, 100%, 42.5%);\"><strong>「프리아이콘」</strong></span><span style=\"color:hsl(0, 0%, 0%);\">은&nbsp;</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0, 0%, 0%);\">신용보증기금에서 업력 2~10년으로 도약 단계에 있는&nbsp;</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0, 0%, 0%);\">고성장 혁신 스타트업의 스케일업을 지원하는 사업입니다.</span></p>",
+                    "createDate": "2024-10-23T17:59:50",
+                    "modifiedBy": "hskim",
+                    "bubbleTitle": "<p style=\"text-align:center;\"><span style=\"color:hsl(0, 0%, 0%);\"><strong>프리아이콘</strong></span></p>",
+                    "modifiedDate": "2024-12-12T16:56:47",
+                    "logoImageFile": null,
+                    "bubbleButtonUrl": "https://www.innoforest.co.kr/dataroom?tagArray=AK00000055&tagText=%ED%94%84%EB%A6%AC%EC%95%84%EC%9D%B4%EC%BD%98&page=1",
+                    "bubbleButtonFlag": true,
+                    "bubbleButtonText": "프리아이콘 선정기업 보러가기",
+                    "seedBadgeCorpCaches": null
+                },
+                {
+                    "id": "BG00000062",
+                    "badge": "퍼스트펭귄",
+                    "endAt": "2030-01-01T14:29:35",
+                    "comment": null,
+                    "startAt": "2024-10-23T18:18:25",
+                    "createBy": "wjy",
+                    "showCode": "SHOWING",
+                    "badgeImage": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/badge/logo/badge_20241023182049.png",
+                    "bubbleText": "<p style=\"text-align:center;\"><span style=\"color:hsl(166,100%,42.5%);\"><strong>「퍼스트펭귄」</strong></span><span style=\"color:hsl(0,0%,0%);\">은</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0,0%,0%);\">&nbsp;창의적 아이디어와 기술력을 보유한 유망창업기업 중&nbsp;</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0,0%,0%);\">향후 강소기업으로 성장이 기대되는&nbsp;</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0,0%,0%);\">신사업 선도 기업을 밀착 지원·육성하는&nbsp;</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0,0%,0%);\">신용보증기금의 대표적인 스타트업 지원 제도입니다.</span></p>",
+                    "createDate": "2024-10-23T18:20:50",
+                    "modifiedBy": "jhmin",
+                    "bubbleTitle": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,0%,0%);\"><strong>퍼스트펭귄</strong></span></p>",
+                    "modifiedDate": "2024-12-12T17:20:14",
+                    "logoImageFile": null,
+                    "bubbleButtonUrl": "https://www.innoforest.co.kr/dataroom?tagArray=AK00000056&tagText=%ED%8D%BC%EC%8A%A4%ED%8A%B8%ED%8E%AD%EA%B7%84&page=1",
+                    "bubbleButtonFlag": true,
+                    "bubbleButtonText": "퍼스트펭귄 선정기업 보러가기",
+                    "seedBadgeCorpCaches": null
+                },
+                {
+                    "id": "BG00000050",
+                    "badge": "TIPS2021",
+                    "endAt": "2099-09-12T10:47:28",
+                    "comment": null,
+                    "startAt": "2024-09-12T10:47:28",
+                    "createBy": "hskim",
+                    "showCode": "SHOWING",
+                    "badgeImage": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/badge/logo/badge_20240912104847.png",
+                    "bubbleText": "<p style=\"text-align:center;\"><span style=\"color:hsl(166,100%,42.5%);\"><strong>「TIPS프로그램」</strong></span>은<br>세계시장을 선도할 기술아이템을<br>보유한 창업팀을 민간주도로 선발하여<br>미래유망 창업기업을 집중 육성하는 프로그램입니다.</p>",
+                    "createDate": "2024-09-12T10:48:48",
+                    "modifiedBy": "hskim",
+                    "bubbleTitle": "<p style=\"text-align:center;\"><strong>TIPS</strong></p><p style=\"text-align:center;\">2021</p>",
+                    "modifiedDate": "2024-12-12T16:56:47",
+                    "logoImageFile": null,
+                    "bubbleButtonUrl": "https://www.innoforest.co.kr/dataroom?tagArray=AK00000044&tagText=%ED%8C%81%EC%8A%A4%28TIPS%292021&page=1",
+                    "bubbleButtonFlag": true,
+                    "bubbleButtonText": "팁스(TIPS)2021 기업 보러가기",
+                    "seedBadgeCorpCaches": null
+                }
+            ],
+            "seedPeople": [
+                {
+                    "id": "PP00002273",
+                    "fbUrl": "",
+                    "corpId": "CP00001728",
+                    "etcUrl": null,
+                    "comment": null,
+                    "ivstrId": null,
+                    "useFlag": true,
+                    "createBy": null,
+                    "linkdUrl": "https://www.linkedin.com/in/gene-lee2019/",
+                    "showFlag": true,
+                    "pplNameEn": "Lee Jin",
+                    "pplNameKr": "이진",
+                    "pplRoleCd": "CEO",
+                    "rocketUrl": "",
+                    "corpNameEn": null,
+                    "corpNameKr": null,
+                    "createDate": null,
+                    "crewRoleCd": null,
+                    "hasHistory": null,
+                    "modifiedBy": null,
+                    "modifiedDate": null,
+                    "seedPeopleHistories": null
+                }
+            ],
+            "seedCorpBiz": [
+                {
+                    "biz": 19,
+                    "corpCnt": 745,
+                    "createBy": "sboh",
+                    "bizNameEn": "인사/비즈니스/법률",
+                    "bizNameKr": "인사/비즈니스/법률",
+                    "createDate": "2024-04-23T17:33:46"
+                }
+            ],
+            "seedCorpTag": [
+                {
+                    "tag": "TG00001823",
+                    "corpCnt": 50,
+                    "tagNameEn": "law ",
+                    "tagNameKr": "법률"
+                },
+                {
+                    "tag": "TG00010001",
+                    "corpCnt": 6520,
+                    "tagNameEn": null,
+                    "tagNameKr": "B2B"
+                },
+                {
+                    "tag": "TG00010002",
+                    "corpCnt": 5696,
+                    "tagNameEn": "B2C",
+                    "tagNameKr": "B2C"
+                },
+                {
+                    "tag": "TG00001914",
+                    "corpCnt": 297,
+                    "tagNameEn": "cloud computing ",
+                    "tagNameKr": "클라우드"
+                },
+                {
+                    "tag": "TG00030002",
+                    "corpCnt": 1893,
+                    "tagNameEn": "Saas/Enterprise",
+                    "tagNameKr": "SaaS/엔터프라이즈"
+                },
+                {
+                    "tag": "TG00030003",
+                    "corpCnt": 383,
+                    "tagNameEn": "Subscription ",
+                    "tagNameKr": "구독"
+                },
+                {
+                    "tag": "TG00040002",
+                    "corpCnt": 3867,
+                    "tagNameEn": "web",
+                    "tagNameKr": "WEB"
+                },
+                {
+                    "tag": "TG00040008",
+                    "corpCnt": 515,
+                    "tagNameEn": "data/API",
+                    "tagNameKr": "데이터/API"
+                },
+                {
+                    "tag": "TG00002028",
+                    "corpCnt": 142,
+                    "tagNameEn": "search/search engine ",
+                    "tagNameKr": "검색/검색엔진"
+                },
+                {
+                    "tag": "TG00060012",
+                    "corpCnt": 117,
+                    "tagNameEn": "Subscription ",
+                    "tagNameKr": "구독경제"
+                }
+            ],
+            "seedProduct": {
+                "id": "PD00007803",
+                "andUrl": null,
+                "corpId": "CP00001728",
+                "webUrl": "lbox.kr",
+                "createBy": "system",
+                "isAppProd": false,
+                "isEtcProd": false,
+                "isOffProd": false,
+                "isWebProd": false,
+                "prodEndAt": null,
+                "createDate": "2021-09-28T18:25:15",
+                "finishFlag": false,
+                "modifiedBy": "sboh",
+                "prodNameEn": "엘박스",
+                "prodNameKr": "엘박스",
+                "prodIntroEn": "판례 검색 서비스 플랫폼",
+                "prodIntroKr": "판례 검색 서비스 플랫폼",
+                "prodLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00007803_20240423172941.png",
+                "etcProdCount": null,
+                "modifiedDate": "2024-04-23T17:29:42",
+                "offProdCount": null
+            },
+            "seedPeopleBlind": false,
+            "seedPeopleCount": 1,
+            "seedCorpBizBlind": false,
+            "seedCorpBizCount": 1,
+            "seedCorpTagBlind": false,
+            "seedCorpTagCount": 10,
+            "seedProductBlind": false,
+            "seedAdvertisementKeywords": [
+                {
+                    "id": "AK00000056",
+                    "corpCnt": 621,
+                    "advertisementKeyword": "퍼스트펭귄"
+                },
+                {
+                    "id": "AK00000055",
+                    "corpCnt": 65,
+                    "advertisementKeyword": "프리아이콘"
+                },
+                {
+                    "id": "AK00000044",
+                    "corpCnt": 388,
+                    "advertisementKeyword": "팁스(TIPS)2021"
+                }
+            ]
+        },
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+        "ogTagContent": {
+            "title": "엘박스 - 매출 투자 고용 정보 - 혁신의숲",
+            "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00001728_20240423172918.png",
+            "description": "누적투자금 240.0억 스타트업 엘박스의 매출, 투자, 고용, 특허등급, 재구매율, 방문자 분석 등 36개월 간의 데이터를 혁신의숲에서 확인해 보세요."
+        }
+    }
+}

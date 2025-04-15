@@ -1,0 +1,4556 @@
+{
+    "mau": {
+        "list": [
+            {
+                "data": [
+                    {
+                        "value": 44679010,
+                        "growthRate": null,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 44711158,
+                        "growthRate": 0.1,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 44941950,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 44942559,
+                        "growthRate": 0.0,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 44919798,
+                        "growthRate": -0.1,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 44993676,
+                        "growthRate": 0.2,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 44907347,
+                        "growthRate": -0.2,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 44721901,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 44907515,
+                        "growthRate": 0.4,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 44985537,
+                        "growthRate": 0.2,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 44521138,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 44676195,
+                        "growthRate": 0.3,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 44604289,
+                        "growthRate": -0.2,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 44626588,
+                        "growthRate": 0.0,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 45039126,
+                        "growthRate": 0.9,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 44861878,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 44942020,
+                        "growthRate": 0.2,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 45106214,
+                        "growthRate": 0.4,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 45084143,
+                        "growthRate": 0.0,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 45084429,
+                        "growthRate": 0.0,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 44930925,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 44996142,
+                        "growthRate": 0.1,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 44715657,
+                        "growthRate": -0.6,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00004752"
+            },
+            {
+                "data": [
+                    {
+                        "value": 30671459,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 30376172,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 30781583,
+                        "growthRate": 1.3,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 30608361,
+                        "growthRate": -0.6,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 30183895,
+                        "growthRate": -1.4,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 30103271,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 29977570,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 29717742,
+                        "growthRate": -0.9,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 28654416,
+                        "growthRate": -3.6,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 21451226,
+                        "growthRate": -25.1,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 20185446,
+                        "growthRate": -5.9,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 19421722,
+                        "growthRate": -3.8,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 19719857,
+                        "growthRate": 1.5,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 19557703,
+                        "growthRate": -0.8,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 20639123,
+                        "growthRate": 5.5,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 20462436,
+                        "growthRate": -0.9,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 20555834,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 19786507,
+                        "growthRate": -3.7,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 18907836,
+                        "growthRate": -4.4,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 18672912,
+                        "growthRate": -1.2,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 21180679,
+                        "growthRate": 13.4,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 21289316,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 21086825,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 20607691,
+                        "growthRate": -2.3,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 20645749,
+                        "growthRate": 0.2,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 20683344,
+                        "growthRate": 0.2,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 21138850,
+                        "growthRate": 2.2,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 21171125,
+                        "growthRate": 0.2,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 26551891,
+                        "growthRate": 25.4,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 29176526,
+                        "growthRate": 9.9,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 28898000,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 29210003,
+                        "growthRate": 1.1,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 28966701,
+                        "growthRate": -0.8,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 28787160,
+                        "growthRate": -0.6,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 28494532,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012950"
+            },
+            {
+                "data": [
+                    {
+                        "value": 4035142,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 4729095,
+                        "growthRate": 17.2,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 5178960,
+                        "growthRate": 9.5,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 4881402,
+                        "growthRate": -5.7,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 5100764,
+                        "growthRate": 4.5,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 5037521,
+                        "growthRate": -1.2,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 4939978,
+                        "growthRate": -1.9,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 5273070,
+                        "growthRate": 6.7,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 5034664,
+                        "growthRate": -4.5,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 5070734,
+                        "growthRate": 0.7,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 4825422,
+                        "growthRate": -4.8,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 5018654,
+                        "growthRate": 4.0,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 5348875,
+                        "growthRate": 6.6,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 5371709,
+                        "growthRate": 0.4,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 5693983,
+                        "growthRate": 6.0,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 5851706,
+                        "growthRate": 2.8,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 6080188,
+                        "growthRate": 3.9,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 6230441,
+                        "growthRate": 2.5,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 5855965,
+                        "growthRate": -6.0,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 5988444,
+                        "growthRate": 2.3,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 5983839,
+                        "growthRate": -0.1,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 6302443,
+                        "growthRate": 5.3,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 6031309,
+                        "growthRate": -4.3,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 6088887,
+                        "growthRate": 1.0,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 31141395,
+                        "growthRate": 411.4,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 30997008,
+                        "growthRate": -0.5,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 6967415,
+                        "growthRate": -77.5,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 31297471,
+                        "growthRate": 349.2,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 32425613,
+                        "growthRate": 3.6,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 33097716,
+                        "growthRate": 2.1,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 32805516,
+                        "growthRate": -0.9,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 7494185,
+                        "growthRate": -77.2,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 7338271,
+                        "growthRate": -2.1,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 32357998,
+                        "growthRate": 340.9,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 31984776,
+                        "growthRate": -1.2,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012948"
+            },
+            {
+                "data": [
+                    {
+                        "value": 3564285,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 3483656,
+                        "growthRate": -2.3,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 3618956,
+                        "growthRate": 3.9,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 3420308,
+                        "growthRate": -5.5,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 3235041,
+                        "growthRate": -5.4,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 3209239,
+                        "growthRate": -0.8,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 3138035,
+                        "growthRate": -2.2,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 2961025,
+                        "growthRate": -5.6,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 2501819,
+                        "growthRate": -15.5,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 2372910,
+                        "growthRate": -5.2,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 2412769,
+                        "growthRate": 1.7,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 2358900,
+                        "growthRate": -2.2,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 2607803,
+                        "growthRate": 10.6,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 2574305,
+                        "growthRate": -1.3,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 2890161,
+                        "growthRate": 12.3,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 2878405,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 2869539,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 2854119,
+                        "growthRate": -0.5,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 2674171,
+                        "growthRate": -6.3,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 3476049,
+                        "growthRate": 30.0,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 4490297,
+                        "growthRate": 29.2,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 4464051,
+                        "growthRate": -0.6,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 4508649,
+                        "growthRate": 1.0,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 4451587,
+                        "growthRate": -1.3,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 21063054,
+                        "growthRate": 373.2,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 20828221,
+                        "growthRate": -1.1,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 4359836,
+                        "growthRate": -79.1,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 21274183,
+                        "growthRate": 388.0,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 22444627,
+                        "growthRate": 5.5,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 22733514,
+                        "growthRate": 1.3,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 22223648,
+                        "growthRate": -2.2,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 4640284,
+                        "growthRate": -79.1,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 4562619,
+                        "growthRate": -1.7,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 21875845,
+                        "growthRate": 379.5,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 21667191,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012952"
+            },
+            {
+                "data": [
+                    {
+                        "value": 25091743,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 25800375,
+                        "growthRate": 2.8,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 26334015,
+                        "growthRate": 2.1,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 25704474,
+                        "growthRate": -2.4,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 26257740,
+                        "growthRate": 2.2,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 26002203,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 25614270,
+                        "growthRate": -1.5,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 24606879,
+                        "growthRate": -3.9,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 23868316,
+                        "growthRate": -3.0,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 23618415,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 24110665,
+                        "growthRate": 2.1,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 21422106,
+                        "growthRate": -11.2,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 21225443,
+                        "growthRate": -0.9,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 20901374,
+                        "growthRate": -1.5,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 21021697,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 20457607,
+                        "growthRate": -2.7,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 30173174,
+                        "growthRate": 47.5,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 32895881,
+                        "growthRate": 9.0,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 32654729,
+                        "growthRate": -0.7,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 32418606,
+                        "growthRate": -0.7,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 32765055,
+                        "growthRate": 1.1,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 32931594,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 32347868,
+                        "growthRate": -1.8,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 32328704,
+                        "growthRate": -0.1,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 33021369,
+                        "growthRate": 2.1,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 32846175,
+                        "growthRate": -0.5,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 32332033,
+                        "growthRate": -1.6,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 33538011,
+                        "growthRate": 3.7,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 34416468,
+                        "growthRate": 2.6,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 34575608,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 34208604,
+                        "growthRate": -1.1,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 33312327,
+                        "growthRate": -2.6,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 32869985,
+                        "growthRate": -1.3,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 33947376,
+                        "growthRate": 3.3,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 33685282,
+                        "growthRate": -0.8,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012955"
+            },
+            {
+                "data": [
+                    {
+                        "value": 170561,
+                        "growthRate": null,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 301716,
+                        "growthRate": 76.9,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 277592,
+                        "growthRate": -8.0,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 1904039,
+                        "growthRate": 585.9,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 1706732,
+                        "growthRate": -10.4,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 160576,
+                        "growthRate": -90.6,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 1901718,
+                        "growthRate": 1084.3,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 1918689,
+                        "growthRate": 0.9,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 2176462,
+                        "growthRate": 13.4,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 2051472,
+                        "growthRate": -5.7,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 201941,
+                        "growthRate": -90.2,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 224313,
+                        "growthRate": 11.1,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 2068954,
+                        "growthRate": 822.4,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 2259512,
+                        "growthRate": 9.2,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012967"
+            },
+            {
+                "data": [
+                    {
+                        "value": 231574,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 240465,
+                        "growthRate": 3.8,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 195377,
+                        "growthRate": -18.8,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 100309,
+                        "growthRate": -48.7,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 95370,
+                        "growthRate": -4.9,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 115165,
+                        "growthRate": 20.8,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 172377,
+                        "growthRate": 49.7,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 135192,
+                        "growthRate": -21.6,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 58163,
+                        "growthRate": -57.0,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 45155,
+                        "growthRate": -22.4,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 35358,
+                        "growthRate": -21.7,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 40757,
+                        "growthRate": 15.3,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 74944,
+                        "growthRate": 83.9,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 66484,
+                        "growthRate": -11.3,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 61262,
+                        "growthRate": -7.9,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 59718,
+                        "growthRate": -2.5,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 49361,
+                        "growthRate": -17.3,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 46671,
+                        "growthRate": -5.4,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 58585,
+                        "growthRate": 25.5,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 63893,
+                        "growthRate": 9.1,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 71532,
+                        "growthRate": 12.0,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 60276,
+                        "growthRate": -15.7,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 57376,
+                        "growthRate": -4.8,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 54919,
+                        "growthRate": -4.3,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 367649,
+                        "growthRate": 569.4,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 387040,
+                        "growthRate": 5.3,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 81913,
+                        "growthRate": -78.8,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 373757,
+                        "growthRate": 356.3,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 323015,
+                        "growthRate": -13.6,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 307765,
+                        "growthRate": -4.7,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 386427,
+                        "growthRate": 25.6,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 86567,
+                        "growthRate": -77.6,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 83910,
+                        "growthRate": -3.1,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 389753,
+                        "growthRate": 364.5,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 328195,
+                        "growthRate": -15.8,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012951"
+            },
+            {
+                "data": [
+                    {
+                        "value": 1601516,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 1530952,
+                        "growthRate": -4.4,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 1648063,
+                        "growthRate": 7.6,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 1496250,
+                        "growthRate": -9.2,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 1665879,
+                        "growthRate": 11.3,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 1446761,
+                        "growthRate": -13.2,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 1509797,
+                        "growthRate": 4.4,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 1455021,
+                        "growthRate": -3.6,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 1603750,
+                        "growthRate": 10.2,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 1594019,
+                        "growthRate": -0.6,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 1419965,
+                        "growthRate": -10.9,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 1426833,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 1651038,
+                        "growthRate": 15.7,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 1732959,
+                        "growthRate": 5.0,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 1798087,
+                        "growthRate": 3.8,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 1743832,
+                        "growthRate": -3.0,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 1807564,
+                        "growthRate": 3.7,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 1681509,
+                        "growthRate": -7.0,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 1626422,
+                        "growthRate": -3.3,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 1489280,
+                        "growthRate": -8.4,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 1145834,
+                        "growthRate": -23.1,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 1176994,
+                        "growthRate": 2.7,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 1198198,
+                        "growthRate": 1.8,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 1159942,
+                        "growthRate": -3.2,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 1038615,
+                        "growthRate": -10.5,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 1032125,
+                        "growthRate": -0.6,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 1118566,
+                        "growthRate": 8.4,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 957709,
+                        "growthRate": -14.4,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 1028524,
+                        "growthRate": 7.4,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 1085760,
+                        "growthRate": 5.6,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 1012232,
+                        "growthRate": -6.8,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 1000558,
+                        "growthRate": -1.2,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 842726,
+                        "growthRate": -15.8,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 872108,
+                        "growthRate": 3.5,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 773835,
+                        "growthRate": -11.3,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012953"
+            },
+            {
+                "data": [
+                    {
+                        "value": 13643826,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 12490946,
+                        "growthRate": -8.4,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 13405428,
+                        "growthRate": 7.3,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 13784652,
+                        "growthRate": 2.8,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 13721319,
+                        "growthRate": -0.5,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 13687471,
+                        "growthRate": -0.2,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 13132568,
+                        "growthRate": -4.1,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 13037840,
+                        "growthRate": -0.7,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 12655899,
+                        "growthRate": -2.9,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 12805813,
+                        "growthRate": 1.2,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 11673951,
+                        "growthRate": -8.8,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 10939943,
+                        "growthRate": -6.3,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 10802303,
+                        "growthRate": -1.3,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 11327109,
+                        "growthRate": 4.9,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 11296157,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 10916348,
+                        "growthRate": -3.4,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 11049815,
+                        "growthRate": 1.2,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 11085983,
+                        "growthRate": 0.3,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 10368246,
+                        "growthRate": -6.5,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 10917029,
+                        "growthRate": 5.3,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 10862240,
+                        "growthRate": -0.5,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 10557140,
+                        "growthRate": -2.8,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 10522299,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 10318822,
+                        "growthRate": -1.9,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 9491768,
+                        "growthRate": -8.0,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 10147449,
+                        "growthRate": 6.9,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 9308095,
+                        "growthRate": -8.3,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 8687946,
+                        "growthRate": -6.7,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 9051957,
+                        "growthRate": 4.2,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 11969689,
+                        "growthRate": 32.2,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 9026833,
+                        "growthRate": -24.6,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 9157947,
+                        "growthRate": 1.5,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 9266607,
+                        "growthRate": 1.2,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 10831783,
+                        "growthRate": 16.9,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 11106504,
+                        "growthRate": 2.5,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012962"
+            },
+            {
+                "data": [
+                    {
+                        "value": 128796,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 113876,
+                        "growthRate": -11.6,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 91296,
+                        "growthRate": -19.8,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 79515,
+                        "growthRate": -12.9,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 22009,
+                        "growthRate": -72.3,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 44515,
+                        "growthRate": 102.3,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 76616,
+                        "growthRate": 72.1,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 80056,
+                        "growthRate": 4.5,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 67897,
+                        "growthRate": -15.2,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 19311,
+                        "growthRate": -71.6,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 20311,
+                        "growthRate": 5.2,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 19235,
+                        "growthRate": -5.3,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 20849,
+                        "growthRate": 8.4,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 21435,
+                        "growthRate": 2.8,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 22730,
+                        "growthRate": 6.0,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 21655,
+                        "growthRate": -4.7,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 21972,
+                        "growthRate": 1.5,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 21967,
+                        "growthRate": 0.0,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 21008,
+                        "growthRate": -4.4,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 21182,
+                        "growthRate": 0.8,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 19749,
+                        "growthRate": -6.8,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 23865,
+                        "growthRate": 20.8,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 18701,
+                        "growthRate": -21.6,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 18914,
+                        "growthRate": 1.1,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 20204,
+                        "growthRate": 6.8,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 20732,
+                        "growthRate": 2.6,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 21202,
+                        "growthRate": 2.3,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 22680,
+                        "growthRate": 7.0,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 21388,
+                        "growthRate": -5.7,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 22596,
+                        "growthRate": 5.6,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 22155,
+                        "growthRate": -2.0,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 23361,
+                        "growthRate": 5.4,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 23216,
+                        "growthRate": -0.6,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 21869,
+                        "growthRate": -5.8,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 22604,
+                        "growthRate": 3.4,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012974"
+            },
+            {
+                "data": [
+                    {
+                        "value": 132729,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 70524,
+                        "growthRate": -46.9,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 64496,
+                        "growthRate": -8.5,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 89330,
+                        "growthRate": 38.5,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 192424,
+                        "growthRate": 115.4,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 121853,
+                        "growthRate": -36.7,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 192938,
+                        "growthRate": 58.3,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 133548,
+                        "growthRate": -30.8,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 400074,
+                        "growthRate": 199.6,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 68864,
+                        "growthRate": 100.0,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 63859,
+                        "growthRate": -7.3,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 69059,
+                        "growthRate": 8.1,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 68839,
+                        "growthRate": -0.3,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 145675,
+                        "growthRate": 111.6,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 57781,
+                        "growthRate": -60.3,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 71813,
+                        "growthRate": 24.3,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 58553,
+                        "growthRate": -18.5,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 52406,
+                        "growthRate": -10.5,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 53254,
+                        "growthRate": 1.6,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 43973,
+                        "growthRate": -17.4,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 39599,
+                        "growthRate": -9.9,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 41210,
+                        "growthRate": 4.1,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 42045,
+                        "growthRate": 2.0,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 54624,
+                        "growthRate": 29.9,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 46523,
+                        "growthRate": -14.8,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 43444,
+                        "growthRate": -6.6,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 40505,
+                        "growthRate": -6.8,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 51913,
+                        "growthRate": 28.2,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 644598,
+                        "growthRate": 1141.7,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 42186,
+                        "growthRate": -93.5,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 45330,
+                        "growthRate": 7.5,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 32144,
+                        "growthRate": -29.1,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 25979,
+                        "growthRate": -19.2,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 581493,
+                        "growthRate": 2138.3,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012954"
+            },
+            {
+                "data": [
+                    {
+                        "value": 412424,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 369427,
+                        "growthRate": -10.4,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 343436,
+                        "growthRate": -7.0,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 307459,
+                        "growthRate": -10.5,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 300992,
+                        "growthRate": -2.1,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 308173,
+                        "growthRate": 2.4,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 279429,
+                        "growthRate": -9.3,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 245339,
+                        "growthRate": -12.2,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 233963,
+                        "growthRate": -4.6,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 224980,
+                        "growthRate": -3.8,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 229717,
+                        "growthRate": 2.1,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 201523,
+                        "growthRate": -12.3,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 241533,
+                        "growthRate": 19.9,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 246243,
+                        "growthRate": 2.0,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 281267,
+                        "growthRate": 14.2,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 272088,
+                        "growthRate": -3.3,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 263754,
+                        "growthRate": -3.1,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 259927,
+                        "growthRate": -1.5,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 230797,
+                        "growthRate": -11.2,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 207886,
+                        "growthRate": -9.9,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 185758,
+                        "growthRate": -10.6,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 180262,
+                        "growthRate": -3.0,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 188288,
+                        "growthRate": 4.5,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 169399,
+                        "growthRate": -10.0,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 161324,
+                        "growthRate": -4.8,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 157730,
+                        "growthRate": -2.2,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 153939,
+                        "growthRate": -2.4,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 147523,
+                        "growthRate": -4.2,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 156284,
+                        "growthRate": 5.9,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 166687,
+                        "growthRate": 6.7,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 150519,
+                        "growthRate": -9.7,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 147456,
+                        "growthRate": -2.0,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 134376,
+                        "growthRate": -8.9,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 144015,
+                        "growthRate": 7.2,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 140391,
+                        "growthRate": -2.5,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012970"
+            },
+            {
+                "data": [
+                    {
+                        "value": 15981646,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 18945232,
+                        "growthRate": 18.5,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 19658409,
+                        "growthRate": 3.8,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 19386545,
+                        "growthRate": -1.4,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 20051030,
+                        "growthRate": 3.4,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 19410466,
+                        "growthRate": -3.2,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 19337131,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 20333966,
+                        "growthRate": 5.2,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 20023128,
+                        "growthRate": -1.5,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 20113453,
+                        "growthRate": 0.5,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 19972501,
+                        "growthRate": -0.7,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 19697621,
+                        "growthRate": -1.4,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 20299457,
+                        "growthRate": 3.1,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 18221955,
+                        "growthRate": -10.2,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 16083440,
+                        "growthRate": -11.7,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 15923087,
+                        "growthRate": -1.0,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 16271926,
+                        "growthRate": 2.2,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 16585577,
+                        "growthRate": 1.9,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 15975444,
+                        "growthRate": -3.7,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 16083628,
+                        "growthRate": 0.7,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 15579875,
+                        "growthRate": -3.1,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 15966620,
+                        "growthRate": 2.5,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 15926754,
+                        "growthRate": -0.2,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 15890742,
+                        "growthRate": -0.2,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 15888536,
+                        "growthRate": 0.0,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 15989309,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 16626990,
+                        "growthRate": 4.0,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 16347619,
+                        "growthRate": -1.7,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 17027799,
+                        "growthRate": 4.2,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 17779906,
+                        "growthRate": 4.4,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 17354706,
+                        "growthRate": -2.4,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 17652378,
+                        "growthRate": 1.7,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 18260188,
+                        "growthRate": 3.4,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 18189332,
+                        "growthRate": -0.4,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 18534678,
+                        "growthRate": 1.9,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012963"
+            },
+            {
+                "data": [
+                    {
+                        "value": 5470213,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 5642350,
+                        "growthRate": 3.1,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 5922253,
+                        "growthRate": 5.0,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 5733633,
+                        "growthRate": -3.2,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 5530442,
+                        "growthRate": -3.5,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 5492140,
+                        "growthRate": -0.7,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 5642275,
+                        "growthRate": 2.7,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 5821440,
+                        "growthRate": 3.2,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 7367626,
+                        "growthRate": 26.6,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 7195917,
+                        "growthRate": -2.3,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 7395756,
+                        "growthRate": 2.8,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 7457139,
+                        "growthRate": 0.8,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 8602239,
+                        "growthRate": 15.4,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 8907794,
+                        "growthRate": 3.6,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 9375372,
+                        "growthRate": 5.2,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 10203855,
+                        "growthRate": 8.8,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 11637247,
+                        "growthRate": 14.0,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 12848519,
+                        "growthRate": 10.4,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 13524820,
+                        "growthRate": 5.3,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 13611303,
+                        "growthRate": 0.6,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 13107572,
+                        "growthRate": -3.7,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 12679960,
+                        "growthRate": -3.3,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 13872362,
+                        "growthRate": 9.4,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 13293221,
+                        "growthRate": -4.2,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 16843563,
+                        "growthRate": 26.7,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 16991250,
+                        "growthRate": 0.9,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 11892463,
+                        "growthRate": -30.0,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 15333892,
+                        "growthRate": 28.9,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 15709302,
+                        "growthRate": 2.4,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 16264779,
+                        "growthRate": 3.5,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 15512752,
+                        "growthRate": -4.6,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 10072417,
+                        "growthRate": -35.1,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 10986752,
+                        "growthRate": 9.1,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 15785163,
+                        "growthRate": 43.7,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 15618824,
+                        "growthRate": -1.1,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012961"
+            },
+            {
+                "data": [
+                    {
+                        "value": 887,
+                        "growthRate": null,
+                        "referenceMonth": "2022-03"
+                    },
+                    {
+                        "value": 1794,
+                        "growthRate": 102.3,
+                        "referenceMonth": "2022-04"
+                    },
+                    {
+                        "value": 2752,
+                        "growthRate": 53.4,
+                        "referenceMonth": "2022-05"
+                    },
+                    {
+                        "value": 1710,
+                        "growthRate": -37.9,
+                        "referenceMonth": "2022-06"
+                    },
+                    {
+                        "value": 1215,
+                        "growthRate": -28.9,
+                        "referenceMonth": "2022-07"
+                    },
+                    {
+                        "value": 1049,
+                        "growthRate": -13.7,
+                        "referenceMonth": "2022-08"
+                    },
+                    {
+                        "value": 1583,
+                        "growthRate": 50.9,
+                        "referenceMonth": "2022-09"
+                    },
+                    {
+                        "value": 1730,
+                        "growthRate": 9.3,
+                        "referenceMonth": "2022-10"
+                    },
+                    {
+                        "value": 2871,
+                        "growthRate": 66.0,
+                        "referenceMonth": "2022-11"
+                    },
+                    {
+                        "value": 1308,
+                        "growthRate": -54.4,
+                        "referenceMonth": "2022-12"
+                    },
+                    {
+                        "value": 526,
+                        "growthRate": -59.8,
+                        "referenceMonth": "2023-01"
+                    },
+                    {
+                        "value": 779,
+                        "growthRate": 48.1,
+                        "referenceMonth": "2023-02"
+                    },
+                    {
+                        "value": 1649,
+                        "growthRate": 111.7,
+                        "referenceMonth": "2023-03"
+                    },
+                    {
+                        "value": 1474,
+                        "growthRate": -10.6,
+                        "referenceMonth": "2023-04"
+                    },
+                    {
+                        "value": 1923,
+                        "growthRate": 30.5,
+                        "referenceMonth": "2023-05"
+                    },
+                    {
+                        "value": 1735,
+                        "growthRate": -9.8,
+                        "referenceMonth": "2023-06"
+                    },
+                    {
+                        "value": 1387,
+                        "growthRate": -20.1,
+                        "referenceMonth": "2023-07"
+                    },
+                    {
+                        "value": 1191,
+                        "growthRate": -14.1,
+                        "referenceMonth": "2023-08"
+                    },
+                    {
+                        "value": 1224,
+                        "growthRate": 2.8,
+                        "referenceMonth": "2023-09"
+                    },
+                    {
+                        "value": 1346,
+                        "growthRate": 10.0,
+                        "referenceMonth": "2023-10"
+                    },
+                    {
+                        "value": 1633,
+                        "growthRate": 21.3,
+                        "referenceMonth": "2023-11"
+                    },
+                    {
+                        "value": 1256,
+                        "growthRate": -23.1,
+                        "referenceMonth": "2023-12"
+                    },
+                    {
+                        "value": 1548,
+                        "growthRate": 23.2,
+                        "referenceMonth": "2024-01"
+                    },
+                    {
+                        "value": 1095,
+                        "growthRate": -29.3,
+                        "referenceMonth": "2024-02"
+                    },
+                    {
+                        "value": 4471,
+                        "growthRate": 308.3,
+                        "referenceMonth": "2024-03"
+                    },
+                    {
+                        "value": 12201,
+                        "growthRate": 172.9,
+                        "referenceMonth": "2024-04"
+                    },
+                    {
+                        "value": 1855,
+                        "growthRate": -84.8,
+                        "referenceMonth": "2024-05"
+                    },
+                    {
+                        "value": 13054,
+                        "growthRate": 603.7,
+                        "referenceMonth": "2024-06"
+                    },
+                    {
+                        "value": 11610,
+                        "growthRate": -11.1,
+                        "referenceMonth": "2024-07"
+                    },
+                    {
+                        "value": 11085,
+                        "growthRate": -4.5,
+                        "referenceMonth": "2024-08"
+                    },
+                    {
+                        "value": 10346,
+                        "growthRate": -6.7,
+                        "referenceMonth": "2024-09"
+                    },
+                    {
+                        "value": 1586,
+                        "growthRate": -84.7,
+                        "referenceMonth": "2024-10"
+                    },
+                    {
+                        "value": 1719,
+                        "growthRate": 8.4,
+                        "referenceMonth": "2024-11"
+                    },
+                    {
+                        "value": 11545,
+                        "growthRate": 571.6,
+                        "referenceMonth": "2024-12"
+                    },
+                    {
+                        "value": 9996,
+                        "growthRate": -13.4,
+                        "referenceMonth": "2025-01"
+                    }
+                ],
+                "manual": false,
+                "productId": "PD00012971"
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "patent": {
+        "list": [
+            {
+                "level": "B0",
+                "title": "전문가 상담 서비스를 제공하는 방법, 시스템, 및 컴퓨터 프로그램{METHOD, SYSTEM, AND COMPUTER PROGRAM FOR PROVIDING EXPERT COUNSELING SERVICE}",
+                "registerAt": "2022-10-20"
+            },
+            {
+                "level": "B-",
+                "title": "딥러닝 기반의 문서 유사도 측정 모델을 이용한 중복 문서 탐지 방법 및 시스템{METHOD AND SYSTEM FOR DETECTING DUPLICATED DOCUMENT USING DOCUMENT SIMILARITY MEASURING MODEL BASED ON DEEP LEARNING}",
+                "registerAt": "2022-05-16"
+            },
+            {
+                "level": "C",
+                "title": "전자문서 제공 방법, 시스템 및 프로그램{METHOD AND SYSTEM PROVIDING ELECTRONIC DOCUMENT}",
+                "registerAt": "2023-05-17"
+            },
+            {
+                "level": "C",
+                "title": "문서 유사도 학습에 기반한 딥러닝 모델의 전이 학습 방법 및 시스템{METHOD AND SYSTEM FOR TRANSFER LEARNING OF DEEP LEARNING MODEL BASED ON DOCUMENT SIMILARITY LEARNING}",
+                "registerAt": "2023-01-20"
+            },
+            {
+                "level": "C",
+                "title": "사용자 인증 방법 및 시스템{METHOD AND STSTEM FOR USER AUTHENTICATION}",
+                "registerAt": "2022-11-28"
+            },
+            {
+                "level": "C",
+                "title": "컨베이어 픽업 시스템 및 이의 제어방법{CONVEYOR PICKUP SYSTEM AND CONTROL METHOD THEREOF}",
+                "registerAt": "2022-11-01"
+            },
+            {
+                "level": "C",
+                "title": "음성 합성 방법 및 시스템{METHOD AND SYSTEM FOR SYNTHESIZING SPEECH}",
+                "registerAt": "2022-09-16"
+            },
+            {
+                "level": "C",
+                "title": "선별적 데이터 증강 기반 음성 합성 모델 생성 방법 및 시스템{METHOD AND SYSTEM FOR GENERATING SPEECH SYNTHESIS MODEL BASED ON SELECTIVE DATA AUGMENTATION}",
+                "registerAt": "2022-09-15"
+            },
+            {
+                "level": "C",
+                "title": "입력 영상에 포함된 객체의 3차원 포즈를 추정하기 위한 데이터를 생성하는 방법 및 장치와 3차원 포즈 추정을 위한 추론 모델{METHOD AND APPARATUS FOR GENERATING DATA FOR ESTIMATING 3 DIMENSIONAL POSE OF OBJECT INCLUDED IN INPUT IMAGE, AND PREDICTION MODEL FOR ESTIMATING 3 DIMENSIONAL POSE OF OBJECT}",
+                "registerAt": "2022-07-22"
+            },
+            {
+                "level": "C",
+                "title": "실시간 처리 가능한 속도의 이중 언어 발음열 변환 방법 및 시스템{METHOD AND SYSTEM FOR CONVERTING BILINGUAL PRONUNCIATION SEQUENCE AT SPEED CAPABLE OF REAL TIME PROCESSING}",
+                "registerAt": "2022-07-08"
+            },
+            {
+                "level": "C",
+                "title": "라이브 방송 제공 방법 및 시스템{METHOD AND SYSTEM FOR PROVIDING LIVE BROADCASTING}",
+                "registerAt": "2022-06-27"
+            },
+            {
+                "level": "C",
+                "title": "라이브 방송 제공 방법 및 시스템{METHOD AND SYSTEM FOR PROVIDING LIVE BROADCASTING}",
+                "registerAt": "2022-06-27"
+            },
+            {
+                "level": "C",
+                "title": "라이브 방송 제공 방법 및 시스템{METHOD AND SYSTEM FOR PROVIDING LIVE BROADCASTING}",
+                "registerAt": "2022-06-27"
+            },
+            {
+                "level": "C",
+                "title": "라이브 방송 제공 방법 및 시스템{METHOD AND SYSTEM FOR PROVIDING LIVE BROADCASTING}",
+                "registerAt": "2022-06-27"
+            },
+            {
+                "level": "C",
+                "title": "알림 최적화를 위한 방법, 컴퓨터 장치, 및 컴퓨터 프로그램{METHOD, COMPUTER DEVICE, AND COMPUTER PROGRAM TO OPTIMIZE NOTIFICATIONS}",
+                "registerAt": "2022-06-09"
+            },
+            {
+                "level": "C",
+                "title": "가상 티켓과 연관된 사용자 인터페이스 제공 방법 및 시스템{METHOD AND SYSTEM FOR PROVIDING USER INTERFACE RELATED TO VIRTUAL TICKET}",
+                "registerAt": "2022-05-18"
+            },
+            {
+                "level": "C",
+                "title": "움직이는 이미지 파일의 프레임 수 축소 방법 및 시스템{METHOD AND SYSTEM FOR REDUCING NUMBER OF FRAMES IN ANIMATED IMAGE FILE}",
+                "registerAt": "2022-04-19"
+            },
+            {
+                "level": "C",
+                "title": "감정 추정 기반의 감정 음성 합성 방법 및 시스템{METHOD AND SYSTEM FOR SYNTHESIZING EMOTIONAL SPEECH BASED ON EMOTION PREDICTION}",
+                "registerAt": "2022-04-15"
+            },
+            {
+                "level": "C",
+                "title": "음성 기록을 시각화하여 재연하는 방법, 컴퓨터 장치, 및 컴퓨터 프로그램{METHOD, COMPUTER DEVICE, AND COMPUTER PROGRAM TO REPLAY AUDIO RECORDING THROUGH VISUALIZATION}",
+                "registerAt": "2022-04-06"
+            },
+            {
+                "level": "C",
+                "title": "루버 시스템 및 이를 포함하는 건물{LOUVER SYSTEM AND BUILDING HAVING THE SAME}",
+                "registerAt": "2022-02-21"
+            },
+            {
+                "level": "C",
+                "title": "안전한 인터넷 자원 접근 정보 생성 방법 및 시스템{METHOD AND SYSTEM FOR GENERATING SAFE INTERNET RESOURCE ACCESS INFORMATION}",
+                "registerAt": "2022-02-11"
+            },
+            {
+                "level": "C",
+                "title": "소스 코드 관리 방법 및 시스템{METHOD AND SYSTEM FOR MANAGING SOURCE CODE}",
+                "registerAt": "2022-02-07"
+            },
+            {
+                "level": "C",
+                "title": "라이브 커머스 플랫폼에서의 실시간 인스펙터를 위한 방법, 컴퓨터 장치, 및 컴퓨터 프로그램{METHOD, COMPUTER DEVICE, AND COMPUTER PROGRAM FOR REAL-TIME INSPECTOR ON LIVE COMMERCE PLATFORM}",
+                "registerAt": "2022-01-19"
+            },
+            {
+                "level": "C",
+                "title": "하드웨어 디코더 환경에서의 초해상도 이미지 생성 방법 및 시스템{METHOD AND SYSTEM FOR GENERATING SUPER RESOLUTION IMAGE IN HARDWARE DECODER ENVIRONMENT}",
+                "registerAt": "2022-01-03"
+            },
+            {
+                "level": "C",
+                "title": "다중 라이브 송출 환경에서의 채널 간 고속 전환 모드를 구현하는 방법, 시스템, 및 컴퓨터 판독가능한 기록 매체{METHOD, SYSTEM, AND COMPUTER READABLE RECORD MEDIUM TO IMPLEMENT FAST SWITCHING MODE BETWEEN CHANNELS IN MULTIPLE LIVE TRANSMISSION ENVIRONMENT}",
+                "registerAt": "2021-12-21"
+            },
+            {
+                "level": "C",
+                "title": "동영상 콘텐츠에 대한 태그 삽입 방법 및 시스템{METHOD AND SYSTEM FOR ADDING TAG TO VIDEO CONTENT}",
+                "registerAt": "2021-12-15"
+            },
+            {
+                "level": "C",
+                "title": "테마를 갖는 콘텐츠 생성 방법 및 시스템{METHOD AND SYSTEM FOR CREATING CONTENT HAVING THEMES}",
+                "registerAt": "2021-12-03"
+            },
+            {
+                "level": "C",
+                "title": "브랜드 평판 분석 서비스를 제공하기 위한 방법, 컴퓨터 장치, 및 컴퓨터 프로그램{METHOD, COMPUTER DEVICE, AND COMPUTER PROGRAM FOR PROVIDING BRAND REPUTATION ANALYSIS SERVICE}",
+                "registerAt": "2021-11-30"
+            },
+            {
+                "level": "C",
+                "title": "딥러닝 기반으로 장소 리뷰 이미지를 분류하는 방법, 시스템, 및 컴퓨터 프로그램{METHOD, SYSTEM, AND COMPUTER PROGRAM FOR CLASSIFY PLACE REVIEW IMAGES BASED ON DEEP LEARNING}",
+                "registerAt": "2021-11-05"
+            },
+            {
+                "level": "C",
+                "title": "콘텐츠 또는 서비스의 구매를 위한 캐시 충전 방법 및 장치{METHOD AND APPARATUS FOR CHARGING CASH FOR PURCHASING CONTENTS OR SERVICES}",
+                "registerAt": "2021-10-22"
+            }
+        ],
+        "chart": [
+            {
+                "count": 22,
+                "level": "AA"
+            },
+            {
+                "count": 79,
+                "level": "A+"
+            },
+            {
+                "count": 67,
+                "level": "A0"
+            },
+            {
+                "count": 152,
+                "level": "A-"
+            },
+            {
+                "count": 248,
+                "level": "B+"
+            },
+            {
+                "count": 360,
+                "level": "B0"
+            },
+            {
+                "count": 231,
+                "level": "B-"
+            },
+            {
+                "count": 350,
+                "level": "C"
+            }
+        ],
+        "words": [
+            {
+                "text": "검색",
+                "patentCount": 689,
+                "displayCount": 4458
+            },
+            {
+                "text": "광고",
+                "patentCount": 425,
+                "displayCount": 3097
+            },
+            {
+                "text": "데이터",
+                "patentCount": 556,
+                "displayCount": 2274
+            },
+            {
+                "text": "서비스",
+                "patentCount": 634,
+                "displayCount": 1939
+            },
+            {
+                "text": "컨텐츠",
+                "patentCount": 268,
+                "displayCount": 1549
+            },
+            {
+                "text": "수신",
+                "patentCount": 841,
+                "displayCount": 1495
+            },
+            {
+                "text": "키워드",
+                "patentCount": 273,
+                "displayCount": 1430
+            },
+            {
+                "text": "페이지",
+                "patentCount": 354,
+                "displayCount": 1193
+            },
+            {
+                "text": "서버",
+                "patentCount": 427,
+                "displayCount": 1170
+            },
+            {
+                "text": "연관",
+                "patentCount": 429,
+                "displayCount": 1136
+            },
+            {
+                "text": "게임",
+                "patentCount": 108,
+                "displayCount": 1117
+            },
+            {
+                "text": "이미지",
+                "patentCount": 229,
+                "displayCount": 1113
+            },
+            {
+                "text": "상품",
+                "patentCount": 162,
+                "displayCount": 1087
+            },
+            {
+                "text": "요청",
+                "patentCount": 505,
+                "displayCount": 1039
+            },
+            {
+                "text": "저장",
+                "patentCount": 492,
+                "displayCount": 1003
+            },
+            {
+                "text": "단말",
+                "patentCount": 334,
+                "displayCount": 974
+            },
+            {
+                "text": "데이터베이스",
+                "patentCount": 384,
+                "displayCount": 969
+            },
+            {
+                "text": "컴퓨터",
+                "patentCount": 516,
+                "displayCount": 904
+            },
+            {
+                "text": "검색어",
+                "patentCount": 192,
+                "displayCount": 888
+            },
+            {
+                "text": "기록",
+                "patentCount": 464,
+                "displayCount": 875
+            },
+            {
+                "text": "단말기",
+                "patentCount": 306,
+                "displayCount": 863
+            },
+            {
+                "text": "문서",
+                "patentCount": 160,
+                "displayCount": 793
+            },
+            {
+                "text": "노출",
+                "patentCount": 255,
+                "displayCount": 756
+            },
+            {
+                "text": "네트워크",
+                "patentCount": 234,
+                "displayCount": 710
+            },
+            {
+                "text": "전송",
+                "patentCount": 365,
+                "displayCount": 691
+            },
+            {
+                "text": "파일",
+                "patentCount": 132,
+                "displayCount": 563
+            },
+            {
+                "text": "매체",
+                "patentCount": 330,
+                "displayCount": 559
+            },
+            {
+                "text": "판단",
+                "patentCount": 272,
+                "displayCount": 544
+            },
+            {
+                "text": "추천",
+                "patentCount": 139,
+                "displayCount": 532
+            },
+            {
+                "text": "자동",
+                "patentCount": 155,
+                "displayCount": 531
+            },
+            {
+                "text": "광고주",
+                "patentCount": 185,
+                "displayCount": 526
+            },
+            {
+                "text": "프로그램",
+                "patentCount": 267,
+                "displayCount": 523
+            },
+            {
+                "text": "등록",
+                "patentCount": 223,
+                "displayCount": 522
+            },
+            {
+                "text": "온라인",
+                "patentCount": 151,
+                "displayCount": 499
+            },
+            {
+                "text": "콘텐츠",
+                "patentCount": 95,
+                "displayCount": 492
+            },
+            {
+                "text": "영상",
+                "patentCount": 101,
+                "displayCount": 479
+            },
+            {
+                "text": "메일",
+                "patentCount": 41,
+                "displayCount": 468
+            },
+            {
+                "text": "질의어",
+                "patentCount": 76,
+                "displayCount": 464
+            },
+            {
+                "text": "시간",
+                "patentCount": 194,
+                "displayCount": 463
+            },
+            {
+                "text": "메시지",
+                "patentCount": 105,
+                "displayCount": 454
+            },
+            {
+                "text": "텍스트",
+                "patentCount": 123,
+                "displayCount": 448
+            },
+            {
+                "text": "인터넷",
+                "patentCount": 177,
+                "displayCount": 437
+            },
+            {
+                "text": "COMPUTER",
+                "patentCount": 382,
+                "displayCount": 427
+            },
+            {
+                "text": "클라이언트",
+                "patentCount": 126,
+                "displayCount": 423
+            },
+            {
+                "text": "SERVICE",
+                "patentCount": 375,
+                "displayCount": 415
+            },
+            {
+                "text": "분석",
+                "patentCount": 205,
+                "displayCount": 404
+            },
+            {
+                "text": "질의",
+                "patentCount": 89,
+                "displayCount": 393
+            },
+            {
+                "text": "SEARCH",
+                "patentCount": 311,
+                "displayCount": 391
+            },
+            {
+                "text": "대상",
+                "patentCount": 182,
+                "displayCount": 389
+            },
+            {
+                "text": "지도",
+                "patentCount": 86,
+                "displayCount": 384
+            },
+            {
+                "text": "모델",
+                "patentCount": 132,
+                "displayCount": 379
+            },
+            {
+                "text": "디스플레이",
+                "patentCount": 154,
+                "displayCount": 378
+            },
+            {
+                "text": "커뮤니티",
+                "patentCount": 60,
+                "displayCount": 372
+            },
+            {
+                "text": "그룹",
+                "patentCount": 83,
+                "displayCount": 370
+            },
+            {
+                "text": "카테고리",
+                "patentCount": 80,
+                "displayCount": 368
+            },
+            {
+                "text": "동영상",
+                "patentCount": 62,
+                "displayCount": 363
+            },
+            {
+                "text": "쿼리",
+                "patentCount": 71,
+                "displayCount": 357
+            },
+            {
+                "text": "판독",
+                "patentCount": 221,
+                "displayCount": 354
+            },
+            {
+                "text": "식별자",
+                "patentCount": 93,
+                "displayCount": 348
+            },
+            {
+                "text": "인식",
+                "patentCount": 137,
+                "displayCount": 344
+            },
+            {
+                "text": "리스트",
+                "patentCount": 115,
+                "displayCount": 344
+            },
+            {
+                "text": "사이트",
+                "patentCount": 98,
+                "displayCount": 331
+            },
+            {
+                "text": "산출",
+                "patentCount": 158,
+                "displayCount": 330
+            },
+            {
+                "text": "웹페이지",
+                "patentCount": 87,
+                "displayCount": 327
+            },
+            {
+                "text": "이벤트",
+                "patentCount": 89,
+                "displayCount": 324
+            },
+            {
+                "text": "단어",
+                "patentCount": 80,
+                "displayCount": 314
+            },
+            {
+                "text": "식별",
+                "patentCount": 160,
+                "displayCount": 314
+            },
+            {
+                "text": "아이템",
+                "patentCount": 52,
+                "displayCount": 312
+            },
+            {
+                "text": "로그",
+                "patentCount": 88,
+                "displayCount": 302
+            },
+            {
+                "text": "모바일",
+                "patentCount": 79,
+                "displayCount": 297
+            },
+            {
+                "text": "개인",
+                "patentCount": 75,
+                "displayCount": 294
+            },
+            {
+                "text": "음성",
+                "patentCount": 61,
+                "displayCount": 294
+            },
+            {
+                "text": "지식",
+                "patentCount": 39,
+                "displayCount": 293
+            },
+            {
+                "text": "학습",
+                "patentCount": 87,
+                "displayCount": 288
+            },
+            {
+                "text": "MEDIUM",
+                "patentCount": 286,
+                "displayCount": 286
+            },
+            {
+                "text": "확인",
+                "patentCount": 176,
+                "displayCount": 285
+            },
+            {
+                "text": "순위",
+                "patentCount": 83,
+                "displayCount": 284
+            },
+            {
+                "text": "전자",
+                "patentCount": 99,
+                "displayCount": 279
+            },
+            {
+                "text": "화면",
+                "patentCount": 129,
+                "displayCount": 276
+            },
+            {
+                "text": "응답",
+                "patentCount": 163,
+                "displayCount": 270
+            },
+            {
+                "text": "인터페이스",
+                "patentCount": 121,
+                "displayCount": 269
+            },
+            {
+                "text": "기준",
+                "patentCount": 172,
+                "displayCount": 268
+            },
+            {
+                "text": "RECORDING",
+                "patentCount": 255,
+                "displayCount": 266
+            },
+            {
+                "text": "입찰",
+                "patentCount": 60,
+                "displayCount": 266
+            },
+            {
+                "text": "경로",
+                "patentCount": 69,
+                "displayCount": 261
+            },
+            {
+                "text": "CONTENT",
+                "patentCount": 221,
+                "displayCount": 258
+            },
+            {
+                "text": "웹사이트",
+                "patentCount": 57,
+                "displayCount": 251
+            },
+            {
+                "text": "획득",
+                "patentCount": 167,
+                "displayCount": 247
+            },
+            {
+                "text": "분류",
+                "patentCount": 125,
+                "displayCount": 247
+            },
+            {
+                "text": "주소",
+                "patentCount": 69,
+                "displayCount": 247
+            },
+            {
+                "text": "결제",
+                "patentCount": 55,
+                "displayCount": 246
+            },
+            {
+                "text": "검출",
+                "patentCount": 93,
+                "displayCount": 245
+            },
+            {
+                "text": "재생",
+                "patentCount": 82,
+                "displayCount": 244
+            },
+            {
+                "text": "목록",
+                "patentCount": 94,
+                "displayCount": 243
+            },
+            {
+                "text": "관계",
+                "patentCount": 98,
+                "displayCount": 238
+            },
+            {
+                "text": "판매",
+                "patentCount": 74,
+                "displayCount": 238
+            },
+            {
+                "text": "페이",
+                "patentCount": 129,
+                "displayCount": 237
+            },
+            {
+                "text": "수집",
+                "patentCount": 116,
+                "displayCount": 236
+            },
+            {
+                "text": "지역",
+                "patentCount": 54,
+                "displayCount": 231
+            },
+            {
+                "text": "메신저",
+                "patentCount": 45,
+                "displayCount": 226
+            }
+        ],
+        "totalCount": 1509,
+        "averageRank": 4.2,
+        "recentUpdate": "2024-06-11"
+    },
+    "finance": {
+        "data": [
+            {
+                "type": "CONSOLIDATED_NICE",
+                "year": 2021,
+                "profit": 6817599707000,
+                "capital": 16481340000,
+                "netProfit": null,
+                "liabilities": 9663630408000,
+                "totalAssets": 33691006757000,
+                "totalCapital": 24027376349000,
+                "operatingProfit": 1325478171000
+            },
+            {
+                "type": "CONSOLIDATED_NICE",
+                "year": 2022,
+                "profit": 8220078709000,
+                "capital": 16481340000,
+                "netProfit": null,
+                "liabilities": 10448720409000,
+                "totalAssets": 33899042889000,
+                "totalCapital": 23450322480000,
+                "operatingProfit": 1304664411000
+            },
+            {
+                "type": "SEPARATE_KODATA",
+                "year": 2023,
+                "profit": 5609799006000,
+                "capital": 16481340000,
+                "netProfit": 1414312848000,
+                "liabilities": 4029165408000,
+                "totalAssets": 15479991449000,
+                "totalCapital": 11450826041000,
+                "operatingProfit": 1713205368000
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "products": [
+        {
+            "id": "PD00004752",
+            "name": "네이버",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.search",
+                    "type": "APP"
+                },
+                {
+                    "url": "naver.com",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://lh3.googleusercontent.com/Kbu0747Cx3rpzHcSbtM1zDriGFG74zVbtkPmVnOKpmLCS59l7IuKD5M3MKbaq_nEaZM"
+        },
+        {
+            "id": "PD00012950",
+            "name": "밴드",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.band",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012950_20221014064023.webp"
+        },
+        {
+            "id": "PD00012948",
+            "name": "네이버 지도",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.nmap",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012948_20231024140920.webp"
+        },
+        {
+            "id": "PD00012952",
+            "name": "네이버 카페",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.navercafe",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012952_20231024141100.webp"
+        },
+        {
+            "id": "PD00012955",
+            "name": "네이버 블로그",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.blog",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012955_20231024141011.webp"
+        },
+        {
+            "id": "PD00012967",
+            "name": "치지직 ",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.navercorp.game.android.community",
+                    "type": "APP"
+                },
+                {
+                    "url": "chzzk.naver.com",
+                    "type": "WEB"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012967_20231227141842.webp"
+        },
+        {
+            "id": "PD00012949",
+            "name": "네이버 파파고",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.labs.translator",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012949_20221014063923.webp"
+        },
+        {
+            "id": "PD00012951",
+            "name": "클로바노트",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.clova.minute",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012951_20221014064332.webp"
+        },
+        {
+            "id": "PD00012977",
+            "name": "네이버 포스트",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.post",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012977_20221014071615.webp"
+        },
+        {
+            "id": "PD00012953",
+            "name": "네이버 바이브",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.vibe",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012953_20221014064603.webp"
+        },
+        {
+            "id": "PD00012962",
+            "name": "네이버 나우",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.naverplayer",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012962_20221014065753.webp"
+        },
+        {
+            "id": "PD00012974",
+            "name": "프리즘 라이브 스튜디오",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.prism.live",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012974_20221014071329.png"
+        },
+        {
+            "id": "PD00012954",
+            "name": "네이버 웨일 브라우저",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.whale",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012954_20221014064738.png"
+        },
+        {
+            "id": "PD00012970",
+            "name": "오디오클립",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.naveraudio",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012970_20221014070758.webp"
+        },
+        {
+            "id": "PD00012966",
+            "name": "네이버 스마트플레이스센터",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.smartplace",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012966_20221014070257.webp"
+        },
+        {
+            "id": "PD00012968",
+            "name": "네이버 톡톡 파트너센터",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.shopping.biztalk",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012968_20231024140600.webp"
+        },
+        {
+            "id": "PD00012964",
+            "name": "네이버 스마트스토어센터",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.navercorp.ncp.sell",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012964_20231024140742.webp"
+        },
+        {
+            "id": "PD00012972",
+            "name": "네이버 지식iN",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.kin",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012972_20231024140825.webp"
+        },
+        {
+            "id": "PD00012965",
+            "name": "네이버 메모",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.navermemo",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012965_20221014070156.webp"
+        },
+        {
+            "id": "PD00012969",
+            "name": "밴드 키즈",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.bandkids",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012969_20221014070616.webp"
+        },
+        {
+            "id": "PD00012975",
+            "name": "쥬니버TV",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=air.com.nhncorp.jrapp",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012975_20221014071428.webp"
+        },
+        {
+            "id": "PD00012963",
+            "name": "네이버 클로바",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.nozzle",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012963_20221014065922.webp"
+        },
+        {
+            "id": "PD00012958",
+            "name": "네이버 사전",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.naverdic",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012958_20231024140417.webp"
+        },
+        {
+            "id": "PD00012957",
+            "name": "네이버 스마트보드",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.navercorp.android.smartboard",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012957_20231024140338.webp"
+        },
+        {
+            "id": "PD00012956",
+            "name": "네이버 마이박스",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.ndrive",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012956_20221014065014.png"
+        },
+        {
+            "id": "PD00012961",
+            "name": "네이버 메일",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.mail",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012961_20221014065656.webp"
+        },
+        {
+            "id": "PD00012960",
+            "name": "네이버 캘린더",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.nhn.android.calendar",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012960_20231024140231.webp"
+        },
+        {
+            "id": "PD00012971",
+            "name": "클로바더빙",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.naver.clova.voice.recorder",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012971_20221014070854.webp"
+        },
+        {
+            "id": "PD00012976",
+            "name": "네이버 쇼핑라이브 스튜디오",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.navercorp.android.selective",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00012976_20221014071519.webp"
+        }
+    ],
+    "customerType": {
+        "salesFamily": [
+            {
+                "rate": 6.2,
+                "type": "성인자녀가구"
+            },
+            {
+                "rate": 16.1,
+                "type": "유아자녀가구"
+            },
+            {
+                "rate": 34.9,
+                "type": "청소년자녀가구"
+            },
+            {
+                "rate": 5.0,
+                "type": "신혼가구"
+            },
+            {
+                "rate": 36.5,
+                "type": "싱글가구"
+            },
+            {
+                "rate": 1.3,
+                "type": "실버가구"
+            }
+        ],
+        "salesIncome": [
+            {
+                "rate": 0.8,
+                "type": "2000만원이하"
+            },
+            {
+                "rate": 6.5,
+                "type": "3000만원이하"
+            },
+            {
+                "rate": 14.1,
+                "type": "4000만원이하"
+            },
+            {
+                "rate": 10.7,
+                "type": "5000만원이하"
+            },
+            {
+                "rate": 12.2,
+                "type": "6000만원이하"
+            },
+            {
+                "rate": 16.0,
+                "type": "8000만원이하"
+            },
+            {
+                "rate": 9.3,
+                "type": "1억원이하"
+            },
+            {
+                "rate": 30.4,
+                "type": "1억원초과"
+            }
+        ],
+        "salesPerson": [
+            {
+                "rate": 8.2,
+                "gender": "여성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 4.0,
+                "gender": "여성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 1.1,
+                "gender": "여성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 3.9,
+                "gender": "여성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 5.0,
+                "gender": "남성",
+                "ageGroup": "20~29세"
+            },
+            {
+                "rate": 12.5,
+                "gender": "남성",
+                "ageGroup": "50~59세"
+            },
+            {
+                "rate": 2.6,
+                "gender": "남성",
+                "ageGroup": "60이상"
+            },
+            {
+                "rate": 31.2,
+                "gender": "남성",
+                "ageGroup": "30~39세"
+            },
+            {
+                "rate": 25.8,
+                "gender": "남성",
+                "ageGroup": "40~49세"
+            },
+            {
+                "rate": 5.7,
+                "gender": "여성",
+                "ageGroup": "30~39세"
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "organization": {
+        "data": [
+            {
+                "in": 107,
+                "out": 40,
+                "value": 4559,
+                "growRate": 1.8,
+                "referenceMonth": "2025-01"
+            },
+            {
+                "in": 50,
+                "out": 27,
+                "value": 4479,
+                "growRate": 0.3,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "in": 46,
+                "out": 36,
+                "value": 4465,
+                "growRate": 0.0,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "in": 54,
+                "out": 47,
+                "value": 4466,
+                "growRate": 0.5,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "in": 49,
+                "out": 31,
+                "value": 4443,
+                "growRate": 0.2,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "in": 53,
+                "out": 41,
+                "value": 4435,
+                "growRate": -0.3,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "in": 147,
+                "out": 67,
+                "value": 4449,
+                "growRate": 2.6,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "in": 40,
+                "out": 36,
+                "value": 4338,
+                "growRate": 0.4,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "in": 33,
+                "out": 24,
+                "value": 4322,
+                "growRate": -0.4,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "in": 39,
+                "out": 50,
+                "value": 4339,
+                "growRate": -0.5,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "in": 43,
+                "out": 61,
+                "value": 4361,
+                "growRate": -0.1,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "in": 107,
+                "out": 46,
+                "value": 4364,
+                "growRate": 1.5,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "in": 89,
+                "out": 41,
+                "value": 4298,
+                "growRate": 0.9,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "in": 35,
+                "out": 52,
+                "value": 4261,
+                "growRate": -0.6,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "in": 55,
+                "out": 60,
+                "value": 4286,
+                "growRate": 0.1,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "in": 46,
+                "out": 49,
+                "value": 4280,
+                "growRate": -0.3,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "in": 55,
+                "out": 61,
+                "value": 4295,
+                "growRate": -0.7,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "in": 151,
+                "out": 86,
+                "value": 4326,
+                "growRate": 2.5,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "in": 50,
+                "out": 46,
+                "value": 4221,
+                "growRate": -0.4,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "in": 49,
+                "out": 69,
+                "value": 4240,
+                "growRate": 0.1,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "in": 62,
+                "out": 43,
+                "value": 4234,
+                "growRate": 0.1,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "in": 56,
+                "out": 59,
+                "value": 4231,
+                "growRate": 0.2,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "in": 40,
+                "out": 47,
+                "value": 4222,
+                "growRate": -0.8,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "in": 82,
+                "out": 72,
+                "value": 4254,
+                "growRate": 0.7,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "in": 64,
+                "out": 53,
+                "value": 4225,
+                "growRate": -12.9,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "in": 64,
+                "out": 688,
+                "value": 4849,
+                "growRate": -0.4,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "in": 85,
+                "out": 84,
+                "value": 4869,
+                "growRate": 0.2,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "in": 85,
+                "out": 75,
+                "value": 4859,
+                "growRate": 0.1,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "in": 90,
+                "out": 82,
+                "value": 4856,
+                "growRate": -0.2,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "in": 130,
+                "out": 99,
+                "value": 4865,
+                "growRate": -0.1,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "in": 113,
+                "out": 133,
+                "value": 4868,
+                "growRate": 1.0,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "in": 134,
+                "out": 63,
+                "value": 4818,
+                "growRate": 1.2,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "in": 159,
+                "out": 76,
+                "value": 4760,
+                "growRate": 1.1,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "in": 100,
+                "out": 107,
+                "value": 4708,
+                "growRate": 0.2,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "in": 115,
+                "out": 89,
+                "value": 4697,
+                "growRate": -0.5,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "in": 171,
+                "out": 138,
+                "value": 4720,
+                "growRate": 100.0,
+                "referenceMonth": "2022-02"
+            }
+        ],
+        "retireRate": 11.5,
+        "recentUpdate": "2025-02-24"
+    },
+    "similarCorps": [
+        {
+            "corpId": "CP00000144",
+            "bizNameEn": "소셜미디어/커뮤니티",
+            "bizNameKr": "소셜미디어/커뮤니티",
+            "corpNameEn": "Kakao Corp.",
+            "corpNameKr": "카카오",
+            "prodNameEn": "",
+            "prodNameKr": "카카오맵",
+            "corpIntroEn": "A comprehensive platform company in the overall areas of portal, communication, content, commerce, games, fintech, mobility, and life.",
+            "corpIntroKr": "포털, 커뮤니케이션, 콘텐츠, 커머스, 게임, 핀테크, 모빌리티, 라이프 전반 영역의 종합 플랫폼 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000102.png"
+        },
+        {
+            "corpId": "CP00002036",
+            "bizNameEn": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "corpNameEn": "3D Factory Co.,Ltd.",
+            "corpNameKr": "쓰리디팩토리",
+            "prodNameEn": "캠프VR",
+            "prodNameKr": "캠프VR",
+            "corpIntroEn": "A company that operates [REAL MADRID VIRTUAL WORLD], a virtual human production and content platform based on Metaverse/VR technology",
+            "corpIntroKr": "메타버스/VR 기술 기반 버추얼 휴먼의 제작과 콘텐츠 플랫폼 '레알 마드리드 버추얼 월드'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C002040.png"
+        },
+        {
+            "corpId": "CP00002630",
+            "bizNameEn": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "corpNameEn": "Mindlogic Inc.",
+            "corpNameKr": "마인드로직",
+            "prodNameEn": "가상남녀",
+            "prodNameKr": "가상남녀",
+            "corpIntroEn": "A company that operates an AI-based interactive mobile app [MINDLOGIC]",
+            "corpIntroKr": "AI 기반 대화형 모바일 앱 '가상남녀'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210217181945.jpg"
+        },
+        {
+            "corpId": "CP00002982",
+            "bizNameEn": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "corpNameEn": "KLLEON",
+            "corpNameKr": "클레온",
+            "prodNameEn": "",
+            "prodNameKr": "클론",
+            "corpIntroEn": "A company that operates an interactive digital human solution [CLONE(Discontinued)]",
+            "corpIntroKr": "인터렉티브 디지털 휴먼 솔루션 '클론'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210317163119.png"
+        },
+        {
+            "corpId": "CP00003239",
+            "bizNameEn": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "corpNameEn": "SYUPARKSEU CO.,LTD",
+            "corpNameKr": "슈박스",
+            "prodNameEn": "슈박스",
+            "prodNameKr": "슈박스",
+            "corpIntroEn": "A company that operates a creative music management and blockchain-based copyright system platform",
+            "corpIntroKr": "창작 음원 관리 및 블록체인 기반 저작권 시스템 플랫폼을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210517131605.png"
+        },
+        {
+            "corpId": "CP00010345",
+            "bizNameEn": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,소셜미디어/커뮤니티,AI/딥테크/블록체인",
+            "corpNameEn": "STAN WORLD KOREA INC.",
+            "corpNameKr": "스탠월드코리아",
+            "prodNameEn": "",
+            "prodNameKr": "스탠월드",
+            "corpIntroEn": "A company that operates the 3D avatar-based fandom community metaverse platform [STANWORLD(Discontinued)]",
+            "corpIntroKr": "3D 아바타 기반 팬덤 커뮤니티 메타버스 플랫폼 '스탠월드'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00010345_20211222105735.png"
+        }
+    ],
+    "customerSales": {
+        "salesBasic": [
+            {
+                "rate": 65.8,
+                "count": 51066,
+                "unitPrice": 153637.6,
+                "referenceMonth": "2022-02"
+            },
+            {
+                "rate": 70.3,
+                "count": 53046,
+                "unitPrice": 157967.5,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "rate": 71.1,
+                "count": 54421,
+                "unitPrice": 155694.6,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "rate": 73.4,
+                "count": 57043,
+                "unitPrice": 153328.2,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "rate": 73.1,
+                "count": 58943,
+                "unitPrice": 147910.2,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "rate": 72.7,
+                "count": 59456,
+                "unitPrice": 145853.6,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "rate": 73.7,
+                "count": 57929,
+                "unitPrice": 151776.0,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "rate": 65.6,
+                "count": 51951,
+                "unitPrice": 150531.1,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "rate": 71.5,
+                "count": 56657,
+                "unitPrice": 150402.1,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "rate": 75.0,
+                "count": 57769,
+                "unitPrice": 154762.4,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "rate": 77.2,
+                "count": 59262,
+                "unitPrice": 155325.3,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "rate": 82.0,
+                "count": 59403,
+                "unitPrice": 164631.7,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "rate": 77.0,
+                "count": 61582,
+                "unitPrice": 149065.3,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "rate": 87.7,
+                "count": 72269,
+                "unitPrice": 144723.8,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "rate": 90.7,
+                "count": 71621,
+                "unitPrice": 151052.3,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "rate": 97.1,
+                "count": 76654,
+                "unitPrice": 151113.8,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "rate": 99.8,
+                "count": 77438,
+                "unitPrice": 153645.9,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "rate": 99.3,
+                "count": 79478,
+                "unitPrice": 148974.2,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "rate": 100.0,
+                "count": 80620,
+                "unitPrice": 147900.0,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "rate": 89.2,
+                "count": 75688,
+                "unitPrice": 140566.4,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "rate": 91.8,
+                "count": 78092,
+                "unitPrice": 140228.0,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "rate": 88.8,
+                "count": 78755,
+                "unitPrice": 134507.8,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "rate": 81.7,
+                "count": 77405,
+                "unitPrice": 125800.2,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "rate": 89.3,
+                "count": 84623,
+                "unitPrice": 125771.1,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "rate": 82.8,
+                "count": 75654,
+                "unitPrice": 130466.9,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "rate": 90.1,
+                "count": 81239,
+                "unitPrice": 132298.8,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "rate": 92.9,
+                "count": 83290,
+                "unitPrice": 132949.7,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "rate": 98.1,
+                "count": 86780,
+                "unitPrice": 134723.7,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "rate": 91.6,
+                "count": 83125,
+                "unitPrice": 131411.9,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "rate": 96.6,
+                "count": 87113,
+                "unitPrice": 132216.3,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "rate": 95.9,
+                "count": 87764,
+                "unitPrice": 130253.3,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "rate": 86.1,
+                "count": 79968,
+                "unitPrice": 128452.7,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "rate": 94.7,
+                "count": 89047,
+                "unitPrice": 126817.5,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "rate": 94.7,
+                "count": 84086,
+                "unitPrice": 134280.2,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "rate": 97.5,
+                "count": 85564,
+                "unitPrice": 135822.1,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "rate": 94.3,
+                "count": 87293,
+                "unitPrice": 128745.5,
+                "referenceMonth": "2025-01"
+            }
+        ],
+        "salesPeriod": [
+            {
+                "period": "1개월내",
+                "repurchaseRate": 67.9,
+                "avgPurchaseRate": 9.5
+            },
+            {
+                "period": "3개월내",
+                "repurchaseRate": 76.9,
+                "avgPurchaseRate": 24.4
+            },
+            {
+                "period": "6개월내",
+                "repurchaseRate": 80.8,
+                "avgPurchaseRate": 44.3
+            },
+            {
+                "period": "12개월내",
+                "repurchaseRate": 84.8,
+                "avgPurchaseRate": 78.0
+            }
+        ],
+        "recentUpdate": "2025-02-24"
+    },
+    "dataSufficient": true,
+    "base_company_info": {
+        "data": {
+            "seedCorp": {
+                "id": "CP00000866",
+                "city": 41135,
+                "corpCd": "STARTUP",
+                "comment": null,
+                "cordLat": 37.359566,
+                "cordLng": 127.105408,
+                "foundAt": "1999-06-02",
+                "homeUrl": "navercorp.com",
+                "subCorp": false,
+                "createBy": "system",
+                "invstCnt": 0,
+                "province": "GYEONGGI",
+                "showFlag": true,
+                "bizInfoEn": "Portals and Other Internet Information Media Service Actvities",
+                "bizInfoKr": "포털 및 기타 인터넷 정보매개 서비스업",
+                "corpAddrEn": "95, Jeongjail-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea",
+                "corpAddrKr": "경기 성남시 분당구 정자일로 95",
+                "corpNameEn": "NAVER Corporation",
+                "corpNameKr": "네이버",
+                "corpStatCd": "IN_OPERATION",
+                "createDate": "2021-05-28T10:41:19",
+                "hasSubCorp": false,
+                "investMemo": null,
+                "modifiedBy": "SYSTEM",
+                "capStockVal": "16481340000",
+                "corpIntroEn": "A company that operates a search portal service platform [NAVER], etc.",
+                "corpIntroKr": "검색 포털 서비스 플랫폼 '네이버' 등을 운영하는 기업",
+                "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000866_20221221104248.png",
+                "empWholeVal": 4559,
+                "invstSumVal": null,
+                "lastInvstAt": null,
+                "listingDate": "2002-10-29",
+                "patntLvlVal": 4.2,
+                "upperCorpId": null,
+                "corpStatCdEn": "운영중",
+                "corpStatCdKr": "운영중",
+                "emplWholeVal": 4107,
+                "modifiedDate": "2025-02-24T19:30:07",
+                "corpStockCdEn": "KOSPI",
+                "corpStockCdKr": "KOSPI",
+                "logoImageFile": null,
+                "finacRevenueAt": "2023-12-31",
+                "niceCorpStatCd": "",
+                "finacRevenueVal": 5609799006000,
+                "invstSumValText": "-",
+                "requestSendTypeCd": null,
+                "investmentDescription": ""
+            },
+            "seedBadge": [],
+            "seedPeople": [
+                {
+                    "id": "PP00011916",
+                    "fbUrl": "",
+                    "corpId": "CP00000866",
+                    "etcUrl": null,
+                    "comment": null,
+                    "ivstrId": null,
+                    "useFlag": true,
+                    "createBy": null,
+                    "linkdUrl": "",
+                    "showFlag": true,
+                    "pplNameEn": "",
+                    "pplNameKr": "최수연",
+                    "pplRoleCd": "CEO",
+                    "rocketUrl": null,
+                    "corpNameEn": null,
+                    "corpNameKr": null,
+                    "createDate": null,
+                    "crewRoleCd": null,
+                    "hasHistory": null,
+                    "modifiedBy": null,
+                    "modifiedDate": null,
+                    "seedPeopleHistories": null
+                }
+            ],
+            "seedCorpBiz": [
+                {
+                    "biz": 21,
+                    "corpCnt": 2362,
+                    "createBy": "hskim",
+                    "bizNameEn": "AI/딥테크/블록체인",
+                    "bizNameKr": "AI/딥테크/블록체인",
+                    "createDate": "2024-01-04T11:00:02"
+                },
+                {
+                    "biz": 4,
+                    "corpCnt": 509,
+                    "createBy": "hskim",
+                    "bizNameEn": "소셜미디어/커뮤니티",
+                    "bizNameKr": "소셜미디어/커뮤니티",
+                    "createDate": "2024-01-04T11:00:02"
+                },
+                {
+                    "biz": 3,
+                    "corpCnt": 1396,
+                    "createBy": "hskim",
+                    "bizNameEn": "콘텐츠/예술",
+                    "bizNameKr": "콘텐츠/예술",
+                    "createDate": "2024-01-04T11:00:02"
+                }
+            ],
+            "seedCorpTag": [
+                {
+                    "tag": "TG00000311",
+                    "corpCnt": 122,
+                    "tagNameEn": "social network service ",
+                    "tagNameKr": "SNS"
+                },
+                {
+                    "tag": "TG00000312",
+                    "corpCnt": 455,
+                    "tagNameEn": "community ",
+                    "tagNameKr": "커뮤니티"
+                },
+                {
+                    "tag": "TG00000313",
+                    "corpCnt": 95,
+                    "tagNameEn": "message ",
+                    "tagNameKr": "메세지 "
+                },
+                {
+                    "tag": "TG00002028",
+                    "corpCnt": 142,
+                    "tagNameEn": "search/search engine ",
+                    "tagNameKr": "검색/검색엔진"
+                },
+                {
+                    "tag": "TG00010001",
+                    "corpCnt": 6520,
+                    "tagNameEn": null,
+                    "tagNameKr": "B2B"
+                },
+                {
+                    "tag": "TG00010002",
+                    "corpCnt": 5696,
+                    "tagNameEn": "B2C",
+                    "tagNameKr": "B2C"
+                },
+                {
+                    "tag": "TG00030002",
+                    "corpCnt": 1893,
+                    "tagNameEn": "Saas/Enterprise",
+                    "tagNameKr": "SaaS/엔터프라이즈"
+                },
+                {
+                    "tag": "TG00030005",
+                    "corpCnt": 382,
+                    "tagNameEn": "advertisement ",
+                    "tagNameKr": "광고"
+                },
+                {
+                    "tag": "TG00030006",
+                    "corpCnt": 397,
+                    "tagNameEn": "commission ",
+                    "tagNameKr": "거래수수료"
+                },
+                {
+                    "tag": "TG00040001",
+                    "corpCnt": 2765,
+                    "tagNameEn": "App",
+                    "tagNameKr": "APP"
+                },
+                {
+                    "tag": "TG00040002",
+                    "corpCnt": 3867,
+                    "tagNameEn": "web",
+                    "tagNameKr": "WEB"
+                },
+                {
+                    "tag": "TG00040005",
+                    "corpCnt": 1780,
+                    "tagNameEn": "software",
+                    "tagNameKr": "소프트웨어"
+                },
+                {
+                    "tag": "TG00040006",
+                    "corpCnt": 1328,
+                    "tagNameEn": "contents ",
+                    "tagNameKr": "콘텐츠"
+                }
+            ],
+            "seedProduct": {
+                "id": "PD00004752",
+                "andUrl": null,
+                "corpId": "CP00000866",
+                "webUrl": "naver.com",
+                "createBy": "system",
+                "isAppProd": false,
+                "isEtcProd": false,
+                "isOffProd": false,
+                "isWebProd": false,
+                "prodEndAt": null,
+                "createDate": "2021-09-16T00:00:00",
+                "finishFlag": false,
+                "modifiedBy": "hskim",
+                "prodNameEn": "네이버",
+                "prodNameKr": "네이버",
+                "prodIntroEn": "검색을 중심으로 깔끔해진 홈 화면과 AI 기반의 개인화...",
+                "prodIntroKr": "검색 포털 서비스",
+                "prodLogoImg": "https://lh3.googleusercontent.com/Kbu0747Cx3rpzHcSbtM1zDriGFG74zVbtkPmVnOKpmLCS59l7IuKD5M3MKbaq_nEaZM",
+                "etcProdCount": null,
+                "modifiedDate": "2024-01-04T11:00:04",
+                "offProdCount": null
+            },
+            "seedPeopleBlind": false,
+            "seedPeopleCount": 1,
+            "seedCorpBizBlind": false,
+            "seedCorpBizCount": 3,
+            "seedCorpTagBlind": false,
+            "seedCorpTagCount": 13,
+            "seedProductBlind": false,
+            "seedAdvertisementKeywords": []
+        },
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36 PTST/240201.144844",
+        "ogTagContent": {
+            "title": "네이버 - 매출 투자 고용 정보 - 혁신의숲",
+            "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000866_20221221104248.png",
+            "description": "스타트업 네이버의 매출, 투자, 고용, 특허등급, 재구매율, 방문자 분석 등 36개월 간의 데이터를 혁신의숲에서 확인해 보세요."
+        }
+    }
+}

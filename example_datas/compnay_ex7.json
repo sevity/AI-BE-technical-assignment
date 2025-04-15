@@ -1,0 +1,1405 @@
+{
+    "patent": {
+        "list": [
+            {
+                "level": "A+",
+                "title": "라이브 스트리밍 영상 생성 방법 및 장치, 라이브 서비스 제공 방법 및 장치, 및 라이브 스트리밍 시스템{LIVE STREAMING IMAGE GENERATING METHOD AND APPARATUS, LIVE STREAMING SERVICE PROVIDING METHOD AND APPARATUS, LIVE STREAMING SYSTEM}",
+                "registerAt": "2019-09-09"
+            },
+            {
+                "level": "B0",
+                "title": "카메라 애플리케이션과 연관된 이벤트 실행 방법 및 장치, 및 카메라 애플리케이션과 연관된 이벤트 제공 방법 및 장치{CAMERA APPLICATION-RELATED EVENT EXECUTION METHOD AND APPARATUS, AND CAMERA APPLICATION-RELATED EVENT PROVIDING METHOD AND APPARATUS}",
+                "registerAt": "2018-08-16"
+            },
+            {
+                "level": "B0",
+                "title": "사용자 저작 스티커를 생성하는 방법 및 장치, 사용자 저작 스티커 공유 시스템{METHOD AND APPARATUS FOR CREATING USER-CREATED STICKER, SYSTEM FOR SHARING USER-CREATED STICKER}",
+                "registerAt": "2016-12-22"
+            },
+            {
+                "level": "B0",
+                "title": "멀티 스티커를 이용한 영상 생성 방법 및 장치{METHOD AND APPARATUS FOR GENERATING IMAGE USING MULTI-STIKER}",
+                "registerAt": "2016-06-08"
+            },
+            {
+                "level": "B0",
+                "title": "움직이는 사진 생성 방법 및 장치{METHOD AND APPARATUS FOR GENERATING MOVING PHOTOGRAPH}",
+                "registerAt": "2016-01-05"
+            },
+            {
+                "level": "B0",
+                "title": "카메라 어플리케이션을 이용한 광고 방법 및 장치{ADVERTISEMENT METHOD AND APPARATUS USING CAMERA APPLICATION}",
+                "registerAt": "2015-09-01"
+            },
+            {
+                "level": "B0",
+                "title": "소셜 네트워크 서비스 플랫폼에서 이모티콘 생성 방법 및 장치{METHOD AND APPARATUS FOR GENERATING EMOTICON IN SOCIAL NETWORK SERVICE PLATFORM}",
+                "registerAt": "2015-07-23"
+            },
+            {
+                "level": "B-",
+                "title": "2차원 이미지로부터 3차원 아바타를 생성하는 방법, 장치 및 시스템{METHOD, APPARATUS, AND SYSTEM GENERATING 3D AVARTAR FROM 2D IMAGE}",
+                "registerAt": "2019-07-01"
+            },
+            {
+                "level": "B-",
+                "title": "라이브 스트리밍 영상 생성 방법 및 장치, 라이브 서비스 제공 방법 및 장치, 및 라이브 스트리밍 시스템{LIVE STREAMING IMAGE GENERATING METHOD AND APPARATUS, LIVE STREAMING SERVICE PROVIDING METHOD AND APPARATUS, LIVE STREAMING SYSTEM}",
+                "registerAt": "2018-02-08"
+            },
+            {
+                "level": "C",
+                "title": "위치 정보 기반 메시지 서비스 제공 방법 및 장치{Method for Providing Message Service Based on Location Information and Apparatus Therefor}",
+                "registerAt": "2017-03-07"
+            },
+            {
+                "level": "C",
+                "title": "전처리를 이용한 영상 디스플레이 방법 및 장치{METHOD AND APPARATUS FOR DISPLAYING IMAGES USING PRE-PROCESSING}",
+                "registerAt": "2016-12-21"
+            },
+            {
+                "level": "C",
+                "title": "영상 사용자 인터페이스 제공 방법 및 장치{METHOD AND APPARATUS FOR PROVIDING USER INTERFACE OF IMAGES}",
+                "registerAt": "2015-11-30"
+            },
+            {
+                "level": "C",
+                "title": "전처리를 이용한 영상 디스플레이 방법 및 장치{METHOD AND APPARATUS FOR DISPLAYING IMAGES USING PRE-PROCESSING}",
+                "registerAt": "2015-07-13"
+            },
+            {
+                "level": "C",
+                "title": "위치기반 모바일 다큐먼트 태깅 서비스 방법 및 시스템{Method and System for providing Location based Mobile Document Tagging Service}",
+                "registerAt": "2013-12-30"
+            }
+        ],
+        "chart": [
+            {
+                "count": 1,
+                "level": "A+"
+            },
+            {
+                "count": 6,
+                "level": "B0"
+            },
+            {
+                "count": 2,
+                "level": "B-"
+            },
+            {
+                "count": 5,
+                "level": "C"
+            }
+        ],
+        "words": [
+            {
+                "text": "영상",
+                "patentCount": 10,
+                "displayCount": 51
+            },
+            {
+                "text": "디스플레이",
+                "patentCount": 17,
+                "displayCount": 44
+            },
+            {
+                "text": "피사체",
+                "patentCount": 13,
+                "displayCount": 43
+            },
+            {
+                "text": "촬영",
+                "patentCount": 14,
+                "displayCount": 40
+            },
+            {
+                "text": "스티커",
+                "patentCount": 6,
+                "displayCount": 38
+            },
+            {
+                "text": "카메라",
+                "patentCount": 14,
+                "displayCount": 24
+            },
+            {
+                "text": "얼굴",
+                "patentCount": 2,
+                "displayCount": 19
+            },
+            {
+                "text": "사진",
+                "patentCount": 4,
+                "displayCount": 19
+            },
+            {
+                "text": "광고",
+                "patentCount": 2,
+                "displayCount": 18
+            },
+            {
+                "text": "트리밍",
+                "patentCount": 2,
+                "displayCount": 17
+            },
+            {
+                "text": "스트리밍",
+                "patentCount": 2,
+                "displayCount": 17
+            },
+            {
+                "text": "모델",
+                "patentCount": 2,
+                "displayCount": 16
+            },
+            {
+                "text": "윤곽",
+                "patentCount": 2,
+                "displayCount": 15
+            },
+            {
+                "text": "전처리",
+                "patentCount": 3,
+                "displayCount": 15
+            },
+            {
+                "text": "오브젝트",
+                "patentCount": 4,
+                "displayCount": 15
+            },
+            {
+                "text": "메시",
+                "patentCount": 4,
+                "displayCount": 14
+            },
+            {
+                "text": "이벤트",
+                "patentCount": 2,
+                "displayCount": 13
+            },
+            {
+                "text": "디자인",
+                "patentCount": 2,
+                "displayCount": 13
+            },
+            {
+                "text": "콘텐츠",
+                "patentCount": 2,
+                "displayCount": 12
+            },
+            {
+                "text": "보정",
+                "patentCount": 4,
+                "displayCount": 12
+            },
+            {
+                "text": "광고용",
+                "patentCount": 2,
+                "displayCount": 12
+            },
+            {
+                "text": "수신",
+                "patentCount": 5,
+                "displayCount": 10
+            },
+            {
+                "text": "차원",
+                "patentCount": 1,
+                "displayCount": 10
+            },
+            {
+                "text": "라이브",
+                "patentCount": 2,
+                "displayCount": 10
+            },
+            {
+                "text": "서비스",
+                "patentCount": 5,
+                "displayCount": 10
+            },
+            {
+                "text": "연관",
+                "patentCount": 5,
+                "displayCount": 9
+            },
+            {
+                "text": "문서",
+                "patentCount": 1,
+                "displayCount": 9
+            },
+            {
+                "text": "상품",
+                "patentCount": 1,
+                "displayCount": 9
+            },
+            {
+                "text": "이펙트",
+                "patentCount": 3,
+                "displayCount": 9
+            },
+            {
+                "text": "단말",
+                "patentCount": 5,
+                "displayCount": 8
+            },
+            {
+                "text": "메시지",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "검출",
+                "patentCount": 4,
+                "displayCount": 8
+            },
+            {
+                "text": "전환",
+                "patentCount": 3,
+                "displayCount": 8
+            },
+            {
+                "text": "USING",
+                "patentCount": 8,
+                "displayCount": 8
+            },
+            {
+                "text": "GENERATING",
+                "patentCount": 8,
+                "displayCount": 8
+            },
+            {
+                "text": "저작",
+                "patentCount": 2,
+                "displayCount": 8
+            },
+            {
+                "text": "공유",
+                "patentCount": 4,
+                "displayCount": 8
+            },
+            {
+                "text": "서버",
+                "patentCount": 4,
+                "displayCount": 7
+            },
+            {
+                "text": "인터페이스",
+                "patentCount": 2,
+                "displayCount": 7
+            },
+            {
+                "text": "획득",
+                "patentCount": 4,
+                "displayCount": 7
+            },
+            {
+                "text": "이미지",
+                "patentCount": 3,
+                "displayCount": 7
+            },
+            {
+                "text": "캡쳐",
+                "patentCount": 3,
+                "displayCount": 7
+            },
+            {
+                "text": "양태",
+                "patentCount": 7,
+                "displayCount": 7
+            },
+            {
+                "text": "저장",
+                "patentCount": 5,
+                "displayCount": 7
+            },
+            {
+                "text": "그래픽",
+                "patentCount": 3,
+                "displayCount": 7
+            },
+            {
+                "text": "이모",
+                "patentCount": 1,
+                "displayCount": 6
+            },
+            {
+                "text": "특징점",
+                "patentCount": 3,
+                "displayCount": 6
+            },
+            {
+                "text": "어플리케이션",
+                "patentCount": 2,
+                "displayCount": 6
+            },
+            {
+                "text": "실시간",
+                "patentCount": 6,
+                "displayCount": 6
+            },
+            {
+                "text": "이모티콘",
+                "patentCount": 1,
+                "displayCount": 6
+            },
+            {
+                "text": "PROVIDING",
+                "patentCount": 6,
+                "displayCount": 6
+            },
+            {
+                "text": "티콘",
+                "patentCount": 1,
+                "displayCount": 6
+            },
+            {
+                "text": "플랫폼",
+                "patentCount": 3,
+                "displayCount": 6
+            },
+            {
+                "text": "명령",
+                "patentCount": 4,
+                "displayCount": 5
+            },
+            {
+                "text": "사운드",
+                "patentCount": 2,
+                "displayCount": 5
+            },
+            {
+                "text": "복권",
+                "patentCount": 1,
+                "displayCount": 5
+            },
+            {
+                "text": "SERVICE",
+                "patentCount": 5,
+                "displayCount": 5
+            },
+            {
+                "text": "애플리케이션",
+                "patentCount": 1,
+                "displayCount": 5
+            },
+            {
+                "text": "장식",
+                "patentCount": 4,
+                "displayCount": 4
+            },
+            {
+                "text": "오픈",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "아바타",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "방송",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "좌표",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "보관",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "CREATED",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "CAMERA",
+                "patentCount": 3,
+                "displayCount": 4
+            },
+            {
+                "text": "관계",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "순차적",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "MOVING",
+                "patentCount": 3,
+                "displayCount": 4
+            },
+            {
+                "text": "식별",
+                "patentCount": 2,
+                "displayCount": 4
+            },
+            {
+                "text": "웹사이트",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "일부",
+                "patentCount": 4,
+                "displayCount": 4
+            },
+            {
+                "text": "추천",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "마켓",
+                "patentCount": 1,
+                "displayCount": 4
+            },
+            {
+                "text": "허여하",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "요청",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "메모",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "SHARING",
+                "patentCount": 3,
+                "displayCount": 3
+            },
+            {
+                "text": "다큐먼트",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "체험",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "태그",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "등록",
+                "patentCount": 2,
+                "displayCount": 3
+            },
+            {
+                "text": "모바일",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "참석자",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "가상",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "태깅",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "해쉬",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "멀티",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "허여",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "해쉬태그",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "위치기반",
+                "patentCount": 1,
+                "displayCount": 3
+            },
+            {
+                "text": "데이터",
+                "patentCount": 2,
+                "displayCount": 3
+            },
+            {
+                "text": "클라이언트",
+                "patentCount": 2,
+                "displayCount": 3
+            },
+            {
+                "text": "PLATFORM",
+                "patentCount": 2,
+                "displayCount": 2
+            },
+            {
+                "text": "나이",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "인종",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "네트워크",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "상의",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "EVENT",
+                "patentCount": 1,
+                "displayCount": 2
+            },
+            {
+                "text": "CREATING",
+                "patentCount": 2,
+                "displayCount": 2
+            }
+        ],
+        "totalCount": 14,
+        "averageRank": 3.4,
+        "recentUpdate": "2022-01-25"
+    },
+    "finance": {
+        "data": [
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2021,
+                "profit": 2758245000,
+                "capital": 113250000,
+                "netProfit": -3836338000,
+                "liabilities": 8451808000,
+                "totalAssets": 2989402000,
+                "totalCapital": -5462406000,
+                "operatingProfit": -904103000
+            },
+            {
+                "type": "SEPARATE_NICE",
+                "year": 2022,
+                "profit": 2636952000,
+                "capital": 1569295000,
+                "netProfit": -6035505000,
+                "liabilities": 12562319000,
+                "totalAssets": 9825174000,
+                "totalCapital": -2737145000,
+                "operatingProfit": -5179939000
+            },
+            {
+                "type": "SEPARATE_KODATA",
+                "year": 2023,
+                "profit": 2953794000,
+                "capital": 2589196000,
+                "netProfit": -4192404000,
+                "liabilities": 12073362000,
+                "totalAssets": 12648022000,
+                "totalCapital": 574660000,
+                "operatingProfit": -3634282000
+            }
+        ],
+        "recentUpdate": "2025-02-25"
+    },
+    "products": [
+        {
+            "id": "PD00005781",
+            "name": "롤리캠",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.seerslab.lollicam",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://play-lh.googleusercontent.com/R_RaVf75hXp8qO675Bb9aOcro4G2gRsLnpRejT2rn6QiQm6ngDBQsK6Bal7gA5g6t3I=s180-rw"
+        },
+        {
+            "id": "PD00007967",
+            "name": "ARGear",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.seerslab.argear.sample",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://play-lh.googleusercontent.com/o-FxyNuYHjk8O_vfWcz3uKosfyhj4Zv3iBGtsVZ0GAIrxixOqX1r4hvT5h9AQ_XAAmE=s180-rw"
+        },
+        {
+            "id": "PD00007968",
+            "name": "팬박스",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.seerslab.android.odeon",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://play-lh.googleusercontent.com/ns6QpDb9QxWbgnpm9LSlxqhCU4Wed9EHMDKMR7NO9hvTZZO7bZZwWesUND-9Cme-_hvh=s180-rw"
+        },
+        {
+            "id": "PD00017202",
+            "name": "더다이브",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.seerslab.dive",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00017202_20230922162802.png"
+        },
+        {
+            "id": "PD00017203",
+            "name": "ARBox",
+            "types": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.seerslab.arbox",
+                    "type": "APP"
+                }
+            ],
+            "finishedAt": null,
+            "logoImgUrl": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/product/logo/PD00017203_20230922162833.png"
+        }
+    ],
+    "investment": {
+        "data": [
+            {
+                "level": "series B",
+                "investAt": "2022-10-25",
+                "investor": [
+                    {
+                        "id": "IV00002613",
+                        "name": "셀바스에이아이",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 0
+            },
+            {
+                "level": "series A",
+                "investAt": "2021-08-01",
+                "investor": [
+                    {
+                        "id": "IV00001363",
+                        "name": "위지윅스튜디오",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 6000000000
+            },
+            {
+                "level": "series A",
+                "investAt": "2021-04-01",
+                "investor": [
+                    {
+                        "id": "IV00000538",
+                        "name": "바이브컴퍼니",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 0
+            },
+            {
+                "level": "series A (추정)",
+                "investAt": "2016-06-01",
+                "investor": [
+                    {
+                        "id": "IV00001909",
+                        "name": "파운데이션캐피탈",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001304",
+                        "name": "와이콤비네이터",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00000071",
+                        "name": "그래프벤처스",
+                        "hasLink": false
+                    },
+                    {
+                        "id": "IV00001654",
+                        "name": "카카오벤처스",
+                        "hasLink": true
+                    }
+                ],
+                "investmentAmount": 1500000000
+            },
+            {
+                "level": "비공개",
+                "investAt": "2015-12-01",
+                "investor": [
+                    {
+                        "id": "IV00000576",
+                        "name": "벤처포트",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 0
+            },
+            {
+                "level": "지원금",
+                "investAt": "2014-11-01",
+                "investor": [
+                    {
+                        "id": "IV00001900",
+                        "name": "팁스(TIPS)",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 0
+            },
+            {
+                "level": "seed",
+                "investAt": "2014-11-01",
+                "investor": [
+                    {
+                        "id": "IV00001648",
+                        "name": "카이트창업가재단",
+                        "hasLink": true
+                    },
+                    {
+                        "id": "IV00001268",
+                        "name": "오렌지팜엔젤클럽",
+                        "hasLink": false
+                    }
+                ],
+                "investmentAmount": 800000000
+            }
+        ],
+        "recentUpdate": "2022-10-25",
+        "lastInvestmentLevel": "series B",
+        "investmentDescription": " 이상",
+        "totalInvestmentAmount": 8300000000
+    },
+    "organization": {
+        "data": [
+            {
+                "in": 2,
+                "out": 0,
+                "value": 36,
+                "growRate": -2.7,
+                "referenceMonth": "2025-01"
+            },
+            {
+                "in": 2,
+                "out": 3,
+                "value": 37,
+                "growRate": 2.8,
+                "referenceMonth": "2024-12"
+            },
+            {
+                "in": 0,
+                "out": 1,
+                "value": 36,
+                "growRate": -10.0,
+                "referenceMonth": "2024-11"
+            },
+            {
+                "in": 0,
+                "out": 4,
+                "value": 40,
+                "growRate": -7.0,
+                "referenceMonth": "2024-10"
+            },
+            {
+                "in": 2,
+                "out": 3,
+                "value": 43,
+                "growRate": -2.3,
+                "referenceMonth": "2024-09"
+            },
+            {
+                "in": 0,
+                "out": 3,
+                "value": 44,
+                "growRate": -20.0,
+                "referenceMonth": "2024-08"
+            },
+            {
+                "in": 2,
+                "out": 11,
+                "value": 55,
+                "growRate": -11.3,
+                "referenceMonth": "2024-07"
+            },
+            {
+                "in": 0,
+                "out": 9,
+                "value": 62,
+                "growRate": -8.8,
+                "referenceMonth": "2024-06"
+            },
+            {
+                "in": 2,
+                "out": 6,
+                "value": 68,
+                "growRate": 1.5,
+                "referenceMonth": "2024-05"
+            },
+            {
+                "in": 2,
+                "out": 1,
+                "value": 67,
+                "growRate": -1.5,
+                "referenceMonth": "2024-04"
+            },
+            {
+                "in": 2,
+                "out": 3,
+                "value": 68,
+                "growRate": -13.9,
+                "referenceMonth": "2024-03"
+            },
+            {
+                "in": 4,
+                "out": 13,
+                "value": 79,
+                "growRate": 1.3,
+                "referenceMonth": "2024-02"
+            },
+            {
+                "in": 2,
+                "out": 3,
+                "value": 78,
+                "growRate": -4.9,
+                "referenceMonth": "2024-01"
+            },
+            {
+                "in": 4,
+                "out": 6,
+                "value": 82,
+                "growRate": 2.5,
+                "referenceMonth": "2023-12"
+            },
+            {
+                "in": 5,
+                "out": 2,
+                "value": 80,
+                "growRate": 5.3,
+                "referenceMonth": "2023-11"
+            },
+            {
+                "in": 5,
+                "out": 1,
+                "value": 76,
+                "growRate": 1.3,
+                "referenceMonth": "2023-10"
+            },
+            {
+                "in": 4,
+                "out": 4,
+                "value": 75,
+                "growRate": -2.6,
+                "referenceMonth": "2023-09"
+            },
+            {
+                "in": 15,
+                "out": 6,
+                "value": 77,
+                "growRate": 24.2,
+                "referenceMonth": "2023-08"
+            },
+            {
+                "in": 5,
+                "out": 0,
+                "value": 62,
+                "growRate": 3.3,
+                "referenceMonth": "2023-07"
+            },
+            {
+                "in": 5,
+                "out": 3,
+                "value": 60,
+                "growRate": 1.7,
+                "referenceMonth": "2023-06"
+            },
+            {
+                "in": 6,
+                "out": 4,
+                "value": 59,
+                "growRate": 9.3,
+                "referenceMonth": "2023-05"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 54,
+                "growRate": 1.9,
+                "referenceMonth": "2023-04"
+            },
+            {
+                "in": 1,
+                "out": 0,
+                "value": 53,
+                "growRate": -5.4,
+                "referenceMonth": "2023-03"
+            },
+            {
+                "in": 4,
+                "out": 4,
+                "value": 56,
+                "growRate": 5.7,
+                "referenceMonth": "2023-02"
+            },
+            {
+                "in": 1,
+                "out": 1,
+                "value": 53,
+                "growRate": -5.4,
+                "referenceMonth": "2023-01"
+            },
+            {
+                "in": 5,
+                "out": 4,
+                "value": 56,
+                "growRate": 7.7,
+                "referenceMonth": "2022-12"
+            },
+            {
+                "in": 7,
+                "out": 1,
+                "value": 52,
+                "growRate": 6.1,
+                "referenceMonth": "2022-11"
+            },
+            {
+                "in": 0,
+                "out": 4,
+                "value": 49,
+                "growRate": -3.9,
+                "referenceMonth": "2022-10"
+            },
+            {
+                "in": 1,
+                "out": 2,
+                "value": 51,
+                "growRate": -3.8,
+                "referenceMonth": "2022-09"
+            },
+            {
+                "in": 2,
+                "out": 3,
+                "value": 53,
+                "growRate": -1.9,
+                "referenceMonth": "2022-08"
+            },
+            {
+                "in": 5,
+                "out": 3,
+                "value": 54,
+                "growRate": 5.9,
+                "referenceMonth": "2022-07"
+            },
+            {
+                "in": 3,
+                "out": 2,
+                "value": 51,
+                "growRate": 2.0,
+                "referenceMonth": "2022-06"
+            },
+            {
+                "in": 0,
+                "out": 2,
+                "value": 50,
+                "growRate": -3.8,
+                "referenceMonth": "2022-05"
+            },
+            {
+                "in": 6,
+                "out": 2,
+                "value": 52,
+                "growRate": 10.6,
+                "referenceMonth": "2022-04"
+            },
+            {
+                "in": 7,
+                "out": 1,
+                "value": 47,
+                "growRate": 9.3,
+                "referenceMonth": "2022-03"
+            },
+            {
+                "in": 4,
+                "out": 3,
+                "value": 43,
+                "growRate": 100.0,
+                "referenceMonth": "2022-02"
+            }
+        ],
+        "retireRate": 107.7,
+        "recentUpdate": "2025-02-24"
+    },
+    "similarCorps": [
+        {
+            "corpId": "CP00000001",
+            "bizNameEn": "콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "Watcha, Inc.",
+            "corpNameKr": "왓챠",
+            "prodNameEn": "왓챠",
+            "prodNameKr": "왓챠",
+            "corpIntroEn": "A company that operates [WATCHA], an AI-based content recommendation and subscription OTT platform for movies, dramas, etc.",
+            "corpIntroKr": "AI 기반 영화, 드라마 등의 콘텐츠 추천 및 구독 OTT 플랫폼 '왓챠'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000040.png"
+        },
+        {
+            "corpId": "CP00000118",
+            "bizNameEn": "콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "V.DO CO.,LTD.",
+            "corpNameKr": "비닷두",
+            "prodNameEn": null,
+            "prodNameKr": null,
+            "corpIntroEn": "A company that develops CCTV, warehouse, and sports video optimization solutions using machine learning and computer vision technology.",
+            "corpIntroKr": "머신러닝 및 컴퓨터비전 기술을 활용하여 CCTV, 물류창고, 스포츠영상 최적화 솔루션을 개발하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000170.png"
+        },
+        {
+            "corpId": "CP00000127",
+            "bizNameEn": "콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "BLUEDOT INC.",
+            "corpNameKr": "블루닷",
+            "prodNameEn": null,
+            "prodNameKr": null,
+            "corpIntroEn": "A company that operates [KOKOON CLOUD], an artificial intelligence-based video quality upscaling service",
+            "corpIntroKr": "인공지능 기반 비디오 화질 업스케일링 서비스 '코쿤클라우드'를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C000189.png"
+        },
+        {
+            "corpId": "CP00000454",
+            "bizNameEn": "콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "Neosapience, Inc.",
+            "corpNameKr": "네오사피엔스",
+            "prodNameEn": "",
+            "prodNameKr": "타입캐스트",
+            "corpIntroEn": "A company that operates [TYPECAST], a generative AI platform that produces content",
+            "corpIntroKr": "콘텐츠를 제작하는 생성형 AI 플랫폼 ‘타입캐스트’를 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000454_20230904143227.jpg"
+        },
+        {
+            "corpId": "CP00000455",
+            "bizNameEn": "콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "YOKUSEU CO.,LTD.",
+            "corpNameKr": "요쿠스",
+            "prodNameEn": "",
+            "prodNameKr": "마이뷰팁",
+            "corpIntroEn": "A company that operates cloud-based SaaS-type video software [FLIPFLOP(Discontinued)]",
+            "corpIntroKr": "클라우드 기반 SaaS형 동영상 소프트웨어 \"플립플랍(FLIPFLOP)\" 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/data_20210114011010.png"
+        },
+        {
+            "corpId": "CP00000522",
+            "bizNameEn": "커머스,콘텐츠/예술,AI/딥테크/블록체인",
+            "bizNameKr": "커머스,콘텐츠/예술,AI/딥테크/블록체인",
+            "corpNameEn": "Noti Plus Co.,Ltd.",
+            "corpNameKr": "노티플러스",
+            "prodNameEn": "뉴스픽 ",
+            "prodNameKr": "뉴스픽 ",
+            "corpIntroEn": "A company that operates [NEWSPIC], an AI-based mobile content curation platform",
+            "corpIntroKr": "AI 기반 모바일 콘텐츠 큐레이션 플랫폼 '뉴스픽'을 운영하는 기업",
+            "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/CP00000522_20230503134438.png"
+        }
+    ],
+    "dataSufficient": true,
+    "base_company_info": {
+        "data": {
+            "seedCorp": {
+                "id": "CP00001890",
+                "city": 11650,
+                "corpCd": "STARTUP",
+                "comment": null,
+                "cordLat": 37.495773,
+                "cordLng": 127.036278,
+                "foundAt": "2014-05-26",
+                "homeUrl": "seerslab.com",
+                "subCorp": false,
+                "createBy": "system",
+                "invstCnt": 6,
+                "province": "SEOUL",
+                "showFlag": true,
+                "bizInfoEn": "Application Software Development and Supply",
+                "bizInfoKr": "소프트웨어자문,개발및공급",
+                "corpAddrEn": "315, Gangnam-daero, Seocho-gu, Seoul, Korea",
+                "corpAddrKr": "서울 서초구 강남대로 315, 2층",
+                "corpNameEn": "SEERSLAB INC.",
+                "corpNameKr": "시어스랩",
+                "corpStatCd": "IN_OPERATION",
+                "createDate": "2021-05-28T13:37:31",
+                "hasSubCorp": false,
+                "investMemo": null,
+                "modifiedBy": "SYSTEM",
+                "capStockVal": "2589196000",
+                "corpIntroEn": "A company that provides solutions and operates a platform based on Vision AI technology",
+                "corpIntroKr": "Vision AI 기술 기반 솔루션의 제공 및 플랫폼을 운영하는 기업",
+                "corpLogoImg": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001894.png",
+                "empWholeVal": 36,
+                "invstSumVal": 8300000000,
+                "lastInvstAt": "2022-10-25",
+                "listingDate": null,
+                "patntLvlVal": 3.4,
+                "upperCorpId": null,
+                "corpStatCdEn": "운영중",
+                "corpStatCdKr": "운영중",
+                "emplWholeVal": 39,
+                "modifiedDate": "2025-02-24T19:30:10",
+                "corpStockCdEn": "비상장",
+                "corpStockCdKr": "비상장",
+                "logoImageFile": null,
+                "finacRevenueAt": "2023-12-31",
+                "niceCorpStatCd": "",
+                "finacRevenueVal": 2953794000,
+                "invstSumValText": "83.0억원 이상",
+                "requestSendTypeCd": null,
+                "investmentDescription": " 이상"
+            },
+            "seedBadge": [
+                {
+                    "id": "BG00000057",
+                    "badge": "TIPS2014",
+                    "endAt": "2033-12-31T11:24:39",
+                    "comment": null,
+                    "startAt": "2024-09-12T11:49:33",
+                    "createBy": "hskim",
+                    "showCode": "SHOWING",
+                    "badgeImage": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/badge/logo/badge_20240912115044.png",
+                    "bubbleText": "<p style=\"text-align:center;\"><span style=\"color:hsl(166,100%,42.5%);\"><strong>「TIPS프로그램」</strong></span>은<br>세계시장을 선도할 기술아이템을<br>보유한 창업팀을 민간주도로 선발하여<br>미래유망 창업기업을 집중 육성하는 프로그램입니다.</p>",
+                    "createDate": "2024-09-12T11:50:45",
+                    "modifiedBy": "hskim",
+                    "bubbleTitle": "<p style=\"text-align:center;\"><strong>TIPS</strong></p><p style=\"text-align:center;\">2014</p>",
+                    "modifiedDate": "2024-12-12T16:56:47",
+                    "logoImageFile": null,
+                    "bubbleButtonUrl": "https://www.innoforest.co.kr/dataroom?tagArray=AK00000051&tagText=%ED%8C%81%EC%8A%A4%28TIPS%292014&page=1",
+                    "bubbleButtonFlag": true,
+                    "bubbleButtonText": "팁스(TIPS)2014 기업 보러가기",
+                    "seedBadgeCorpCaches": null
+                }
+            ],
+            "seedPeople": [
+                {
+                    "id": "PP00002460",
+                    "fbUrl": "",
+                    "corpId": "CP00001890",
+                    "etcUrl": null,
+                    "comment": null,
+                    "ivstrId": null,
+                    "useFlag": true,
+                    "createBy": null,
+                    "linkdUrl": "",
+                    "showFlag": true,
+                    "pplNameEn": "Jung Jinwook",
+                    "pplNameKr": "정진욱",
+                    "pplRoleCd": "CEO",
+                    "rocketUrl": "https://www.rocketpunch.com/@jeongjinuga1856029",
+                    "corpNameEn": null,
+                    "corpNameKr": null,
+                    "createDate": null,
+                    "crewRoleCd": null,
+                    "hasHistory": null,
+                    "modifiedBy": null,
+                    "modifiedDate": null,
+                    "seedPeopleHistories": null
+                }
+            ],
+            "seedCorpBiz": [
+                {
+                    "biz": 21,
+                    "corpCnt": 2364,
+                    "createBy": "mark0001",
+                    "bizNameEn": "AI/딥테크/블록체인",
+                    "bizNameKr": "AI/딥테크/블록체인",
+                    "createDate": "2023-09-22T15:39:51"
+                },
+                {
+                    "biz": 3,
+                    "corpCnt": 1396,
+                    "createBy": "mark0001",
+                    "bizNameEn": "콘텐츠/예술",
+                    "bizNameKr": "콘텐츠/예술",
+                    "createDate": "2023-09-22T15:39:51"
+                }
+            ],
+            "seedCorpTag": [
+                {
+                    "tag": "TG00000218",
+                    "corpCnt": 529,
+                    "tagNameEn": "video",
+                    "tagNameKr": "영상/비디오"
+                },
+                {
+                    "tag": "TG00000226",
+                    "corpCnt": 116,
+                    "tagNameEn": "photo",
+                    "tagNameKr": "사진"
+                },
+                {
+                    "tag": "TG00002017",
+                    "corpCnt": 1820,
+                    "tagNameEn": "AI ",
+                    "tagNameKr": "인공지능"
+                },
+                {
+                    "tag": "TG00002018",
+                    "corpCnt": 84,
+                    "tagNameEn": "3D Printing",
+                    "tagNameKr": "3D프린팅"
+                },
+                {
+                    "tag": "TG00002024",
+                    "corpCnt": 298,
+                    "tagNameEn": "vision sensing/sensor",
+                    "tagNameKr": "비전센싱/영상인식/센서"
+                },
+                {
+                    "tag": "TG00002025",
+                    "corpCnt": 333,
+                    "tagNameEn": "metaverse/VR/AR",
+                    "tagNameKr": "VR/AR"
+                },
+                {
+                    "tag": "TG00010001",
+                    "corpCnt": 6522,
+                    "tagNameEn": null,
+                    "tagNameKr": "B2B"
+                },
+                {
+                    "tag": "TG00010002",
+                    "corpCnt": 5700,
+                    "tagNameEn": "B2C",
+                    "tagNameKr": "B2C"
+                },
+                {
+                    "tag": "TG00030001",
+                    "corpCnt": 3169,
+                    "tagNameEn": "platform/marketplace",
+                    "tagNameKr": "플랫폼/마켓플레이스"
+                },
+                {
+                    "tag": "TG00030002",
+                    "corpCnt": 1895,
+                    "tagNameEn": "Saas/Enterprise",
+                    "tagNameKr": "SaaS/엔터프라이즈"
+                },
+                {
+                    "tag": "TG00030005",
+                    "corpCnt": 382,
+                    "tagNameEn": "advertisement ",
+                    "tagNameKr": "광고"
+                },
+                {
+                    "tag": "TG00040001",
+                    "corpCnt": 2766,
+                    "tagNameEn": "App",
+                    "tagNameKr": "APP"
+                },
+                {
+                    "tag": "TG00040002",
+                    "corpCnt": 3870,
+                    "tagNameEn": "web",
+                    "tagNameKr": "WEB"
+                },
+                {
+                    "tag": "TG00040005",
+                    "corpCnt": 1780,
+                    "tagNameEn": "software",
+                    "tagNameKr": "소프트웨어"
+                },
+                {
+                    "tag": "TG00040006",
+                    "corpCnt": 1328,
+                    "tagNameEn": "contents ",
+                    "tagNameKr": "콘텐츠"
+                },
+                {
+                    "tag": "TG00040007",
+                    "corpCnt": 1780,
+                    "tagNameEn": "Education/Consulting/Outsourcing ",
+                    "tagNameKr": "교육/컨설팅/용역"
+                }
+            ],
+            "seedProduct": {
+                "id": "PD00005781",
+                "andUrl": null,
+                "corpId": "CP00001890",
+                "webUrl": "",
+                "createBy": "system",
+                "isAppProd": false,
+                "isEtcProd": false,
+                "isOffProd": false,
+                "isWebProd": false,
+                "prodEndAt": null,
+                "createDate": "2021-09-16T00:00:00",
+                "finishFlag": false,
+                "modifiedBy": "mark0001",
+                "prodNameEn": "롤리캠",
+                "prodNameKr": "롤리캠",
+                "prodIntroEn": "취향저격 셀카 사진∙동영상앱",
+                "prodIntroKr": "취향저격 셀카 사진∙동영상앱",
+                "prodLogoImg": "https://play-lh.googleusercontent.com/R_RaVf75hXp8qO675Bb9aOcro4G2gRsLnpRejT2rn6QiQm6ngDBQsK6Bal7gA5g6t3I=s180-rw",
+                "etcProdCount": null,
+                "modifiedDate": "2023-09-22T16:23:57",
+                "offProdCount": null
+            },
+            "seedPeopleBlind": false,
+            "seedPeopleCount": 1,
+            "seedCorpBizBlind": false,
+            "seedCorpBizCount": 2,
+            "seedCorpTagBlind": false,
+            "seedCorpTagCount": 16,
+            "seedProductBlind": false,
+            "seedAdvertisementKeywords": [
+                {
+                    "id": "AK00000051",
+                    "corpCnt": 38,
+                    "advertisementKeyword": "팁스(TIPS)2014"
+                }
+            ]
+        },
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; C5 2019 Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.64 Mobile Safari/537.36",
+        "ogTagContent": {
+            "title": "시어스랩(롤리캠) - 매출 투자 고용 정보 - 혁신의숲",
+            "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/inno.bucket.live/corp/logo/C001894.png",
+            "description": "누적투자금 83.0억 스타트업 시어스랩(롤리캠)의 매출, 투자, 고용, 특허등급, 재구매율, 방문자 분석 등 36개월 간의 데이터를 혁신의숲에서 확인해 보세요."
+        }
+    }
+}

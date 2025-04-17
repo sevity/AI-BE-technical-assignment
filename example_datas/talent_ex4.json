@@ -1,0 +1,142 @@
+{
+    "skills": [
+        "AI/ML",
+        "Backend Development",
+        "System Architecture",
+        "Project Management",
+        "Business Strategy",
+        "Data Analytics",
+        "Team Leadership"
+    ],
+    "summary": "AI 엔지니어링과 전략적 비즈니스 계획 분야의 전문가",
+    "website": [],
+    "headline": "CTO @ 엘박스 | Former Lead at Naver & Samsung",
+    "lastName": "박",
+    "photoUrl": "",
+    "projects": [],
+    "firstName": "지원",
+    "positions": [
+        {
+            "title": "Chief Technology Officer",
+            "companyLogo": "",
+            "companyName": "엘박스",
+            "description": "AI 솔루션 개발 총괄, 기술 전략 수립, 시리즈 B 투자 유치 지원",
+            "startEndDate": {
+                "start": {
+                    "year": 2023,
+                    "month": 3
+                }
+            },
+            "companyLocation": "서울"
+        },
+        {
+            "title": "AI Engineering Director",
+            "companyLogo": "",
+            "companyName": "네이버",
+            "description": "하이퍼클로바 개발 리드, 대규모 NLP 모델 설계",
+            "startEndDate": {
+                "end": {
+                    "year": 2023,
+                    "month": 2
+                },
+                "start": {
+                    "year": 2020,
+                    "month": 8
+                }
+            },
+            "companyLocation": "성남시"
+        },
+        {
+            "title": "기술 전략 팀장",
+            "companyLogo": "",
+            "companyName": "토스",
+            "description": "엔지니어링 조직 10명→45명 확장, 시리즈 F 투자 유치 기술 실사",
+            "startEndDate": {
+                "end": {
+                    "year": 2020,
+                    "month": 7
+                },
+                "start": {
+                    "year": 2017,
+                    "month": 5
+                }
+            },
+            "companyLocation": "서울"
+        },
+        {
+            "title": "Product Team Lead",
+            "companyLogo": "",
+            "companyName": "요기요",
+            "description": "주문 시스템 설계, M&A 기술 인수인계 리드",
+            "startEndDate": {
+                "end": {
+                    "year": 2017,
+                    "month": 4
+                },
+                "start": {
+                    "year": 2015,
+                    "month": 6
+                }
+            },
+            "companyLocation": "서울"
+        },
+        {
+            "title": "선임 엔지니어",
+            "companyLogo": "",
+            "companyName": "Samsung Electronics",
+            "description": "스마트 가전 소프트웨어 개발, 특허 출원",
+            "startEndDate": {
+                "end": {
+                    "year": 2015,
+                    "month": 5
+                },
+                "start": {
+                    "year": 2012,
+                    "month": 3
+                }
+            },
+            "companyLocation": "수원"
+        }
+    ],
+    "educations": [
+        {
+            "grade": "",
+            "degreeName": "석사",
+            "schoolName": "서울대학교",
+            "description": "",
+            "fieldOfStudy": "컴퓨터공학",
+            "startEndDate": "2010 - 2012",
+            "originStartEndDate": {
+                "endDateOn": {
+                    "year": 2012
+                },
+                "startDateOn": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "grade": "",
+            "degreeName": "학사",
+            "schoolName": "서울대학교",
+            "description": "",
+            "fieldOfStudy": "전기전자공학",
+            "startEndDate": "2006 - 2010",
+            "originStartEndDate": {
+                "endDateOn": {
+                    "year": 2010
+                },
+                "startDateOn": {
+                    "year": 2006
+                }
+            }
+        }
+    ],
+    "linkedinUrl": "https://www.linkedin.com/in/sample4",
+    "industryName": "정보 기술 및 서비스",
+    "totalDuration": {
+        "years": 12,
+        "months": 4
+    },
+    "recommendations": []
+}

@@ -7,7 +7,6 @@ services:
     container_name: searchright-nginx
     ports:
       - "80:80"
-      - "443:443"
     volumes:
       - ./nginx/conf/nginx.conf:/etc/nginx/nginx.conf
       - ./nginx/conf.d:/etc/nginx/conf.d
@@ -26,8 +25,8 @@ services:
     ports:
       - "5432:5432"
     environment:
-      POSTGRES_USER: ${POSTGRES_USER}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: searchright
+      POSTGRES_PASSWORD: searchright
+      POSTGRES_DB: searchright
     volumes:
       - ./postgresql/data/:/var/lib/postgresql/data

@@ -1,11 +1,9 @@
 # app/services/inference.py
-
-import os
 import json
 from openai import OpenAI
 from dotenv import load_dotenv
 from typing import List
-from app.schemas import TalentInput, TagResponse
+from app.schemas import DetailedTalentInput, TagResponse
 from .vector_search import VectorSearch, Document
 
 load_dotenv()
@@ -17,31 +15,44 @@ class InferenceService:
         self.client = llm_client or client
         self.vsearch = vector_search or vsearch
 
-    def run(self, payload: TalentInput) -> TagResponse:
-        # 1) 벡터 검색: 모든 company에 대해 top_k 문서 수집
+    def run(self, payload: DetailedTalentInput) -> TagResponse:
+        # 1) company 리스트, period 리스트, title 리스트 추출
+        companies, periods, titles = [], [], []
+        for pos in payload.positions:
+            companies.append(pos.companyName)
+            # 기간 문자열 포맷
+            s = pos.startEndDate.start
+            p_str = f"{s.year}.{s.month:02d}"
+            if pos.startEndDate.end:
+                e = pos.startEndDate.end
+                p_str += f"–{e.year}.{e.month:02d}"
+            periods.append(p_str)
+            titles.append(pos.title)
+
+        # 2) 벡터 검색: 회사별 top 3 문서
         docs: List[Document] = []
-        for comp in payload.company:
+        for comp in companies:
             docs += self.vsearch.most_similar(comp, top_k=3)
 
-        # 2) Prompt 구성 (다중 경력 지원)
+        # 3) 프롬프트 구성 (한국어)
         prompt = (
-            "You are an expert recruiter. Given the candidate's career history, "
-            "infer their key experiences and skills. Return JSON: { \"tags\": [ ... ] }\n\n"
-            "Career History:\n"
+            "당신은 전문 리쿠르터입니다.\n"
+            "아래 지원자의 상세 이력서를 참고하여, 지원자가 어떤 경험을 했고 어떤 역량을 보유했는지 추론해주세요.\n"
+            "추가 또는 변동된 데이터에 대해서는 객관적인 사실(출처 등)을 포함해 작성해 주세요.\n\n"
+            "지원자 이력서(JSON):\n"
+            f"{json.dumps(payload.dict(), ensure_ascii=False)}\n\n"
+            "관련 회사 문서(프로필 및 뉴스):\n"
         )
-        for c, p, t in zip(payload.company, payload.period, payload.title):
-            prompt += f"- Company: {c}, Period: {p}, Title: {t}\n"
-
-        prompt += "\nRelated Documents:\n"
         for d in docs:
             snippet = d.content.replace("\n", " ")[:200]
             prompt += f"- [{d.doc_type}] {d.company_name}: {snippet}...\n"
 
         prompt += (
-            "\nAnswer format:\n```json\n{ \"tags\": [\"tag1\", \"tag2\", ...] }\n```"
+            "\n답변 형식(한국어 JSON):\n```json\n"
+            '{ "tags": ["태그1", "태그2", ...] }\n```'
         )
 
-        # 3) LLM 호출
+        # 4) LLM 호출
         resp = self.client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
@@ -49,18 +60,14 @@ class InferenceService:
         )
         content = resp.choices[0].message.content.strip()
 
-        # 코드 블록 제거: LLM이 ```json ... ``` 형태로 감싸서 보낼 수 있음
+        # 5) 코드블록 제거
         if content.startswith("```"):
             lines = content.splitlines()
-            # 첫 번째 라인이 ```json 또는 ``` 이면 제거
-            if lines[0].startswith("```"):
-                lines = lines[1:]
-            # 마지막 라인이 ``` 이면 제거
-            if lines and lines[-1].startswith("```"):
-                lines = lines[:-1]
+            if lines[0].startswith("```"): lines = lines[1:]
+            if lines and lines[-1].startswith("```"): lines = lines[:-1]
             content = "\n".join(lines).strip()
 
-        # 4) JSON 파싱 & 반환
+        # 6) JSON 파싱
         parsed = json.loads(content)
         return TagResponse(tags=parsed.get("tags", []))
 

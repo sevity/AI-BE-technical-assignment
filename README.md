@@ -48,13 +48,13 @@
 
 ```mermaid
 flowchart LR
-  A[Talent JSON] --> B[FastAPI /infer 엔드포인트]
-  B --> C{Vector Search}
-  C --> |유사 문서 조회| D[Postgres (pgvector)]
-  D --> |docs + embeddings| E[Inference Service]
-  E --> |프롬프트 생성| F[OpenAI ChatCompletion]
-  F --> |응답| G[TagResponse]
-  G --> H[클라이언트 응답]
+  A["Talent JSON"] --> B["FastAPI /infer 엔드포인트"]
+  B --> C["Vector Search"]
+  C --> |유사 문서 조회| D["Postgres (pgvector)"]
+  D --> |docs + embeddings| E["Inference Service"]
+  E --> |프롬프트 생성| F["OpenAI ChatCompletion"]
+  F --> |응답| G["TagResponse"]
+  G --> H["클라이언트 응답"]
 ```
 
 ---

@@ -9,6 +9,14 @@ load_dotenv()
 client = OpenAI()
 vsearch = VectorSearch()
 
+# 서비스명 → 법인명 매핑 테이블
+SERVICE_TO_COMPANY_MAP = {
+    "토스": "비바리퍼블리카",
+    "토스증권": "비바리퍼블리카",
+    "토스뱅크": "비바리퍼블리카",
+    "토스페이먼츠": "비바리퍼블리카",
+}
+
 class InferenceService:
     def __init__(self, llm_client=None, vector_search=None):
         self.client = llm_client or client
@@ -18,7 +26,9 @@ class InferenceService:
         # 1) 회사, 기간, 직무 정보 추출
         companies, periods, titles = [], [], []
         for pos in payload.positions:
-            companies.append(pos.companyName)
+            mapped_name = SERVICE_TO_COMPANY_MAP.get(pos.companyName, pos.companyName)
+            companies.append(mapped_name)
+
             s = pos.startEndDate.start
             p_str = f"{s.year}.{s.month:02d}"
             if pos.startEndDate.end:
@@ -32,7 +42,7 @@ class InferenceService:
         for comp in companies:
             docs += self.vsearch.most_similar(comp, top_k=3)
 
-        # 3) Few-shot 예시 추가 (3번까지의 사례 + 목표 사례)
+        # 3) Few-shot 예시 추가
         example_section = (
             "추론 예시:\n"
             "- Input: talent_ex1.json\n"
@@ -45,7 +55,7 @@ class InferenceService:
             "  Output: 상위권대학교 (서울대학교), 대규모 회사 경험 (삼성전자·네이버), 성장기스타트업 경험 (토스 조직 4.5배 확장), 리더쉽 (CTO·Director·팀장), 대용량데이터처리경험 (네이버 하이퍼클로바 개발), M&A 경험 (요기요 매각), 신규 투자유치 (토스 시리즈 F·엘박스 시리즈 B)\n\n"
         )
 
-        # 4) 프롬프트 구성 (한국어)
+        # 4) 프롬프트 구성
         prompt = (
             "당신은 전문 리쿠르터입니다.\n"
             "아래 지원자의 상세 이력서를 참고하여, 지원자가 어떤 경험을 했고 어떤 역량을 보유했는지 추론해주세요.\n"
@@ -82,4 +92,3 @@ class InferenceService:
             content = "\n".join(lines).strip()
         parsed = json.loads(content)
         return TagResponse(tags=parsed.get("tags", []))
-

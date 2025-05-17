@@ -52,7 +52,7 @@
         {
             "title": "Backend Chapter Lead",
             "companyLogo": "",
-            "companyName": "리디",
+            "companyName": "토스",
             "description": "백엔드 개발팀 리딩 - 팀원 12명\n결제 및 송금 시스템 설계 및 개발\n대규모 트랜잭션 처리를 위한 시스템 아키텍처 설계\nMSA 기반 서비스 구조 설계 및 구현\n쿠버네티스 기반 인프라 구축",
             "startEndDate": {
                 "end": {
@@ -69,7 +69,7 @@
         {
             "title": "Backend Engineer",
             "companyLogo": "",
-            "companyName": "리디",
+            "companyName": "토스",
             "description": "금융 API 서비스 개발\n송금 및 결제 시스템 백엔드 개발\n실시간 트랜잭션 처리 시스템 구현\n보안 인증 시스템 개발",
             "startEndDate": {
                 "end": {
@@ -88,7 +88,7 @@
         {
             "grade": "",
             "degreeName": "학사",
-            "schoolName": "서울대학교",
+            "schoolName": "연세대학교",
             "description": "",
             "fieldOfStudy": "컴퓨터 공학",
             "startEndDate": "2010 - 2015",

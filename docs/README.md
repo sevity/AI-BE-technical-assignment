@@ -1,3 +1,8 @@
+과제 설명은 docs/assignment.md로 옮겼습니다.
+아래 내용은 과제 수행 내용입니다.
+
+
+
 # SearcHRight AI Technical Assignment
 
 ## 목표

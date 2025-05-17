@@ -2,6 +2,7 @@
 import json
 import os
 import pytest
+from types import SimpleNamespace
 
 from fastapi.testclient import TestClient
 from app.main import app
@@ -29,28 +30,36 @@ cases = [
 @pytest.mark.parametrize("talent_file, resp_key, must_include", cases)
 def test_infer_tags(client, mocker, talent_file, resp_key, must_include):
     # 1) payload 로드
-    payload_path = os.path.join(os.path.dirname(__file__), "..", "example_datas", f"{talent_file}.json")
-    payload = json.load(open(payload_path, "r", encoding="utf-8"))
+    payload_path = os.path.join(
+        os.path.dirname(__file__),
+        "..", "example_datas",
+        f"{talent_file}.json"
+    )
+    with open(payload_path, "r", encoding="utf-8") as f:
+        payload = json.load(f)
 
-    # 2) 캡쳐된 real_response 로 fake_response 생성
+    # 2) 캡쳐된 real_response 로 fake_resp 생성 (SimpleNamespace 중첩)
     real_resp = load_real_response(resp_key)
-    fake_response = {
-        "choices": [
-            {"message": {"content": json.dumps(real_resp, ensure_ascii=False)}}
+    fake_resp = SimpleNamespace(
+        choices=[
+            SimpleNamespace(
+                message=SimpleNamespace(
+                    content=json.dumps(real_resp, ensure_ascii=False)
+                )
+            )
         ]
-    }
+    )
 
     # 3) OpenAI 호출 patch
     mocker.patch(
         "app.services.inference.client.chat.completions.create",
-        return_value=fake_response
+        return_value=fake_resp
     )
 
     # 4) 엔드포인트 호출 및 검증
     res = client.post("/infer", json=payload)
-    assert res.status_code == 200
-    data = res.json()
-    tags = data.get("tags", [])
+    assert res.status_code == 200, res.text
 
+    tags = res.json().get("tags", [])
     for expected in must_include:
         assert any(expected in tag for tag in tags), f"Expected '{expected}' in {tags}"

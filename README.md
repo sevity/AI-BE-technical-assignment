@@ -157,8 +157,17 @@ poetry run pytest -q --disable-warnings --maxfail=1
 
 ---
 
+## 🚧 TODO (향후 개선 사항)
+
+* **ORM 통합**: 현재 `psycopg` 직접 SQL을 사용 중인 `embed_docs.py`와 `vector_search.py`를 SQLAlchemy ORM 매핑으로 전환
+
+  * `app/models.py`에 `CompanyDoc` ORM 클래스 정의
+  * `app/db.py` 및 `app/deps.py`에 세션 및 의존성 주입 설정 추가
+  * CRUD 로직(`INSERT`, `SELECT`)을 ORM 방식으로 리팩토링
+* **모니터링 & 로깅 개선**: 리퀘스트별 처리 시간 측정, Prometheus 메트릭·Grafana 대시보드 통합
+
+---
+
 ## 📄 과제 안내
 
 원본 과제 설명, 제출 기한, 토큰 관리 등은 `docs/assignment.md`를 참고하세요.
-
-

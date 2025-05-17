@@ -15,11 +15,10 @@ vsearch = VectorSearch()
 # 서비스명 → 법인명 매핑 테이블
 SERVICE_TO_COMPANY_MAP = {
     "토스": "비바리퍼블리카",
-    "토스증권": "비바리퍼블리카",
-    "토스뱅크": "비바리퍼블리카",
-    "토스페이먼츠": "비바리퍼블리카",
+    "요기요": "위대한상상",
+    "카카오페이": "카카오페이",
+    # 필요 시 추가
 }
-
 
 class InferenceService:
     def __init__(self, llm_client=None, vector_search=None):
@@ -66,12 +65,13 @@ class InferenceService:
             "  Output: 상위권대학교 (서울대학교), 대규모 회사 경험 (삼성전자·네이버), 성장기스타트업 경험 (토스 조직 4.5배 확장), 리더쉽 (CTO·Director·팀장), 대용량데이터처리경험 (네이버 하이퍼클로바 개발), M&A 경험 (요기요 매각), 신규 투자유치 (토스 시리즈 F·엘박스 시리즈 B)\n\n"
         )
 
-        # 4) 프롬프트 구성
+        # 4) 프롬프트 구성: 연도 기반 성장·프로젝트 정보 반드시 포함하도록 지시
         prompt = (
             "당신은 전문 리쿠르터입니다.\n"
-            "아래 지원자의 상세 이력서를 참고하여, 지원자가 어떤 경험을 했고 어떤 역량을 보유했는지 추론해주세요.\n"
-            "추론 시에는 예시와 같이 간결하게 태그 형식으로 작성해주세요.\n"
-            "추가 또는 변동된 데이터에 대해서는 출처를 표기해주세요.\n\n"
+            "지원자의 이력서와 회사 문서 데이터를 참고하여, "
+            "포지션 시작-종료 연도 기반 투자 규모 성장, 조직 규모 성장 정보와 "
+            "해당 연도에 진행된 주요 프로젝트(예: 하이퍼클로바) 정보를 반드시 태그에 포함해주세요.\n"
+            "출력은 예시와 같이 간결한 태그 형태로 작성해주세요.\n\n"
         )
         prompt += example_section
         prompt += (
@@ -98,8 +98,10 @@ class InferenceService:
         # 6) 코드블록 제거 및 JSON 파싱
         if content.startswith("```"):
             lines = content.splitlines()
-            if lines[0].startswith("```"): lines = lines[1:]
-            if lines and lines[-1].startswith("```"): lines = lines[:-1]
+            if lines[0].startswith("```"):
+                lines = lines[1:]
+            if lines and lines[-1].startswith("```"):
+                lines = lines[:-1]
             content = "\n".join(lines).strip()
         parsed = json.loads(content)
         return TagResponse(tags=parsed.get("tags", []))

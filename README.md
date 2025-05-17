@@ -57,6 +57,11 @@ flowchart LR
   G --> H[클라이언트 응답]
 ```
 
+## API 문서
+
+* Swagger UI: `http://localhost:9000/docs`
+* ReDoc:        `http://localhost:9000/redoc`
+
 ---
 
 ## ⚙️ 환경 설정 & 의존성

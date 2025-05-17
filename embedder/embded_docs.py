@@ -5,6 +5,7 @@ import tiktoken
 from openai import OpenAI
 from dotenv import load_dotenv
 import hashlib  # for computing content_hash
+from datetime import date
 
 # Load environment variables
 load_dotenv()
@@ -39,9 +40,9 @@ with conn.cursor() as cur:
         cur.execute(
             """
             SELECT 1
-            FROM company_docs
-            WHERE company_name = %s
-              AND doc_type     = 'profile'
+              FROM company_docs
+             WHERE company_name = %s
+               AND doc_type     = 'profile'
             """,
             (name,)
         )
@@ -68,10 +69,13 @@ with conn.cursor() as cur:
         )
         print(f"Profile → {name} ({len(chunks)} chunk(s))")
 
-    # 2) Process only unembedded company news
+    # 2) Process only unembedded company news, now pulling news_date too
     cur.execute(
         """
-        SELECT cn.company_id, cn.title, cn.original_link
+        SELECT cn.company_id
+             , cn.title
+             , cn.original_link
+             , cn.news_date      -- ← 추가
         FROM company_news cn
         JOIN company c
           ON c.id = cn.company_id
@@ -82,9 +86,13 @@ with conn.cursor() as cur:
         WHERE cd.company_name IS NULL
         """
     )
-    for comp_id, title, link in cur.fetchall():
+    for comp_id, title, link, news_date in cur.fetchall():
         company_name = company_map.get(comp_id, "Unknown")
         text = f"{title}\n\n{link}"
+
+        # Compute content_hash the same way as table does
+        content_hash = hashlib.md5(text.encode('utf-8')).hexdigest()
+
         chunks = list(chunk_text(text))
         embeddings = []
         for chunk in chunks:
@@ -97,11 +105,13 @@ with conn.cursor() as cur:
 
         cur.execute(
             """
-            INSERT INTO company_docs (company_name, doc_type, content, embedding)
-            VALUES (%s, 'news', %s, %s)
+            INSERT INTO company_docs
+              (company_name, doc_type, content, embedding, published_at)
+            VALUES
+              (%s, 'news', %s, %s, %s)     -- ← published_at 추가
             ON CONFLICT (company_name, doc_type, content_hash) DO NOTHING;
             """,
-            (company_name, text, avg_emb)
+            (company_name, text, avg_emb, news_date)
         )
         print(f"News → {company_name} ({len(chunks)} chunk(s))")
 

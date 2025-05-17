@@ -64,35 +64,54 @@ class VectorSearch:
                 (company_name,),
             )
             row = cur.fetchone()
-            logger.debug("Profile embedding row: %r", row)
+            logger.debug("Profile embedding (first 100 chars): %s…", str(row[0])[:100])
+
             if not row or row[0] is None:
                 logger.error("No embedding found for company %r", company_name)
                 raise ValueError(f"No embedding for company {company_name}")
             emb = row[0]
 
+            # **디버깅용:** 전체 non-profile 문서 수 로그
+            cur.execute(
+                "SELECT COUNT(*) FROM company_docs WHERE doc_type != 'profile'"
+            )
+            total_docs = cur.fetchone()[0]
+            logger.debug("Total non-profile docs in DB: %d", total_docs)
+
             # 2) 유사 문서 검색 + 기간 필터링
             query = """
-                 SELECT company_name, doc_type, content, published_at
-                 FROM company_docs
+                SELECT company_name, doc_type, content, published_at
+                  FROM company_docs
                  WHERE doc_type != 'profile'
                    AND company_name = %s
-             """
-            params: List = []
-            params.append(company_name)
+            """
+            params: List = [company_name]
 
-
+            # **디버깅용:** date 필터 전후 문서 수 로그
             if start_date is not None and end_date is not None:
+                cur.execute(
+                    """
+                    SELECT COUNT(*)
+                      FROM company_docs
+                     WHERE doc_type != 'profile'
+                       AND company_name = %s
+                       AND published_at BETWEEN %s AND %s
+                    """,
+                    (company_name, start_date, end_date)
+                )
+                in_range = cur.fetchone()[0]
+                logger.debug(
+                    "Docs for %r published between %s and %s: %d",
+                    company_name, start_date, end_date, in_range
+                )
                 query += " AND published_at BETWEEN %s AND %s"
                 params.extend([start_date, end_date])
-                logger.debug(
-                    "Applying date filter: %s to %s", start_date, end_date
-                )
 
             query += " ORDER BY embedding <=> %s LIMIT %s"
             params.extend([emb, top_k])
 
             logger.debug("Final SQL query: %s", query.strip())
-            logger.debug("Query parameters: %r", params)
+            logger.debug("Query parameters: %r", str(params[0])[:100])
 
             logger.debug("Executing SQL search")
             cur.execute(query, params)

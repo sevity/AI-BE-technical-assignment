@@ -50,13 +50,22 @@ def test_infer_tags(client, mocker, talent_file, resp_key, must_include):
         ]
     )
 
-    # 3) OpenAI 호출 patch
-    mocker.patch(
-        "app.services.inference.client.chat.completions.create",
-        return_value=fake_resp
+    # 3) fake_client 정의 (chat.completions.create 호출 시 fake_resp 반환)
+    fake_client = SimpleNamespace(
+        chat=SimpleNamespace(
+            completions=SimpleNamespace(
+                create=lambda *args, **kwargs: fake_resp
+            )
+        )
     )
 
-    # 4) 엔드포인트 호출 및 검증
+    # 4) OpenAI 호출 patch: get_openai_client() 가 fake_client 반환하도록
+    mocker.patch(
+        "app.deps.get_openai_client",
+        return_value=fake_client
+    )
+
+    # 5) 엔드포인트 호출 및 검증
     res = client.post("/infer", json=payload)
     assert res.status_code == 200, res.text
 

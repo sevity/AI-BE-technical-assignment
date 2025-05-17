@@ -18,7 +18,6 @@
 ├── app/                      # FastAPI 애플리케이션 코드
 │   ├── main.py               # 엔트리포인트
 │   ├── deps.py               # DI(의존성) 설정
-│   ├── models.py             # SQLAlchemy ORM 정의
 │   ├── schemas.py            # Pydantic 스키마
 │   └── services/             # 핵심 로직
 │       ├── vector_search.py  # 벡터 검색 로직
@@ -166,8 +165,3 @@ poetry run pytest -q --disable-warnings --maxfail=1
   * CRUD 로직(`INSERT`, `SELECT`)을 ORM 방식으로 리팩토링
 * **모니터링 & 로깅 개선**: 리퀘스트별 처리 시간 측정, Prometheus 메트릭·Grafana 대시보드 통합
 
----
-
-## 📄 과제 안내
-
-원본 과제 설명, 제출 기한, 토큰 관리 등은 `docs/assignment.md`를 참고하세요.

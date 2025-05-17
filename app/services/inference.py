@@ -5,6 +5,9 @@ from typing import List
 from app.schemas import DetailedTalentInput, TagResponse
 from .vector_search import VectorSearch, Document
 
+import logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+
 load_dotenv()
 client = OpenAI()
 vsearch = VectorSearch()
@@ -17,6 +20,7 @@ SERVICE_TO_COMPANY_MAP = {
     "토스페이먼츠": "비바리퍼블리카",
 }
 
+
 class InferenceService:
     def __init__(self, llm_client=None, vector_search=None):
         self.client = llm_client or client
@@ -26,14 +30,21 @@ class InferenceService:
         # 1) 회사, 기간, 직무 정보 추출
         companies, periods, titles = [], [], []
         for pos in payload.positions:
+            # 매핑 적용
             mapped_name = SERVICE_TO_COMPANY_MAP.get(pos.companyName, pos.companyName)
+            logging.debug(f"원본 companyName: {pos.companyName} -> 매핑된 회사명: {mapped_name}")
             companies.append(mapped_name)
 
+            # 기간 문자열 생성
             s = pos.startEndDate.start
             p_str = f"{s.year}.{s.month:02d}"
             if pos.startEndDate.end:
                 e = pos.startEndDate.end
                 p_str += f"–{e.year}.{e.month:02d}"
+            logging.debug(f"parsed period: {p_str}")
+
+            # 직무 로깅
+            logging.debug(f"parsed title: {pos.title}")
             periods.append(p_str)
             titles.append(pos.title)
 

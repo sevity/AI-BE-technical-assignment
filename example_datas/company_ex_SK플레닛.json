@@ -1,0 +1,108 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 6467,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "CONSOLIDATED",
+        "year": 2013,
+        "profit": 1700000000000,
+        "capital": null,
+        "netProfit": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null,
+        "operatingProfit": null
+      }
+    ],
+    "recentUpdate": "2013-01-25"
+  },
+  "products": [
+    "E-Commerce",
+    "Online-to-Offline Services",
+    "Digital Advertising",
+    "Mobile Commerce",
+    "11st.co.kr",
+    "OK Cashbag",
+    "Syrup",
+    "Shopkick"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {
+      "loyaltyProgramSubscribers": 38000000
+    },
+    "recentUpdate": "2016-12-31"
+  },
+  "organization": {
+    "data": {
+      "employees": 2283,
+      "CEO": "SungWon Suh",
+      "headquarters": "Pangyo, Gyeonggi Province, South Korea"
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "similarCorps": [
+    "Big Tech Plus",
+    "PANONY",
+    "Block Odyssey"
+  ],
+  "customerSales": {
+    "data": {
+      "revenueKRW": 1700000000000
+    },
+    "recentUpdate": "2013-01-25"
+  },
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00000010",
+        "corpCd": "PUBLIC_COMPANY",
+        "homeUrl": "https://www.skplanet.com",
+        "cordLat": 37.4045388,
+        "cordLng": 127.109902,
+        "foundAt": "2011-10-01",
+        "province": "Gyeonggi-do",
+        "bizInfoEn": "Internet E-Commerce",
+        "bizInfoKr": "인터넷 전자상거래",
+        "corpNameEn": "SK Planet Co., Ltd.",
+        "corpNameKr": "SK플래닛",
+        "corpAddrEn": "Pangyo, Seongnam-si, Gyeonggi-do, South Korea",
+        "subCorp": true,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "SK Planet Co., Ltd. (SK Planet) – Internet Platform Developer",
+      "thumbnail": null,
+      "description": "SK Planet is a subsidiary of SK Telecom focused on e-commerce, O2O services, and digital marketing."
+    }
+  }
+}

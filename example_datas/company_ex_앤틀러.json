@@ -1,0 +1,107 @@
+{
+  "corpId": "CP00003001",
+  "bizNameEn": "Venture Capital/Startup Accelerator",
+  "bizNameKr": "벤처 캐피탈/스타트업 액셀러레이터",
+  "corpNameEn": "Antler Korea",
+  "corpNameKr": "앤틀러 코리아",
+  "corpIntroEn": "Antler is a global early-stage venture capital firm and accelerator, known as the world’s Day Zero investor, enabling exceptional founders to build startups from the very beginning. Antler Korea launched operations in Seoul in August 2021, led by Jiho Kang, and runs founder residency programs and direct investments in pre-seed and seed stage companies across South Korea.",
+  "corpIntroKr": "앤틀러는 전세계 Day Zero 투자자로 알려진 글로벌 초기 단계 벤처 캐피탈 및 액셀러레이터입니다. 앤틀러 코리아는 2021년 8월 서울에서 운영을 시작했으며, 강지호 파트너(전 슘고 공동창업자) 주도로 예비 창업자 레지던시 프로그램과 초기 단계 스타트업에 대한 직접 투자를 진행합니다.",
+  "patent": {
+    "list": [],
+    "chart": [],
+    "words": [],
+    "totalCount": 0,
+    "averageRank": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "AUM",
+        "year": 2022,
+        "aum": 500000000
+      },
+      {
+        "type": "Emerging Growth Fund",
+        "year": 2023,
+        "fundSize": 285000000
+      }
+    ],
+    "recentUpdate": "2025-05-17"
+  },
+  "products": [
+    {
+      "id": "PD00003001",
+      "name": "Founder Residency Program",
+      "types": [
+        {
+          "url": "https://www.antler.co/korea",
+          "type": "WEB"
+        }
+      ],
+      "finishedAt": null,
+      "logoImgUrl": ""
+    },
+    {
+      "id": "PD00003002",
+      "name": "Antler Elevate Fund",
+      "types": [
+        {
+          "url": "https://www.antler.co/elevate",
+          "type": "WEB"
+        }
+      ],
+      "finishedAt": null,
+      "logoImgUrl": ""
+    }
+  ],
+  "investment": {
+    "data": [
+      {
+        "level": "Pre-Seed",
+        "investAt": "2022-01-01",
+        "investmentDescription": "Batch 1 announced with 10 startups in a six-month residency program",
+        "investeeCount": 10
+      }
+    ],
+    "recentUpdate": "2025-05-17",
+    "lastInvestmentLevel": "Pre-Seed",
+    "totalInvestmentAmount": 1500000
+  },
+  "customerType": {
+    "salesFamily": [],
+    "salesIncome": [],
+    "salesPerson": [],
+    "recentUpdate": "2025-05-17"
+  },
+  "organization": {
+    "data": [],
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [
+    {
+      "corpId": "CP00000555",
+      "bizNameEn": "Venture Capital",
+      "bizNameKr": "벤처 캐피탈",
+      "corpNameEn": "Sequoia Capital China",
+      "corpNameKr": "세콰이어 캐피털 차이나",
+      "prodNameEn": "",
+      "prodNameKr": "",
+      "corpIntroEn": "Global VC firm investing in seed to growth stages.",
+      "corpIntroKr": "시드부터 성장 단계까지 투자하는 글로벌 벤처 캐피탈.",
+      "corpLogoImg": ""
+    },
+    {
+      "corpId": "CP00000666",
+      "bizNameEn": "Startup Accelerator",
+      "bizNameKr": "스타트업 액셀러레이터",
+      "corpNameEn": "Y Combinator",
+      "corpNameKr": "와이 컴비네이터",
+      "prodNameEn": "",
+      "prodNameKr": "",
+      "corpIntroEn": "Leading global startup accelerator based in Silicon Valley.",
+      "corpIntroKr": "실리콘밸리에 기반한 글로벌 대표 스타트업 액셀러레이터.",
+      "corpLogoImg": ""
+    }
+  ]
+}

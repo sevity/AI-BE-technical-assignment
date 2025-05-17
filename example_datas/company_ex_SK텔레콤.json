@@ -1,0 +1,105 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 0,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "CONSOLIDATED",
+        "year": 2023,
+        "profit": 17609000000000,
+        "capital": null,
+        "netProfit": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null,
+        "operatingProfit": null
+      }
+    ],
+    "recentUpdate": "2023-12-31"
+  },
+  "products": [
+    "Wireless telecom",
+    "Cellular internet",
+    "Internet",
+    "Mobile platform",
+    "Internet of things"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {
+      "mobileSubscribers": 23000000,
+      "marketShare": "50.5%"
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "organization": {
+    "data": {
+      "employees": 40543,
+      "CEO": "Young Sang Ryu",
+      "headquarters": "Jung District, Seoul, South Korea"
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "similarCorps": [
+    "KT Corporation",
+    "LG Uplus"
+  ],
+  "customerSales": {
+    "data": {
+      "revenueKRW": 17609000000000
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00000009",
+        "corpCd": "PUBLIC_COMPANY",
+        "homeUrl": "https://sktelecom.com",
+        "cordLat": 37.55986,
+        "cordLng": 126.99398,
+        "foundAt": "1984-04-20",
+        "province": "Seoul",
+        "bizInfoEn": "Telecommunications",
+        "bizInfoKr": "통신",
+        "corpNameEn": "SK Telecom",
+        "corpNameKr": "SK텔레콤",
+        "corpAddrEn": "Jung District, Seoul, South Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "SK Telecom Co., Ltd. (SK Telecom) – South Korea's Top Telecom",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/89/SK_Telecom_logo.svg",
+      "description": "SK Telecom is South Korea's largest wireless carrier, founded on April 20, 1984, and part of the SK Group."
+    }
+  }
+}

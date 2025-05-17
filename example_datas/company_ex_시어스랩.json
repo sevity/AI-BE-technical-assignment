@@ -1,0 +1,104 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 23,
+    "averageRank": null,
+    "recentUpdate": "2021-12-31"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "ANNUAL",
+        "year": 2023,
+        "profit": 2953790000,
+        "capital": null,
+        "netProfit": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null,
+        "operatingProfit": null
+      }
+    ],
+    "recentUpdate": "2023-12-31"
+  },
+  "products": [
+    "Lollicam",
+    "MirrorCity",
+    "ARGear",
+    "AR SDK",
+    "PaaS Platform"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {},
+    "recentUpdate": "2025-05-17"
+  },
+  "organization": {
+    "data": {
+      "employees": 40,
+      "CEO": "정진욱",
+      "headquarters": "서울특별시 서초구 강남대로 315, 2층"
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "similarCorps": [
+    "반석온라인",
+    "아트리즈",
+    "피키캐스트",
+    "몬캐스트"
+  ],
+  "customerSales": {
+    "data": {
+      "revenueKRW": 2953790000
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00000010",
+        "corpCd": "PRIVATE_COMPANY",
+        "homeUrl": "https://www.seerslab.com",
+        "cordLat": 37.491130077987,
+        "cordLng": 127.03044078244,
+        "foundAt": "2014-05-21",
+        "province": "Seoul",
+        "bizInfoEn": "Augmented Reality",
+        "bizInfoKr": "증강현실",
+        "corpNameEn": "Seerslab Inc.",
+        "corpNameKr": "시어스랩",
+        "corpAddrEn": "315, Gangnam-daero, Seocho-gu, Seoul, Republic of Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "시어스랩 (Seerslab) – 국내 대표 증강현실 기술 스타트업",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/.../Seerslab_logo.png",
+      "description": "시어스랩은 AI 및 AR 기술 기반의 차세대 미디어 솔루션을 개발하는 한국 스타트업입니다."
+    }
+  }
+}

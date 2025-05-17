@@ -1,4 +1,5 @@
 import json
+import re
 from openai import OpenAI
 from dotenv import load_dotenv
 from typing import List
@@ -12,15 +13,44 @@ load_dotenv()
 client = OpenAI()
 vsearch = VectorSearch()
 
-# 서비스명 → 법인명 매핑 테이블
-SERVICE_TO_COMPANY_MAP = {
-    "토스": "비바리퍼블리카",
-    "요기요": "위대한상상",
-    "SearcHRight AI": "서치라이트",
-    "Genie Music (the former \"KT Music\")": "KT뮤직",
-    "KT Music": "KT뮤직",
+# -------------------------------
+# 법인명 → 서비스명 유사어(별칭) 목록
+# -------------------------------
+COMPANY_TO_SERVICE_ALIASES = {
+    "비바리퍼블리카": ["토스", "toss", "viva republica"],
+    "위대한상상": ["요기요", "yogiyo"],
+    "서치라이트": ["searchright ai", "searchright"],
+    "KT뮤직": ["genie music", "kt music"],
+    "국민은행": ["kookmin bank"],
+    "코인텍": ["kointech"],
+    "카사": ["kasa"],
+    "SK텔레콤": ["sk telecom"],
+    "SK플레닛": ["sk planet"],
+    "앤틀러": ["antler"],
+    "엘박스": ["엘박스"],
+    "삼성전자": ["samsung electronics"],
     # 필요 시 추가
 }
+
+def normalize(text: str) -> str:
+    """
+    입력 텍스트를 소문자로 변환하고, 
+    영숫자·한글 외 문자는 공백으로 치환한 뒤 앞뒤 공백 제거
+    """
+    t = text.lower()
+    return re.sub(r'[^a-z0-9ㄱ-힣]+', ' ', t).strip()
+
+def map_service_to_company(service_name: str) -> str:
+    """
+    normalize된 서비스명에 별칭(alias)이 포함되어 있으면
+    해당 법인명(corp)을 반환. 없으면 원본 service_name 반환.
+    """
+    norm = normalize(service_name)
+    for corp, aliases in COMPANY_TO_SERVICE_ALIASES.items():
+        for alias in aliases:
+            if alias in norm:
+                return corp
+    return service_name
 
 class InferenceService:
     def __init__(self, llm_client=None, vector_search=None):
@@ -31,22 +61,19 @@ class InferenceService:
         # 1) 회사, 기간, 직무 정보 추출
         companies, periods, titles = [], [], []
         for pos in payload.positions:
-            # 매핑 적용
-            mapped_name = SERVICE_TO_COMPANY_MAP.get(pos.companyName, pos.companyName)
+            mapped_name = map_service_to_company(pos.companyName)
             logging.debug(f"원본 companyName: {pos.companyName} -> 매핑된 회사명: {mapped_name}")
             companies.append(mapped_name)
 
-            # 기간 문자열 생성
             s = pos.startEndDate.start
             p_str = f"{s.year}.{s.month:02d}"
             if pos.startEndDate.end:
                 e = pos.startEndDate.end
                 p_str += f"–{e.year}.{e.month:02d}"
             logging.debug(f"parsed period: {p_str}")
-
-            # 직무 로깅
-            logging.debug(f"parsed title: {pos.title}")
             periods.append(p_str)
+
+            logging.debug(f"parsed title: {pos.title}")
             titles.append(pos.title)
 
         # 2) 벡터 검색: 회사별 상위 3개 문서 추출
@@ -67,7 +94,7 @@ class InferenceService:
             "  Output: 상위권대학교 (서울대학교), 대규모 회사 경험 (삼성전자·네이버), 성장기스타트업 경험 (토스 조직 4.5배 확장), 리더쉽 (CTO·Director·팀장), 대용량데이터처리경험 (네이버 하이퍼클로바 개발), M&A 경험 (요기요 매각), 신규 투자유치 (토스 시리즈 F·엘박스 시리즈 B)\n\n"
         )
 
-        # 4) 프롬프트 구성: 연도 기반 성장·프로젝트 정보 반드시 포함하도록 지시
+        # 4) 프롬프트 구성
         prompt = (
             "당신은 전문 리쿠르터입니다.\n"
             "지원자의 이력서와 회사 문서 데이터를 참고하여, "
@@ -89,15 +116,17 @@ class InferenceService:
             '{ "tags": ["태그1", "태그2", ...] }\n```'
         )
 
-        # 5) LLM 호출
+        # 5) LLM 호출 및 raw 응답 로깅
         resp = self.client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.0
         )
-        content = resp.choices[0].message.content.strip()
+        raw = resp.choices[0].message.content
+        logging.debug(f"[LLM RAW RESPONSE]\n{raw!r}")
+        content = raw.strip()
 
-        # 6) 코드블록 제거 및 JSON 파싱
+        # 6) 코드블록 제거
         if content.startswith("```"):
             lines = content.splitlines()
             if lines[0].startswith("```"):
@@ -105,5 +134,12 @@ class InferenceService:
             if lines and lines[-1].startswith("```"):
                 lines = lines[:-1]
             content = "\n".join(lines).strip()
-        parsed = json.loads(content)
+
+        # 7) JSON 파싱 및 에러 로깅
+        try:
+            parsed = json.loads(content)
+        except json.JSONDecodeError:
+            logging.error("[JSON PARSE ERROR] 응답 내용이 JSON이 아닙니다:\n%s", content, exc_info=True)
+            raise
+
         return TagResponse(tags=parsed.get("tags", []))

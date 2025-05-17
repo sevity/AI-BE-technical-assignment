@@ -1,0 +1,106 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 6,
+    "averageRank": null,
+    "recentUpdate": "2023-12-31"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "CONSOLIDATED",
+        "year": 2024,
+        "profit": 2209790000,
+        "capital": null,
+        "netProfit": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null,
+        "operatingProfit": null
+      }
+    ],
+    "recentUpdate": "2024-12-31"
+  },
+  "products": [
+    "판례 검색 서비스",
+    "유사판례 검색",
+    "사건 일정 관리",
+    "판사 검색",
+    "복대리"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {
+      "professionalUsersRate": "35%"
+    },
+    "recentUpdate": "2021-12-01"
+  },
+  "organization": {
+    "data": {
+      "employees": 46,
+      "CEO": "이진",
+      "headquarters": "서울특별시 강남구 테헤란로 306, 카이트타워 5층"
+    },
+    "recentUpdate": "2025-04-17"
+  },
+  "similarCorps": [
+    "로앤컴퍼니",
+    "로앤굿",
+    "케이스노트",
+    "리걸케어"
+  ],
+  "customerSales": {
+    "data": {
+      "revenueKRW": 2209790000
+    },
+    "recentUpdate": "2024-12-31"
+  },
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00001728",
+        "corpCd": "PRIVATE_COMPANY",
+        "homeUrl": "https://lbox.kr",
+        "cordLat": null,
+        "cordLng": null,
+        "foundAt": "2019-05-08",
+        "province": "Seoul",
+        "bizInfoEn": "Legaltech",
+        "bizInfoKr": "리걸테크",
+        "corpNameEn": "LBox Co., Ltd.",
+        "corpNameKr": "엘박스",
+        "corpAddrEn": "5F, 306 Teheran-ro, Gangnam-gu, Seoul, Republic of Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 8,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "LBox Co., Ltd. (엘박스) – 대한민국 리걸테크 혁신 스타트업",
+      "thumbnail": "https://lbox.kr/favicon.ico",
+      "description": "엘박스는 데이터 기반의 법률 AI 플랫폼으로 판례 검색, 사건 일정 관리, 판사 검색 등 다양한 리걸테크 서비스를 제공합니다."
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 0,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [],
+    "recentUpdate": "2025-05-17"
+  },
+  "products": [
+    "부동산 플랫폼",
+    "주식/증권 투자 서비스"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {},
+    "recentUpdate": "2025-05-17"
+  },
+  "organization": {
+    "data": {
+      "employees": null,
+      "CEO": "홍재근",
+      "headquarters": "Seoul, South Korea"
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [],
+  "customerSales": {
+    "data": {},
+    "recentUpdate": "2025-05-17"
+  },
+  "dataSufficient": false,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00000010",
+        "corpCd": "PRIVATE_STARTUP",
+        "homeUrl": "https://kasa.example.com",
+        "cordLat": 37.5665,
+        "cordLng": 126.9780,
+        "foundAt": "2018-03-01",
+        "province": "Seoul",
+        "bizInfoEn": "Real Estate and Securities",
+        "bizInfoKr": "부동산 및 주식/증권",
+        "corpNameEn": "Kasa Korea",
+        "corpNameKr": "카사코리아",
+        "corpAddrEn": "Seoul, South Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "카사코리아 (Kasa Korea) – 부동산 및 주식/증권 플랫폼",
+      "thumbnail": "",
+      "description": "카사코리아는 2018년 3월 설립된 한국계 스타트업으로, 부동산 및 주식/증권 서비스 카사를 제공합니다."
+    }
+  }
+}

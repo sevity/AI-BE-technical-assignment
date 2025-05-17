@@ -1,0 +1,86 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 0,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [],
+    "recentUpdate": "2025-05-17"
+  },
+  "products": [
+    "AI Talent Discovery Engine",
+    "Competency Metadata Generation",
+    "Multi-platform Sourcing",
+    "Personalized Candidate Outreach"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {
+      "enterpriseClients": 20
+    },
+    "recentUpdate": "2025-05-01"
+  },
+  "organization": {
+    "data": {
+      "employees": 4,
+      "CEO": "Seungmo Yang",
+      "founders": [
+        "Seungmo Yang",
+        "Eunsoo Choi"
+      ],
+      "headquarters": "서울특별시 백범로31길 21, 서울창업허브"
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [],
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00001522",
+        "corpCd": "PRIVATE_COMPANY",
+        "homeUrl": "https://searchright.net",
+        "cordLat": null,
+        "cordLng": null,
+        "foundAt": "2024-01-01",
+        "province": "Seoul",
+        "bizInfoEn": "AI Talent Discovery",
+        "bizInfoKr": "AI 인재 발굴",
+        "corpNameEn": "SearcHRight AI",
+        "corpNameKr": "서치라이트",
+        "corpAddrEn": "21 Baekbeom-ro 31-gil, Seoul Startup Hub, Seoul, Republic of Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "SearcHRight AI (서치라이트) – AI Talent Discovery Platform",
+      "thumbnail": null,
+      "description": "SearcHRight AI는 AI 기반 역량 메타데이터를 생성하여 기업에 최적화된 인재를 발굴하는 플랫폼입니다."
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 0,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "CONSOLIDATED",
+        "year": 2002,
+        "profit": 2800000000,
+        "capital": null,
+        "netProfit": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null,
+        "operatingProfit": null,
+        "note": "2002년 상반기 ERP 매출 28억원"
+      },
+      {
+        "type": "PROJECTION",
+        "year": 2002,
+        "profit": 17000000000,
+        "capital": null,
+        "netProfit": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null,
+        "operatingProfit": null,
+        "note": "2002년 ERP 매출 목표 170억원"
+      }
+    ],
+    "recentUpdate": "2002-08-16"
+  },
+  "products": [
+    "EAGLE ERP",
+    "Max.DOT EAGLE",
+    "Financial Management Module",
+    "Production Management Module",
+    "Human Resources Module",
+    "Inventory Management Module",
+    "Sales Management Module",
+    "Purchasing Management Module",
+    "B2B·B2C 플랫폼",
+    "이메일 솔루션",
+    "PKI 시스템",
+    "ASP 서비스"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {
+      "domesticSMECustomers": 15,
+      "japaneseEnterpriseContracts": 40
+    },
+    "recentUpdate": "2002-08-16"
+  },
+  "organization": {
+    "data": {
+      "employees": null,
+      "CEO": "서진구",
+      "headquarters": "Seoul, South Korea"
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [
+    "SAP",
+    "Oracle",
+    "Microsoft Dynamics 365",
+    "Duzon Bizon"
+  ],
+  "customerSales": {
+    "data": {
+      "revenueKRW": 2800000000
+    },
+    "recentUpdate": "2002-06-30"
+  },
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00000009",
+        "corpCd": "PRIVATE_COMPANY",
+        "homeUrl": "http://www.kointech.com",
+        "cordLat": 37.5665,
+        "cordLng": 126.9780,
+        "foundAt": "1999-01-01",
+        "province": "Seoul",
+        "bizInfoEn": "Enterprise Resource Planning Solutions",
+        "bizInfoKr": "전사적 자원관리 솔루션",
+        "corpNameEn": "Kointech",
+        "corpNameKr": "코인텍",
+        "corpAddrEn": "Seoul, South Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "Kointech – 국내 ERP 솔루션 전문 기업",
+      "thumbnail": "http://www.kointech.com/logo.png",
+      "description": "1999년에 설립된 기업용 ERP 솔루션 전문 업체로, 웹 기반 ‘EAGLE ERP’를 주력 제품으로 국내외 시장에 공급합니다."
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 0,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "SEPARATE",
+        "year": 2024,
+        "revenue": 276200000000,
+        "operatingProfit": null,
+        "netProfit": null,
+        "capital": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null
+      },
+      {
+        "type": "CONSOLIDATED",
+        "year": 2023,
+        "revenue": 285700000000,
+        "operatingProfit": null,
+        "netProfit": null,
+        "capital": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null
+      }
+    ],
+    "recentUpdate": "2024-12-31"
+  },
+  "products": [
+    "Yogiyo delivery platform",
+    "Yogiyo Pass (membership)",
+    "Yogiyo Merchant Portal",
+    "AI-powered personalized recommendation",
+    "Delivery API integration"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 63400000000,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {},
+    "recentUpdate": "2025-05-17"
+  },
+  "organization": {
+    "data": {
+      "employees": 1316,
+      "CEO": "전준희",
+      "founders": [
+        "권태섭",
+        "조형권"
+      ],
+      "headquarters": "7th Floor, Yeoksam 823 Building, 70 Nonhyeon-ro 85-gil, Gangnam-gu, Seoul, Republic of Korea"
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [
+    "우아한형제들",
+    "두잇",
+    "슈퍼커넥트",
+    "헬로월드"
+  ],
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00000015",
+        "corpCd": "PRIVATE_COMPANY",
+        "homeUrl": "https://www.wesang.com",
+        "cordLat": null,
+        "cordLng": null,
+        "foundAt": "2011-11-18",
+        "province": "Seoul",
+        "bizInfoEn": "Comprehensive product brokerage",
+        "bizInfoKr": "상품 종합 중개업",
+        "corpNameEn": "Great Imagination Co., Ltd.",
+        "corpNameKr": "주식회사 위대한상상",
+        "corpAddrEn": "7th Floor, Yeoksam 823 Building, 70 Nonhyeon-ro 85-gil, Gangnam-gu, Seoul, Republic of Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 5,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "주식회사 위대한상상 (Yogiyo) – 대한민국 대표 배달 플랫폼",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Yogiyo_logo.png",
+      "description": "위대한상상은 ‘요기요’ 배달앱을 운영하는 스타트업으로, 소비자에게 다양한 음식 선택권과 빠른 배송을 제공하며, 레스토랑 파트너와 상생을 추구합니다."
+    }
+  }
+}

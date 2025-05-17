@@ -1,0 +1,112 @@
+{
+  "mau": {
+    "list": [
+      {
+        "year": 2025,
+        "month": 2,
+        "mau": 2590000
+      }
+    ],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-02-28"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 0,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "K-IFRS",
+        "year": 2024,
+        "revenue": 301615000000,
+        "operatingProfit": 12193000000,
+        "netProfit": -13772000000,
+        "capital": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null
+      }
+    ],
+    "recentUpdate": "2025-02-11"
+  },
+  "products": [
+    "Music streaming",
+    "Offline listening",
+    "High-quality audio (FLAC support)",
+    "Personalized playlists",
+    "Podcast service",
+    "Live radio",
+    "Car audio integration",
+    "Concert ticketing",
+    "Music video streaming"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 0,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {
+      "MAU": 2590000
+    },
+    "recentUpdate": "2025-02-28"
+  },
+  "organization": {
+    "data": {
+      "employees": null,
+      "CEO": "서인욱",
+      "founders": [],
+      "headquarters": "서울특별시 강남구 강남대로 456, 4-9층(역삼동, 한석타워)"
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [
+    "Melon",
+    "Flo",
+    "Bugs",
+    "YouTube Music",
+    "Spotify"
+  ],
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00004361",
+        "corpCd": "PUBLIC_COMPANY",
+        "homeUrl": "https://www.geniemusic.co.kr",
+        "cordLat": null,
+        "cordLng": null,
+        "foundAt": "1991-02-07",
+        "province": "Seoul",
+        "bizInfoEn": "Music streaming service",
+        "bizInfoKr": "음악 스트리밍 서비스",
+        "corpNameEn": "KT Genie Music Corp.",
+        "corpNameKr": "케이티지니뮤직",
+        "corpAddrEn": "4-9F, 456 Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea",
+        "subCorp": true,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "지니뮤직 (Genie Music) – KT의 음악 스트리밍 서비스",
+      "thumbnail": null,
+      "description": "지니뮤직은 1991년 설립된 KT의 음악 스트리밍 서비스로, 개인화 추천과 고음질 오디오를 제공하며 대한민국 음악 시장을 선도합니다."
+    }
+  }
+}

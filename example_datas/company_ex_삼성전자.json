@@ -1,0 +1,119 @@
+{
+  "mau": {
+    "list": [],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 539712,
+    "averageRank": null,
+    "recentUpdate": "2023-12-31"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "CONSOLIDATED",
+        "year": 2023,
+        "revenue": 258940000000000,
+        "capital": null,
+        "netProfit": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null,
+        "operatingProfit": 6570000000000
+      }
+    ],
+    "recentUpdate": "2023-12-31"
+  },
+  "products": [
+    "Smartphones",
+    "Televisions",
+    "Memory chips",
+    "Home appliances",
+    "Display panels",
+    "Semiconductors",
+    "Network equipment",
+    "Mobile devices",
+    "Wearables",
+    "IoT devices",
+    "Medical devices",
+    "Software"
+  ],
+  "investment": {
+    "data": [
+      "Harman International",
+      "SmartThings",
+      "LoopPay (Samsung Pay)",
+      "TeleWorld Solutions",
+      "Novaled"
+    ],
+    "totalInvestmentAmount": null,
+    "recentUpdate": "2024-05-17"
+  },
+  "customerType": {
+    "data": {
+      "smartphoneShipments": 226600000
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "organization": {
+    "data": {
+      "employees": 270372,
+      "executiveChairman": "Lee Jae-yong",
+      "chairmanOfTheBoard": "Han-Jo Kim",
+      "presidentAndCEO": "Jun Young-Hyun",
+      "headquarters": "Samsung Digital City, Maetan-dong, Yeongtong District, Suwon, South Korea"
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "similarCorps": [
+    "SK Hynix",
+    "LG Electronics"
+  ],
+  "customerSales": {
+    "data": {
+      "revenueKRW": 258940000000000
+    },
+    "recentUpdate": "2023-12-31"
+  },
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00000009",
+        "corpCd": "PUBLIC_COMPANY",
+        "homeUrl": "https://www.samsung.com",
+        "cordLat": 37.257653,
+        "cordLng": 127.052925,
+        "foundAt": "1969-01-13",
+        "province": "Gyeonggi-do",
+        "bizInfoEn": "Electronics",
+        "bizInfoKr": "전자제품",
+        "corpNameEn": "Samsung Electronics Co., Ltd.",
+        "corpNameKr": "삼성전자",
+        "corpAddrEn": "Samsung Digital City, Maetan-dong, Yeongtong District, Suwon, South Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 5,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "Samsung Electronics Co., Ltd. – 글로벌 전자제품 선도 기업",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/1200px-Samsung_Logo.svg.png",
+      "description": "Samsung Electronics Co., Ltd.는 1969년 설립된 대한민국 대표 전자제품 기업으로, 스마트폰·반도체·가전제품·디스플레이·네트워크 장비 등 다양한 사업을 영위하고 있습니다."
+    }
+  }
+}

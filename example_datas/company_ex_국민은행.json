@@ -1,0 +1,115 @@
+{
+  "mau": {
+    "list": [
+      {
+        "product": "Liiv M",
+        "monthlyActiveUsers": 3000000
+      }
+    ],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2024-01-31"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 0,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "CONSOLIDATED",
+        "year": 2023,
+        "revenueKRW": 30643500000000,
+        "operatingProfitKRW": 7764400000000,
+        "netProfitKRW": 5017000000000
+      }
+    ],
+    "recentUpdate": "2024-10-24"
+  },
+  "products": [
+    "Retail banking",
+    "Corporate banking",
+    "Investment banking",
+    "Wealth management",
+    "Credit cards",
+    "Mobile banking",
+    "Insurance services",
+    "Asset management",
+    "Digital banking platform"
+  ],
+  "investment": {
+    "subsidiaries": [
+      "KB Securities",
+      "KB Kookmin Card",
+      "KB Insurance"
+    ],
+    "totalInvestmentAmount": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "customerType": {
+    "data": {
+      "branchCount": 1200,
+      "customerCount": 24000000
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "organization": {
+    "data": {
+      "employees": 26000,
+      "CEO": "Hur Yin",
+      "headquarters": "26, Gukjegeumyung-ro 8-gil, Yeongdeungpo-gu, Seoul, South Korea"
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [
+    "Shinhan Bank",
+    "Woori Bank",
+    "Hana Bank"
+  ],
+  "customerSales": {
+    "data": {
+      "revenueKRW": 30643500000000
+    },
+    "recentUpdate": "2024-10-24"
+  },
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP000XXXXX",
+        "corpCd": "PUBLIC_COMPANY",
+        "homeUrl": "https://www.kbstar.com",
+        "cordLat": null,
+        "cordLng": null,
+        "foundAt": "1963-11-01",
+        "province": "Seoul",
+        "bizInfoEn": "Banking",
+        "bizInfoKr": "은행업",
+        "corpNameEn": "KB Kookmin Bank",
+        "corpNameKr": "국민은행",
+        "corpAddrEn": "26, Gukjegeumyung-ro 8-gil, Yeongdeungpo-gu, Seoul, South Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "KB Kookmin Bank (국민은행) – 대한민국 대표 상업은행",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/KB_Kookmin_Bank_logo.svg/1200px-KB_Kookmin_Bank_logo.svg.png",
+      "description": "KB Kookmin Bank은 대한민국의 대표 상업은행으로, 예금·대출·자산관리·디지털 뱅킹 서비스를 제공합니다."
+    }
+  }
+}

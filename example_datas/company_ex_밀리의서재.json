@@ -1,0 +1,109 @@
+{
+  "mau": {
+    "list": [
+      {
+        "year": 2024,
+        "month": 12,
+        "mau": 764227
+      }
+    ],
+    "manual": false,
+    "productId": null,
+    "recentUpdate": "2024-12-31"
+  },
+  "patent": {
+    "list": [],
+    "totalCount": 3,
+    "averageRank": null,
+    "recentUpdate": "2025-05-17"
+  },
+  "finance": {
+    "data": [
+      {
+        "type": "K-IFRS",
+        "year": 2024,
+        "revenue": 72600000000,
+        "operatingProfit": 11000000000,
+        "netProfit": 11500000000,
+        "capital": null,
+        "liabilities": null,
+        "totalAssets": null,
+        "totalCapital": null
+      }
+    ],
+    "recentUpdate": "2025-03-21"
+  },
+  "products": [
+    "E-book subscription",
+    "Audiobook service",
+    "AI TTS",
+    "AI chat-based reading",
+    "Reading calendar",
+    "In-app annotation (PDF/ePub)"
+  ],
+  "investment": {
+    "data": [],
+    "totalInvestmentAmount": 62650000000,
+    "recentUpdate": "2025-05-14"
+  },
+  "customerType": {
+    "data": {
+      "MAU": 764227,
+      "mauRatio": "44.1%"
+    },
+    "recentUpdate": "2024-12-31"
+  },
+  "organization": {
+    "data": {
+      "employees": 186,
+      "CEO": "박현진",
+      "founders": ["서영택"],
+      "headquarters": "서울특별시 마포구 양화로 45, 메세나폴리스 세아타워 16층"
+    },
+    "recentUpdate": "2025-05-17"
+  },
+  "similarCorps": [
+    "리디",
+    "부커스",
+    "아이이펍",
+    "더벤처스랩"
+  ],
+  "dataSufficient": true,
+  "base_company_info": {
+    "data": {
+      "seedCorp": {
+        "id": "CP00001521",
+        "corpCd": "PUBLIC_COMPANY",
+        "homeUrl": "https://www.millie.co.kr",
+        "cordLat": null,
+        "cordLng": null,
+        "foundAt": "2016-07-12",
+        "province": "Seoul",
+        "bizInfoEn": "Online reading platform",
+        "bizInfoKr": "온라인 독서 플랫폼",
+        "corpNameEn": "Millie's Library",
+        "corpNameKr": "밀리의서재",
+        "corpAddrEn": "45, Yanghwa-ro, Mapo-gu, Seoul, Republic of Korea",
+        "subCorp": false,
+        "createBy": "system",
+        "invstCnt": 0,
+        "showFlag": true
+      },
+      "seedPeopleBlind": false,
+      "seedPeopleCount": 0,
+      "seedCorpBizBlind": false,
+      "seedCorpBizCount": 0,
+      "seedCorpTagBlind": false,
+      "seedCorpTagCount": 0,
+      "seedProductBlind": false,
+      "seedAdvertisementKeywords": []
+    },
+    "referrer": "",
+    "userAgent": "",
+    "ogTagContent": {
+      "title": "밀리의서재 (Millie's Library) – 대한민국 대표 전자책 구독 서비스",
+      "thumbnail": null,
+      "description": "밀리의서재는 2016년 7월 설립된 대한민국 대표 전자책 및 오디오북 구독 플랫폼으로, AI 기반 독서 기능을 제공합니다."
+    }
+  }
+}

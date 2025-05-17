@@ -16,7 +16,9 @@ vsearch = VectorSearch()
 SERVICE_TO_COMPANY_MAP = {
     "토스": "비바리퍼블리카",
     "요기요": "위대한상상",
-    "카카오페이": "카카오페이",
+    "SearcHRight AI": "서치라이트",
+    "Genie Music (the former \"KT Music\")": "KT뮤직",
+    "KT Music": "KT뮤직",
     # 필요 시 추가
 }
 

@@ -60,29 +60,31 @@ flowchart LR
 
 ---
 
-## 🐳 Docker Compose 기동 (자동화)
+## 🚀 초기 구동 방법
+
+**A. 전체 서비스 자동 구동**
 
 ```bash
+# Docker Compose로 전체 컨테이너 빌드 및 실행
 docker compose up -d --build
 ```
 
-1. **init_db.py 실행**
-   - `vector` 확장 설치
-   - `company`, `company_news`, `company_docs` 테이블 및 인덱스 생성
-2. **example_datas/setup_company_data.py**, `setup_company_news_data.py` 실행
-   - `company`, `company_news` 테이블에 예제 데이터 삽입
-3. **scripts/embed_docs.py 실행**
-   - `company_docs` 테이블에 텍스트 → 임베딩 변환 후 삽입
-4. **FastAPI 서버 시작**
-   - `uvicorn app.main:app --host 0.0.0.0 --port 9000`
+- 자동 실행 순서:
+  1. `scripts/init_db.py` → 스키마·인덱스 생성
+  2. `example_datas/setup_company_data.py`, `example_datas/setup_company_news_data.py` → 예제 데이터 삽입
+  3. `scripts/embed_docs.py` → 텍스트 → 임베딩 변환 후 `company_docs` 테이블에 삽입
+  4. FastAPI 서버 기동 (`uvicorn app.main:app --host 0.0.0.0 --port 9000`)
+- Nginx를 통해 `http://localhost:8000`에서 API 호출 가능 (내부 API 서버: 9000 포트)
 
-이제 `http://localhost:8000/infer` 로 바로 API를 호출해 보실 수 있습니다.
+**B. API 호출 예시**
 
-* **Postgres**: pgvector 확장 포함
-* **API**: 9000 포트
-* **Nginx**: 8000 → API(9000) 프록시
+```bash
+curl -X POST http://localhost:8000/infer \
+     -H "Content-Type: application/json" \
+     -d @example_datas/talent_ex1.json | jq
+```
 
-> **참고**: 초기 임베딩 수행 시 시간이 소요될 수 있습니다. 로컬 개발 중에는 `docker compose run api-service sh` 로 진입해 embed 단계만 건너뛰고 서버를 테스트할 수 있습니다.
+> 🚧 **주의**: 초기 임베딩 단계는 벡터 변환 API 호출이 포함되어 있어 시간이 소요될 수 있습니다.
 
 ---
 
@@ -99,9 +101,16 @@ docker compose up -d --build
 poetry run pytest -q --disable-warnings --maxfail=1
 ```
 
-* `tests/test_inference.py` 에서 샘플 3건에 대해 최소 태그(`상위권대학교`, `리더쉽`, 등) 포함 여부 자동 검증
-* OpenAI 호출은 `pytest-mock` 또는 `respx` 로 Mocking 처리
+* `tests/test_inference.py` 에서 샘플 4개 케이스에 대해 아래 기준으로 태그 포함 여부를 검증합니다.
 
+| 케이스       | 최소 포함 태그                                                                                                                                    |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| `talent_ex1` | 상위권대학교, 성장기스타트업 경험, 리더쉽, 대용량데이터처리경험                                                                                        |
+| `talent_ex2` | 상위권대학교, 대규모 회사 경험, 리더쉽, IPO, M&A 경험                                                                                                 |
+| `talent_ex3` | 상위권대학교, 대규모 회사 경험, M&A 경험, 리더쉽, 신규 투자 유치 경험                                                                                 |
+| `talent_ex4` | 상위권대학교, 대규모 회사 경험, M&A 경험, 리더쉽, 신규 투자 유치 경험, 성장기스타트업 경험, 대용량데이터처리경험                                           |
+
+> 🎯 각 케이스별로 위에 제시된 태그가 모두 **포함**되어야 테스트가 성공합니다.
 ---
 
 ## 📦 CI/CD & 배포

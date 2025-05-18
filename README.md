@@ -35,6 +35,10 @@
 ├── tests/                    # 테스트 코드
 │   ├── conftest.py
 │   └── test_inference.py
+│   ├── real_response_ex1.json  # LLM 실제 응답 예시
+│   ├── real_response_ex2.json
+│   ├── real_response_ex3.json
+│   └── real_response_ex4.json
 ├── nginx/                    # Nginx 리버스 프록시 설정
 │   └── default.conf
 ├── Dockerfile                # API 서비스 이미지 정의

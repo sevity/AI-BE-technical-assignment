@@ -1,21 +1,29 @@
-# 1. 베이스 이미지
 FROM python:3.13-slim
 
-# 2. 작업 디렉토리
 WORKDIR /app
 
-# 3. 의존성 설치
+# 1) Install system dependencies
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# 2) Install Poetry and project dependencies
+RUN pip install --no-cache-dir poetry
 COPY pyproject.toml poetry.lock ./
-RUN pip install "poetry>=1.5" && \
-    poetry config virtualenvs.create false && \
-    poetry install --no-dev --no-interaction --no-ansi
+RUN poetry config virtualenvs.create false \
+    && poetry install --no-dev --no-interaction --no-ansi
 
-# 4. 소스 복사
-COPY . .
+# 3) Copy application code and scripts
+COPY app/ ./app
+COPY scripts/ ./scripts
+COPY example_datas/ ./example_datas
 
-# 5. 포트 노출
+# 4) Copy and set up entrypoint
+COPY entrypoint.sh ./
+RUN chmod +x entrypoint.sh
+
+# 5) Expose application port
 EXPOSE 9000
 
-# 6. 실행 커맨드
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "9000"]
-
+# 6) Default entrypoint to initialize DB, load data, embed docs, then start server
+ENTRYPOINT ["./entrypoint.sh"]

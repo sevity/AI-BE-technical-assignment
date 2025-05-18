@@ -96,12 +96,12 @@ docker compose up --build
 **B. API 호출 예시**
 
 ```bash
-curl -X POST http://localhost:8000/infer \
+curl -X POST http://localhost:9000/infer \
      -H "Content-Type: application/json" \
      -d @example_datas/talent_ex1.json | jq
 ```
 
-> 🚧 **주의**: 초기 임베딩 단계는 벡터 변환 API 호출이 포함되어 있어 시간이 소요될 수 있습니다.
+> 🚧 **주의**: 초기 임베딩 단계는 벡터 변환 API 호출이 포함되어 있어 시간이 소요될 수 있습니다. API호출은 새 터미널을 열어서 수행해주세요.
 
 ---
 
@@ -113,8 +113,9 @@ curl -X POST http://localhost:8000/infer \
 ---
 
 ## ✅ 단위 & 통합 테스트
-
+호스트머신에서 다음을 수행해주세요.
 ```bash
+poetry install --with dev
 poetry run pytest -q --disable-warnings --maxfail=1
 ```
 
@@ -130,14 +131,9 @@ poetry run pytest -q --disable-warnings --maxfail=1
 > 🎯 각 케이스별로 위에 제시된 태그가 모두 **포함**되어야 테스트가 성공합니다.
 ---
 
-## 📦 CI/CD & 배포
-
-* `.github/workflows/ci.yml` 에 **테스트** 및 **Docker 빌드** 설정 완료
-* `docker-compose.yml` 로 로컬 및 스테이징 배포 지원
-
----
-
 ## 🚧 TODO (향후 개선 사항)
 
 * **ORM 통합**: 현재 `psycopg` 직접 SQL을 사용 중인 `embed_docs.py`와 `vector_search.py`를 SQLAlchemy ORM 매핑으로 전환
+* CI/CD 배포 설정
+* pytest-cov 를 도입해 커버리지(coverage) 기준을 설정하고, 최소 80% 이상을 목표
 * **모니터링 & 로깅 개선**: Prometheus 메트릭, Grafana 대시보드 통합

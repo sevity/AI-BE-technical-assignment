@@ -97,7 +97,7 @@ docker compose up --build
   2. `example_datas/setup_company_data.py`, `example_datas/setup_company_news_data.py` → 예제 데이터 삽입
   3. `scripts/embed_docs.py` → 텍스트 → 임베딩 변환 후 `company_docs` 테이블에 삽입
   4. FastAPI 서버 기동 (`uvicorn app.main:app --host 0.0.0.0 --port 9000`)
-* Nginx를 통해 `http://localhost:8000`에서 API 호출 가능 (내부 API 서버: 9000 포트)
+* Nginx를 통해 `http://localhost:9000`에서 API 호출 가능 
 
 **B. API 호출 예시**
 

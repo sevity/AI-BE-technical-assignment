@@ -64,6 +64,19 @@ flowchart LR
 
 ---
 
+## 🔧 환경 변수 설정
+
+컨테이너가 실행되기 전에 루트에 `.env` 파일을 만들어주세요:
+
+```bash
+cat > .env <<EOF
+DATABASE_URL=postgresql://searchright:searchright@postgres:5432/searchright
+OPENAI_API_KEY=sk-<your_openai_api_key>
+EOF
+```
+
+---
+
 ## 🚀 초기 구동 방법
 
 **A. 전체 서비스 자동 구동**

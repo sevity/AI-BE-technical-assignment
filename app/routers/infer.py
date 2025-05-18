@@ -1,6 +1,6 @@
 # app/routers/infer.py
 
-from fastapi import APIRouter, Depends, HTTPException, Body
+from fastapi import APIRouter, Depends, HTTPException
 from app.schemas import DetailedTalentInput, TagResponse
 from app.services.inference import InferenceService
 from app.deps import get_openai_client, get_vector_search
@@ -49,23 +49,17 @@ router = APIRouter()
                 }
             }
         },
-        500: {
-            "description": "서버 내부 오류"
-        }
+        500: {"description": "서버 내부 오류"}
     },
 )
 def infer(
-    payload: DetailedTalentInput = Body(
-        ...,
-        example=DetailedTalentInput.Config.json_schema_extra["example"]
-    ),
+    payload: DetailedTalentInput,
     openai_client=Depends(get_openai_client),
     vsearch=Depends(get_vector_search),
 ):
     # positions 최소 1건 이상 검증
     if not payload.positions:
         raise HTTPException(status_code=400, detail="positions 리스트가 비어있습니다.")
-    # 서비스 호출
     try:
         svc = InferenceService(llm_client=openai_client, vector_search=vsearch)
         return svc.run(payload)

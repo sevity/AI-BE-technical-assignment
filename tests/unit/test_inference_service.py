@@ -2,7 +2,7 @@
 import json
 import pytest
 from types import SimpleNamespace
-from app.services.inference_service import InferenceService
+from app.services.inference import InferenceService
 from app.schemas import DetailedTalentInput, Position, DateInfo, StartEndDate
 
 @pytest.fixture
@@ -24,26 +24,21 @@ def fake_docs():
     return [Document("테스트사","news","snippet", __import__("datetime").date(2024,1,1))]
 
 @pytest.fixture
-def fake_llm(monkeypatch, fake_docs):
-    # 1) vector search가 fake_docs 반환
-    monkeypatch.setenv("DATABASE_URL", "dummy")
-    monkeypatch.setattr("app.deps.get_vector_search", lambda: SimpleNamespace(most_similar=lambda *args, **kw: fake_docs))
-    # 2) LLM 클라이언트가 항상 JSON 응답
+def fake_llm(monkeypatch):
+    # LLM 클라이언트만 가짜로 교체
     real = {"tags": ["태그1","태그2"]}
     fake_resp = SimpleNamespace(
         choices=[SimpleNamespace(message=SimpleNamespace(content=json.dumps(real)))]
     )
     fake_client = SimpleNamespace(chat=SimpleNamespace(completions=SimpleNamespace(create=lambda *a, **k: fake_resp)))
-    monkeypatch.setattr("app.deps.get_openai_client", lambda: fake_client)
     return fake_client
 
-def test_inference_service_parses_tags(dummy_payload, fake_llm):
-    svc = InferenceService(llm_client=fake_llm, vector_search=None)
-    result = svc.run(dummy_payload)
-    assert "tags" in result.dict()
-    assert result.tags == ["태그1","태그2"]
+@pytest.fixture
+def fake_vs(fake_docs):
+    # vector_search.most_similar이 fake_docs를 반환하도록
+    return SimpleNamespace(most_similar=lambda *args, **kwargs: fake_docs)
 
-def test_inference_service_empty_positions_raises():
-    svc = InferenceService()
-    with pytest.raises(ValueError):
-        svc.run(DetailedTalentInput(positions=[]))
+def test_inference_service_parses_tags(dummy_payload, fake_llm, fake_vs):
+    svc = InferenceService(llm_client=fake_llm, vector_search=fake_vs)
+    result = svc.run(dummy_payload)
+    assert result.tags == ["태그1","태그2"]

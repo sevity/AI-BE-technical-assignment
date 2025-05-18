@@ -1,6 +1,6 @@
 # tests/unit/test_utils.py
 import pytest
-from app.services.inference_service import normalize, map_service_to_company
+from app.services.inference import normalize, map_service_to_company
 
 def test_normalize_removes_special_chars():
     assert normalize("Hello, World!") == "hello world"

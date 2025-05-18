@@ -29,15 +29,17 @@
 │   ├── talent_ex2.json
 │   ├── talent_ex3.json
 │   └── talent_ex4.json
-├── scripts/                  # 벡터 임베딩 초기화 스크립트
-│   └── embed_docs.py
+├── scripts/                  # 초기화 및 임베딩 스크립트
+│   ├── init_db.py            # 스키마·인덱스 생성 스크립트
+│   └── embed_docs.py         # 벡터 임베딩 삽입 스크립트
 ├── tests/                    # 테스트 코드
 │   ├── conftest.py
 │   └── test_inference.py
 ├── nginx/                    # Nginx 리버스 프록시 설정
 │   └── default.conf
-├── Dockerfile
-├── docker-compose.yml
+├── Dockerfile                # API 서비스 이미지 정의
+├── entrypoint.sh             # 컨테이너 기동 시 자동 실행 스크립트
+├── docker-compose.yml        # 전체 서비스 오케스트레이션
 ├── pyproject.toml
 └── README.md                 # (이 파일)
 ```
@@ -48,98 +50,46 @@
 
 ```mermaid
 flowchart LR
-  A["Talent JSON"] --> B["FastAPI /infer 엔드포인트"]
-  B --> C["Vector Search"]
-  C --> |유사 문서 조회| D["Postgres (pgvector)"]
-  D --> |docs + embeddings| E["Inference Service"]
-  E --> |프롬프트 생성| F["OpenAI ChatCompletion"]
-  F --> |응답| G["TagResponse"]
-  G --> H["클라이언트 응답"]
-```
-
-## API 문서
-
-* Swagger UI: `http://localhost:9000/docs`
-* ReDoc:        `http://localhost:9000/redoc`
-
----
-
-## ⚙️ 환경 설정 & 의존성
-
-```bash
-# 1. Python 3.13 설치 (pyenv)
-pyenv install 3.13.0
-pyenv local 3.13.0
-
-# 2. Poetry 설치
-curl -sSL https://install.python-poetry.org | python -
-
-# 3. 프로젝트 의존성 설치
-poetry install
-
-# 4. 추가 패키지 (FastAPI, OpenAI, pgvector 등)
-poetry add fastapi uvicorn openai psycopg[binary] pgvector sqlalchemy pytest pytest-asyncio httpx pytest-mock respx
+  A["Talent JSON 입력"] --> B["FastAPI /infer 엔드포인트"]
+  B --> C["Vector Search (Postgres + pgvector)"]
+  C --> D["Inference Service (프롬프트 생성)"]
+  D --> E["OpenAI ChatCompletion 호출"]
+  E --> F["응답 파싱 → TagResponse 생성"]
+  F --> G["클라이언트 반환"]
 ```
 
 ---
 
-## 🐳 Docker Compose 기동
+## 🐳 Docker Compose 기동 (자동화)
 
 ```bash
 docker compose up -d --build
 ```
 
+1. **init_db.py 실행**
+   - `vector` 확장 설치
+   - `company`, `company_news`, `company_docs` 테이블 및 인덱스 생성
+2. **example_datas/setup_company_data.py**, `setup_company_news_data.py` 실행
+   - `company`, `company_news` 테이블에 예제 데이터 삽입
+3. **scripts/embed_docs.py 실행**
+   - `company_docs` 테이블에 텍스트 → 임베딩 변환 후 삽입
+4. **FastAPI 서버 시작**
+   - `uvicorn app.main:app --host 0.0.0.0 --port 9000`
+
+이제 `http://localhost:8000/infer` 로 바로 API를 호출해 보실 수 있습니다.
+
 * **Postgres**: pgvector 확장 포함
 * **API**: 9000 포트
 * **Nginx**: 8000 → API(9000) 프록시
 
----
-
-## 🗄️ 데이터베이스 초기화 & DDL
-
-```sql
--- 1) pgvector 확장 활성화
-CREATE EXTENSION IF NOT EXISTS vector;
-
--- 2) company_docs 테이블 생성
-CREATE TABLE company_docs (
-  id SERIAL PRIMARY KEY,
-  company_name TEXT,
-  doc_type TEXT,
-  content TEXT,
-  embedding VECTOR(1536)
-);
-
--- 3) 벡터 인덱스 생성
-CREATE INDEX idx_company_docs_embedding ON company_docs USING ivfflat (embedding vector_cosine_ops);
-```
+> **참고**: 초기 임베딩 수행 시 시간이 소요될 수 있습니다. 로컬 개발 중에는 `docker compose run api-service sh` 로 진입해 embed 단계만 건너뛰고 서버를 테스트할 수 있습니다.
 
 ---
 
-## 📊 예제 데이터 적재
+## API 문서
 
-```bash
-# 회사 및 뉴스 데이터 세팅
-poetry run python example_datas/setup_company_data.py
-poetry run python example_datas/setup_company_news_data.py
-```
-
----
-
-## 🚀 서버 실행 & API 테스트
-
-```bash
-# 서버 실행
-uvicorn app.main:app --host 0.0.0.0 --port 9000 --reload
-
-# 샘플 호출
-curl -X POST http://localhost:8000/infer \
-     -H "Content-Type: application/json" \
-     -d @example_datas/talent_ex1.json | jq
-```
-
-* Swagger UI: `http://localhost:8000/docs`
-* ReDoc:        `http://localhost:8000/redoc`
+* Swagger UI: `http://localhost:9000/docs`
+* ReDoc:        `http://localhost:9000/redoc`
 
 ---
 
@@ -164,9 +114,4 @@ poetry run pytest -q --disable-warnings --maxfail=1
 ## 🚧 TODO (향후 개선 사항)
 
 * **ORM 통합**: 현재 `psycopg` 직접 SQL을 사용 중인 `embed_docs.py`와 `vector_search.py`를 SQLAlchemy ORM 매핑으로 전환
-
-  * `app/models.py`에 `CompanyDoc` ORM 클래스 정의
-  * `app/db.py` 및 `app/deps.py`에 세션 및 의존성 주입 설정 추가
-  * CRUD 로직(`INSERT`, `SELECT`)을 ORM 방식으로 리팩토링
-* **모니터링 & 로깅 개선**: 리퀘스트별 처리 시간 측정, Prometheus 메트릭·Grafana 대시보드 통합
-
+* **모니터링 & 로깅 개선**: Prometheus 메트릭, Grafana 대시보드 통합

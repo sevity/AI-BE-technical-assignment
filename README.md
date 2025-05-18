@@ -111,7 +111,7 @@ curl -X POST http://localhost:9000/infer \
 
 ---
 
-## 🚀 API 문서
+## 📚 API 문서
 
 * Swagger UI: `http://localhost:9000/docs`
 * ReDoc:        `http://localhost:9000/redoc`
@@ -151,7 +151,7 @@ poetry run pytest -q --disable-warnings --maxfail=1
 | `talent_ex3` | 상위권대학교, 대규모 회사 경험, M&A 경험, 리더쉽, 신규 투자 유치 경험                                                                                 |
 | `talent_ex4` | 상위권대학교, 대규모 회사 경험, M&A 경험, 리더쉽, 신규 투자 유치 경험, 성장기스타트업 경험, 대용량데이터처리경험                                           |
 
-> 🎯 각 케이스별로 위에 제시된 태그가 모두 **포함**되어야 테스트가 성공합니다.
+> 각 케이스별로 위에 제시된 태그가 모두 **포함**되어야 테스트가 성공합니다.
 
 ---
 

@@ -16,10 +16,27 @@ class Position(BaseModel):
     startEndDate: StartEndDate = Field(..., description="재직 기간 정보")
 
 class DetailedTalentInput(BaseModel):
-    positions: List[Position]
+    positions: List[Position] = Field(..., min_items=1)
 
     class Config:
         extra = 'allow'     # skills, summary, firstName 등 기타 필드도 허용
+        schema_extra = {
+            "example": {
+                "positions": [
+                    {
+                        "title": "Tech Lead - Clova X",
+                        "companyName": "네이버",
+                        "startEndDate": {
+                            "start": {"year": 2019, "month": 2},
+                            "end": {"year": 2021, "month": 4}
+                        }
+                    }
+                ],
+                "skills": ["Java","Python"],  # extra=allow 덕분에 허용
+                "firstName": "Sample",
+                "lastName": "JunHo"
+            }
+        }
 
 class TagResponse(BaseModel):
     tags: List[str]

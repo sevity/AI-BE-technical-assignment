@@ -54,7 +54,7 @@ router = APIRouter()
         }
     },
 )
-async def infer(
+def infer(
     payload: DetailedTalentInput = Body(
         ...,
         example=DetailedTalentInput.Config.json_schema_extra["example"]
@@ -68,7 +68,7 @@ async def infer(
     # 서비스 호출
     try:
         svc = InferenceService(llm_client=openai_client, vector_search=vsearch)
-        return await svc.run(payload)
+        return svc.run(payload)
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
     except Exception:

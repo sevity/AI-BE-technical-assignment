@@ -14,7 +14,7 @@ router = APIRouter()
     request_body={
         "content": {
             "application/json": {
-                "example": DetailedTalentInput.Config.schema_extra["example"]
+                "example": DetailedTalentInput.Config.json_schema_extra["example"]
             }
         }
     },

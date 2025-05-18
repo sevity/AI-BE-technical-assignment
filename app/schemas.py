@@ -20,7 +20,7 @@ class DetailedTalentInput(BaseModel):
 
     class Config:
         extra = 'allow'     # skills, summary, firstName 등 기타 필드도 허용
-        schema_extra = {
+        json_schema_extra = {
             "example": {
                 "positions": [
                     {

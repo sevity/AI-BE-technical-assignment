@@ -36,11 +36,9 @@ COMPANY_TO_SERVICE_ALIASES = {
     # 필요 시 추가
 }
 
-
 def normalize(text: str) -> str:
     t = text.lower()
     return re.sub(r'[^a-z0-9ㄱ-힣]+', ' ', t).strip()
-
 
 def map_service_to_company(service_name: str) -> str:
     norm = normalize(service_name)
@@ -49,7 +47,6 @@ def map_service_to_company(service_name: str) -> str:
             if alias in norm:
                 return corp
     return service_name
-
 
 class InferenceService:
     def __init__(self, llm_client=None, vector_search=None):
@@ -161,15 +158,19 @@ class InferenceService:
         prompt = PROMPT_TEMPLATE
         prompt += example_section
         prompt += (
-            "지원자 이력서(JSON)：\n"
+            "지원자 이력서(JSON):\n"
             f"{json.dumps(payload.dict(), ensure_ascii=False)}\n\n"
-            "관련 회사 문서：\n"
+            "관련 회사 문서:\n"
         )
         for d in docs:
             snippet = d.content.replace("\n", " ")[:200]
-            prompt += f"- [{d.doc_type}] {d.company_name} ({d.published_at})： {snippet}...\n"
+            prompt += f"- [{d.doc_type}] {d.company_name} ({d.published_at}): {snippet}...\n"
+        prompt += (
+            "\n답변 형식(한국어 JSON):\n```json\n"
+            '{ "tags": ["태그1", "태그2", ...] }\n```'
+        )
 
-        # 5) ChatGPT 호출
+        # 5) LLM 호출 및 raw 응답 로깅
         resp = self.client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
@@ -177,14 +178,22 @@ class InferenceService:
         )
         raw = resp.choices[0].message.content
         logging.debug(f"[LLM RAW RESPONSE]\n{raw!r}")
+        content = raw.strip()
 
-        # 6) 코드펜스(````json ... ````) 제거 및 JSON 파싱
-        clean = re.sub(r"^```(?:json)?\s*|```$", "", raw, flags=re.MULTILINE)
-        clean = clean.strip()
+        # 6) 코드블록 제거
+        if content.startswith("```"):
+            lines = content.splitlines()
+            if lines[0].startswith("```"):
+                lines = lines[1:]
+            if lines and lines[-1].startswith("```"):
+                lines = lines[:-1]
+            content = "\n".join(lines).strip()
+
+        # 7) JSON 파싱 및 에러 로깅
         try:
-            parsed = json.loads(clean)
+            parsed = json.loads(content)
         except json.JSONDecodeError:
-            logging.error("[JSON PARSE ERROR] 응답 내용이 JSON이 아닙니다：\n%s", clean, exc_info=True)
+            logging.error("[JSON PARSE ERROR] 응답 내용이 JSON이 아닙니다:\n%s", content, exc_info=True)
             raise
 
         return TagResponse(tags=parsed.get("tags", []))

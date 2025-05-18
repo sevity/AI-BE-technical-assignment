@@ -33,8 +33,13 @@
 │   ├── init_db.py            # 스키마·인덱스 생성 스크립트
 │   └── embed_docs.py         # 벡터 임베딩 삽입 스크립트
 ├── tests/                    # 테스트 코드
-│   ├── conftest.py
+│   ├── unit/                 # **단위 테스트** 디렉터리
+│   │   ├── test_utils.py
+│   │   ├── test_vector_search.py
+│   │   ├── test_inference_service.py
+│   │   └── test_router.py
 │   └── test_inference.py
+│   └── conftest.py           
 │   ├── real_response_ex1.json  # LLM 실제 응답 예시
 │   ├── real_response_ex2.json
 │   ├── real_response_ex3.json
@@ -86,12 +91,13 @@ EOF
 docker compose up --build
 ```
 
-- 자동 실행 순서:
+* 자동 실행 순서:
+
   1. `scripts/init_db.py` → 스키마·인덱스 생성
   2. `example_datas/setup_company_data.py`, `example_datas/setup_company_news_data.py` → 예제 데이터 삽입
   3. `scripts/embed_docs.py` → 텍스트 → 임베딩 변환 후 `company_docs` 테이블에 삽입
   4. FastAPI 서버 기동 (`uvicorn app.main:app --host 0.0.0.0 --port 9000`)
-- Nginx를 통해 `http://localhost:8000`에서 API 호출 가능 (내부 API 서버: 9000 포트)
+* Nginx를 통해 `http://localhost:8000`에서 API 호출 가능 (내부 API 서버: 9000 포트)
 
 **B. API 호출 예시**
 
@@ -105,7 +111,7 @@ curl -X POST http://localhost:9000/infer \
 
 ---
 
-## API 문서
+## 🚀 API 문서
 
 * Swagger UI: `http://localhost:9000/docs`
 * ReDoc:        `http://localhost:9000/redoc`
@@ -113,6 +119,23 @@ curl -X POST http://localhost:9000/infer \
 ---
 
 ## ✅ 단위 & 통합 테스트
+
+### 1. 테스트 구조
+
+모듈별 단위 테스트(Unit Test)와 엔드포인트 레벨 통합 테스트(Integration Test)를 분리하여 관리합니다.
+
+```
+tests/
+├── unit/         # 핵심 로직 단위 테스트
+│   ├── test_utils.py
+│   ├── test_vector_search.py
+│   ├── test_inference_service.py
+│   └── test_router.py
+└── test_inference.py # integration test
+└── conftest.py   # 공용 픽스처 및 설정
+```
+
+### 2. 테스트 실행 방법
 호스트머신에서 다음을 수행해주세요.
 ```bash
 poetry install --with dev
@@ -129,6 +152,7 @@ poetry run pytest -q --disable-warnings --maxfail=1
 | `talent_ex4` | 상위권대학교, 대규모 회사 경험, M&A 경험, 리더쉽, 신규 투자 유치 경험, 성장기스타트업 경험, 대용량데이터처리경험                                           |
 
 > 🎯 각 케이스별로 위에 제시된 태그가 모두 **포함**되어야 테스트가 성공합니다.
+
 ---
 
 ## 🚧 TODO (향후 개선 사항)

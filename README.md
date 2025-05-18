@@ -131,14 +131,8 @@ poetry run pytest -q --disable-warnings --maxfail=1
 > 🎯 각 케이스별로 위에 제시된 태그가 모두 **포함**되어야 테스트가 성공합니다.
 ---
 
-## 📦 CI/CD & 배포
-
-* `.github/workflows/ci.yml` 에 **테스트** 및 **Docker 빌드** 설정 완료
-* `docker-compose.yml` 로 로컬 및 스테이징 배포 지원
-
----
-
 ## 🚧 TODO (향후 개선 사항)
 
 * **ORM 통합**: 현재 `psycopg` 직접 SQL을 사용 중인 `embed_docs.py`와 `vector_search.py`를 SQLAlchemy ORM 매핑으로 전환
+* CI/CD 배포 설정
 * **모니터링 & 로깅 개선**: Prometheus 메트릭, Grafana 대시보드 통합

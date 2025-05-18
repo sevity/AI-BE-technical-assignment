@@ -6,7 +6,7 @@ import logging
 
 import psycopg2
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
-
+from dotenv import load_dotenv
 
 logging.basicConfig(
     level=logging.INFO,
@@ -15,10 +15,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+load_dotenv()
+
 # 데이터베이스 연결 정보
 DB_CONFIG = {
-    "host": "localhost",
-    "port": 5432,
+    "host": os.getenv("POSTGRES_HOST", "postgres"),
     "user": os.getenv("POSTGRES_USER", "searchright"),
     "password": os.getenv("POSTGRES_PASSWORD", "searchright"),
     "database": os.getenv("POSTGRES_DB", "searchright"),

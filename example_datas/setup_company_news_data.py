@@ -3,6 +3,7 @@ import os
 import csv
 import logging
 from datetime import datetime
+from dotenv import load_dotenv
 
 import psycopg2
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
@@ -15,10 +16,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+load_dotenv()
+
 # 데이터베이스 연결 정보
 DB_CONFIG = {
-    "host": "localhost",
-    "port": 5432,
+    "host": os.getenv("POSTGRES_HOST", "postgres"),   # ← default를 'postgres'로    "port": 5432,
     "user": os.getenv("POSTGRES_USER", "searchright"),
     "password": os.getenv("POSTGRES_PASSWORD", "searchright"),
     "database": os.getenv("POSTGRES_DB", "searchright"),

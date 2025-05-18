@@ -83,7 +83,7 @@ EOF
 
 ```bash
 # Docker Compose로 전체 컨테이너 빌드 및 실행
-docker compose up -d --build
+docker compose up --build
 ```
 
 - 자동 실행 순서:

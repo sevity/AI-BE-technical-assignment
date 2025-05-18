@@ -99,7 +99,7 @@ docker compose up -d --build
 poetry run pytest -q --disable-warnings --maxfail=1
 ```
 
-* `tests/test_inference.py` 에서 샘플 3건에 대해 최소 태그(`상위권대학교`, `리더쉽`) 포함 여부 자동 검증
+* `tests/test_inference.py` 에서 샘플 3건에 대해 최소 태그(`상위권대학교`, `리더쉽`, 등) 포함 여부 자동 검증
 * OpenAI 호출은 `pytest-mock` 또는 `respx` 로 Mocking 처리
 
 ---

@@ -113,8 +113,9 @@ curl -X POST http://localhost:9000/infer \
 ---
 
 ## ✅ 단위 & 통합 테스트
-
+호스트머신에서 다음을 수행해주세요.
 ```bash
+poetry install --with dev
 poetry run pytest -q --disable-warnings --maxfail=1
 ```
 

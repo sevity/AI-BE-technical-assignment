@@ -1,6 +1,6 @@
 # app/routers/infer.py
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Body
 from app.schemas import DetailedTalentInput, TagResponse
 from app.services.inference import InferenceService
 from app.deps import get_openai_client, get_vector_search
@@ -10,17 +10,13 @@ router = APIRouter()
 @router.post(
     "/infer",
     response_model=TagResponse,
-    summary="지원자 경험·역량 태그 추론",
-    request_body={
-        "content": {
-            "application/json": {
-                "example": DetailedTalentInput.Config.json_schema_extra["example"]
-            }
-        }
-    },
+    summary="지원자 경험·역량 태그 추론"
 )
 async def infer(
-    payload: DetailedTalentInput,
+    payload: DetailedTalentInput = Body(
+        ...,
+        example=DetailedTalentInput.Config.json_schema_extra["example"]
+    ),
     openai_client=Depends(get_openai_client),
     vsearch=Depends(get_vector_search),
 ):

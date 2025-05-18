@@ -33,8 +33,8 @@ class DetailedTalentInput(BaseModel):
                     }
                 ],
                 "skills": ["Java","Python"],  # extra=allow 덕분에 허용
-                "firstName": "Sample",
-                "lastName": "JunHo"
+                "firstName": "Kim",
+                "lastName": "Chulsoo"
             }
         }
 

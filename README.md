@@ -101,7 +101,7 @@ curl -X POST http://localhost:9000/infer \
      -d @example_datas/talent_ex1.json | jq
 ```
 
-> 🚧 **주의**: 초기 임베딩 단계는 벡터 변환 API 호출이 포함되어 있어 시간이 소요될 수 있습니다.
+> 🚧 **주의**: 초기 임베딩 단계는 벡터 변환 API 호출이 포함되어 있어 시간이 소요될 수 있습니다. API호출은 새 터미널을 열어서 수행해주세요.
 
 ---
 

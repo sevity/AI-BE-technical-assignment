@@ -87,9 +87,11 @@ def create_company_news_table(conn):
         raise
 
 
-def load_news_data(file_path):
+def load_news_data(filename):
     """뉴스 데이터 CSV 파일 불러오기"""
     news_data = []
+    base_dir = os.path.dirname(__file__)
+    file_path = os.path.join(base_dir, filename)
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             reader = csv.DictReader(file)

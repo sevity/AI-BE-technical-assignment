@@ -96,7 +96,7 @@ docker compose up --build
 **B. API 호출 예시**
 
 ```bash
-curl -X POST http://localhost:8000/infer \
+curl -X POST http://localhost:9000/infer \
      -H "Content-Type: application/json" \
      -d @example_datas/talent_ex1.json | jq
 ```

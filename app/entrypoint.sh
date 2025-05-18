@@ -1,6 +1,13 @@
 #!/usr/bin/env sh
 set -e
 
+echo "▶️ Waiting for PostgreSQL to be ready..."
+until pg_isready -h "${POSTGRES_HOST:-postgres}" -p "${POSTGRES_PORT:-5432}" >/dev/null 2>&1; do
+  printf "."
+  sleep 1
+done
+echo "\n✅ PostgreSQL is up!"
+
 echo "▶️ Initializing database schema and indexes..."
 python scripts/init_db.py
 

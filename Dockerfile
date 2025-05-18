@@ -4,9 +4,10 @@ WORKDIR /app
 
 # 1) Install system dependencies
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends build-essential \
+    && apt-get install -y --no-install-recommends \
+        build-essential \
+        postgresql-client \
     && rm -rf /var/lib/apt/lists/*
-
 # 2) Install Poetry and project dependencies
 RUN pip install --no-cache-dir poetry
 COPY pyproject.toml poetry.lock ./

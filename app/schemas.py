@@ -16,8 +16,7 @@ class Position(BaseModel):
     startEndDate: StartEndDate = Field(..., description="재직 기간 정보")
 
 class DetailedTalentInput(BaseModel):
-    positions: List[Position] = Field(..., min_items=1)
-
+    positions: List[Position] = Field(...)
     class Config:
         extra = 'allow'     # skills, summary, firstName 등 기타 필드도 허용
         json_schema_extra = {

@@ -135,4 +135,5 @@ poetry run pytest -q --disable-warnings --maxfail=1
 
 * **ORM 통합**: 현재 `psycopg` 직접 SQL을 사용 중인 `embed_docs.py`와 `vector_search.py`를 SQLAlchemy ORM 매핑으로 전환
 * CI/CD 배포 설정
+* pytest-cov 를 도입해 커버리지(coverage) 기준을 설정하고, 최소 80% 이상을 목표
 * **모니터링 & 로깅 개선**: Prometheus 메트릭, Grafana 대시보드 통합
